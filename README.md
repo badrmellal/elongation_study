@@ -72,7 +72,7 @@ Operational notes, none of which can change a verdict:
 - **M0 token suppression.** M0's generation config lacks Whisper's default suppression of 88 non-speech tokens. This can
   change greedy output only where such a token would be emitted: 4 of M0's 12,309 conditions, all phase vocoder at k=6.
 
-Numbers: `results/amend4_results.json` and `results/ctc_mechanism.json`; `results/novelty_sweep_20260921.json` records the prior-work search.
+Numbers: `results/amend4_results.json` and `results/ctc_mechanism.json`.
 
 ## Disclosed deviation
 
