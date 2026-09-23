@@ -1,0 +1,21 @@
+{
+ "note": "written after the run (2026-09-22) from the workstation state it ran on; libri_eval.py wrote no metadata itself",
+ "recognisers": {
+  "facebook/wav2vec2-base-960h": [
+   "22aad52d435eb6dbaf354bdad9b0da84ce7d6156"
+  ],
+  "openai/whisper-base": [
+   "e37978b90ca9030d5170a5c07aadb050351a65bb"
+  ]
+ },
+ "manifest_sha256": "4b738f8205d1665f98e16a047af74efbc06377ed3a1790c1466e9308a5d10418",
+ "libri_eval_sha256": "a0eb192f70bc6b2ebaaa7d8e2678e6c8f921cd06ff4f99ee0cbff8d1e41966ed",
+ "rubberband": "4.0.0",
+ "torch": "2.11.0+cu128",
+ "cuda": "12.8",
+ "transformers": "5.16.1",
+ "librosa": "1.0.0",
+ "platform": "Windows-11-10.0.26200-SP0",
+ "device": "NVIDIA GeForce RTX 5080",
+ "normalisation": "lower-case, then regex [^a-z' ] -> space (removes punctuation AND digits), whitespace split"
+}

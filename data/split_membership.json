@@ -1,0 +1,1715 @@
+{
+ "everyayah_labels": [
+  "abdul_basit",
+  "abdullah_basfar",
+  "abdullah_matroud",
+  "abdulsamad",
+  "abdurrahmaan_as-sudais",
+  "abu_bakr_ash-shaatree",
+  "ahmed_ibn_ali_al_ajamy",
+  "ahmed_neana",
+  "akram_alalaqimy",
+  "alafasy",
+  "ali_hajjaj_alsuesy",
+  "aziz_alili",
+  "fares_abbad",
+  "ghamadi",
+  "hani_rifai",
+  "husary",
+  "karim_mansoori",
+  "khaalid_abdullaah_al-qahtaanee",
+  "khalefa_al_tunaiji",
+  "maher_al_muaiqly",
+  "mahmoud_ali_al_banna",
+  "menshawi",
+  "minshawi",
+  "mohammad_al_tablaway",
+  "muhammad_abdulkareem",
+  "muhammad_ayyoub",
+  "muhammad_jibreel",
+  "muhsin_al_qasim",
+  "mustafa_ismail",
+  "nasser_alqatami",
+  "parhizgar",
+  "sahl_yassin",
+  "salaah_abdulrahman_bukhatir",
+  "saood_ash-shuraym",
+  "yaser_salamah",
+  "yasser_ad-dussary"
+ ],
+ "reciter_rows_per_split": {
+  "abdul_basit": {
+   "test": 1211,
+   "train": 9356,
+   "validation": 1121
+  },
+  "abdullah_basfar": {
+   "test": 589,
+   "train": 4794,
+   "validation": 583
+  },
+  "abdullah_matroud": {
+   "test": 614,
+   "train": 4862,
+   "validation": 652
+  },
+  "abdulsamad": {
+   "test": 582,
+   "train": 4400,
+   "validation": 511
+  },
+  "abdurrahmaan_as-sudais": {
+   "test": 607,
+   "train": 4902,
+   "validation": 632
+  },
+  "abu_bakr_ash-shaatree": {
+   "test": 634,
+   "train": 4754,
+   "validation": 646
+  },
+  "ahmed_ibn_ali_al_ajamy": {
+   "test": 1788,
+   "train": 14418,
+   "validation": 1754
+  },
+  "ahmed_neana": {
+   "test": 598,
+   "train": 4872,
+   "validation": 621
+  },
+  "akram_alalaqimy": {
+   "test": 602,
+   "train": 4843,
+   "validation": 572
+  },
+  "alafasy": {
+   "test": 590,
+   "train": 4887,
+   "validation": 552
+  },
+  "ali_hajjaj_alsuesy": {
+   "test": 586,
+   "train": 4877,
+   "validation": 627
+  },
+  "aziz_alili": {
+   "test": 613,
+   "train": 4905,
+   "validation": 595
+  },
+  "fares_abbad": {
+   "test": 591,
+   "train": 4974,
+   "validation": 640
+  },
+  "ghamadi": {
+   "test": 608,
+   "train": 4863,
+   "validation": 610
+  },
+  "hani_rifai": {
+   "test": 559,
+   "train": 4931,
+   "validation": 572
+  },
+  "husary": {
+   "test": 1824,
+   "train": 13714,
+   "validation": 1768
+  },
+  "karim_mansoori": {
+   "test": 18,
+   "train": 128,
+   "validation": 13
+  },
+  "khaalid_abdullaah_al-qahtaanee": {
+   "test": 576,
+   "train": 4706,
+   "validation": 633
+  },
+  "khalefa_al_tunaiji": {
+   "test": 566,
+   "train": 4601,
+   "validation": 547
+  },
+  "maher_al_muaiqly": {
+   "test": 564,
+   "train": 4760,
+   "validation": 612
+  },
+  "mahmoud_ali_al_banna": {
+   "test": 604,
+   "train": 4758,
+   "validation": 571
+  },
+  "menshawi": {
+   "test": 527,
+   "train": 4439,
+   "validation": 562
+  },
+  "minshawi": {
+   "test": 536,
+   "train": 4912,
+   "validation": 571
+  },
+  "mohammad_al_tablaway": {
+   "test": 629,
+   "train": 4938,
+   "validation": 599
+  },
+  "muhammad_abdulkareem": {
+   "test": 604,
+   "train": 4762,
+   "validation": 582
+  },
+  "muhammad_ayyoub": {
+   "test": 624,
+   "train": 4707,
+   "validation": 602
+  },
+  "muhammad_jibreel": {
+   "test": 629,
+   "train": 4802,
+   "validation": 614
+  },
+  "muhsin_al_qasim": {
+   "test": 591,
+   "train": 5004,
+   "validation": 606
+  },
+  "mustafa_ismail": {
+   "test": 199,
+   "train": 1539,
+   "validation": 202
+  },
+  "nasser_alqatami": {
+   "test": 580,
+   "train": 4719,
+   "validation": 627
+  },
+  "parhizgar": {
+   "test": 583,
+   "train": 4734,
+   "validation": 619
+  },
+  "sahl_yassin": {
+   "test": 613,
+   "train": 4795,
+   "validation": 633
+  },
+  "salaah_abdulrahman_bukhatir": {
+   "test": 608,
+   "train": 4774,
+   "validation": 598
+  },
+  "saood_ash-shuraym": {
+   "test": 609,
+   "train": 4918,
+   "validation": 623
+  },
+  "yaser_salamah": {
+   "test": 589,
+   "train": 4701,
+   "validation": 605
+  },
+  "yasser_ad-dussary": {
+   "test": 628,
+   "train": 4736,
+   "validation": 599
+  }
+ },
+ "study": {
+  "AbdulBasit": {
+   "label": "abdul_basit",
+   "folder": "Abdul_Basit_Murattal_192kbps",
+   "role": "exploratory_rerun",
+   "n_files": 35,
+   "split_counts": {
+    "train": 18,
+    "test+train": 7,
+    "train+validation": 3,
+    "test+train+validation": 7
+   },
+   "per_verse": {
+    "1:1": [
+     "train"
+    ],
+    "1:2": [
+     "test",
+     "train"
+    ],
+    "1:3": [
+     "train"
+    ],
+    "1:5": [
+     "train"
+    ],
+    "36:2": [
+     "train"
+    ],
+    "36:4": [
+     "train"
+    ],
+    "36:5": [
+     "test",
+     "train"
+    ],
+    "36:42": [
+     "train",
+     "validation"
+    ],
+    "55:27": [
+     "train"
+    ],
+    "55:34": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:42": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:50": [
+     "train"
+    ],
+    "55:53": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:59": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:67": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:72": [
+     "train"
+    ],
+    "55:75": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:77": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "67:14": [
+     "train"
+    ],
+    "78:8": [
+     "train"
+    ],
+    "78:11": [
+     "train"
+    ],
+    "78:17": [
+     "test",
+     "train"
+    ],
+    "78:21": [
+     "train"
+    ],
+    "78:27": [
+     "test",
+     "train"
+    ],
+    "78:30": [
+     "train"
+    ],
+    "78:31": [
+     "train",
+     "validation"
+    ],
+    "78:33": [
+     "train"
+    ],
+    "87:16": [
+     "train"
+    ],
+    "87:17": [
+     "train",
+     "validation"
+    ],
+    "88:1": [
+     "test",
+     "train"
+    ],
+    "88:5": [
+     "train"
+    ],
+    "88:6": [
+     "train"
+    ],
+    "88:15": [
+     "train"
+    ],
+    "108:3": [
+     "test",
+     "train"
+    ],
+    "110:1": [
+     "test",
+     "train"
+    ]
+   },
+   "retained_k4_n": 35,
+   "retained_k4_split_counts": {
+    "test+train": 7,
+    "train": 18,
+    "train+validation": 3,
+    "test+train+validation": 7
+   }
+  },
+  "Husary": {
+   "label": "husary",
+   "folder": "Husary_64kbps",
+   "role": "exploratory_rerun",
+   "n_files": 39,
+   "split_counts": {
+    "train": 15,
+    "test+train": 8,
+    "train+validation": 12,
+    "test+train+validation": 4
+   },
+   "per_verse": {
+    "1:1": [
+     "train"
+    ],
+    "1:2": [
+     "train"
+    ],
+    "1:3": [
+     "train"
+    ],
+    "1:4": [
+     "test",
+     "train"
+    ],
+    "36:4": [
+     "test",
+     "train"
+    ],
+    "36:5": [
+     "train"
+    ],
+    "55:5": [
+     "test",
+     "train"
+    ],
+    "78:3": [
+     "train",
+     "validation"
+    ],
+    "78:7": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "78:11": [
+     "train"
+    ],
+    "78:22": [
+     "train"
+    ],
+    "87:17": [
+     "test",
+     "train"
+    ],
+    "88:3": [
+     "test",
+     "train"
+    ],
+    "88:5": [
+     "train",
+     "validation"
+    ],
+    "88:8": [
+     "train",
+     "validation"
+    ],
+    "88:9": [
+     "train",
+     "validation"
+    ],
+    "88:11": [
+     "test",
+     "train"
+    ],
+    "88:13": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "88:15": [
+     "train"
+    ],
+    "91:3": [
+     "train"
+    ],
+    "91:5": [
+     "train",
+     "validation"
+    ],
+    "91:6": [
+     "train",
+     "validation"
+    ],
+    "91:11": [
+     "train"
+    ],
+    "93:6": [
+     "train",
+     "validation"
+    ],
+    "98:3": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "99:3": [
+     "train",
+     "validation"
+    ],
+    "100:1": [
+     "train",
+     "validation"
+    ],
+    "100:10": [
+     "train"
+    ],
+    "101:2": [
+     "train",
+     "validation"
+    ],
+    "101:3": [
+     "train",
+     "validation"
+    ],
+    "101:11": [
+     "train"
+    ],
+    "102:1": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "102:2": [
+     "train"
+    ],
+    "107:6": [
+     "train"
+    ],
+    "107:7": [
+     "train"
+    ],
+    "111:4": [
+     "train",
+     "validation"
+    ],
+    "113:3": [
+     "train"
+    ],
+    "113:5": [
+     "test",
+     "train"
+    ],
+    "114:3": [
+     "test",
+     "train"
+    ]
+   },
+   "retained_k4_n": 39,
+   "retained_k4_split_counts": {
+    "train+validation": 12,
+    "train": 15,
+    "test+train+validation": 4,
+    "test+train": 8
+   }
+  },
+  "Minshawy": {
+   "label": "minshawi",
+   "folder": "Minshawy_Murattal_128kbps",
+   "role": "exploratory_rerun",
+   "n_files": 36,
+   "split_counts": {
+    "train": 23,
+    "test": 1,
+    "validation": 4,
+    "test+train+validation": 8
+   },
+   "per_verse": {
+    "1:1": [
+     "train"
+    ],
+    "1:2": [
+     "train"
+    ],
+    "1:3": [
+     "test"
+    ],
+    "1:5": [
+     "train"
+    ],
+    "36:2": [
+     "train"
+    ],
+    "36:4": [
+     "validation"
+    ],
+    "36:5": [
+     "train"
+    ],
+    "36:42": [
+     "train"
+    ],
+    "55:27": [
+     "train"
+    ],
+    "55:34": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:36": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:42": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:50": [
+     "train"
+    ],
+    "55:53": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:59": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:67": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:72": [
+     "train"
+    ],
+    "55:75": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "55:77": [
+     "test",
+     "train",
+     "validation"
+    ],
+    "67:14": [
+     "train"
+    ],
+    "78:8": [
+     "validation"
+    ],
+    "78:11": [
+     "train"
+    ],
+    "78:17": [
+     "train"
+    ],
+    "78:21": [
+     "train"
+    ],
+    "78:27": [
+     "train"
+    ],
+    "78:30": [
+     "train"
+    ],
+    "78:31": [
+     "train"
+    ],
+    "78:33": [
+     "validation"
+    ],
+    "87:16": [
+     "train"
+    ],
+    "87:17": [
+     "train"
+    ],
+    "88:1": [
+     "train"
+    ],
+    "88:5": [
+     "train"
+    ],
+    "88:6": [
+     "validation"
+    ],
+    "88:15": [
+     "train"
+    ],
+    "108:3": [
+     "train"
+    ],
+    "110:1": [
+     "train"
+    ]
+   },
+   "retained_k4_n": 36,
+   "retained_k4_split_counts": {
+    "train": 23,
+    "test": 1,
+    "validation": 4,
+    "test+train+validation": 8
+   }
+  },
+  "Alafasy": {
+   "label": "alafasy",
+   "folder": "Alafasy_128kbps",
+   "role": "confirmation",
+   "n_files": 60,
+   "split_counts": {
+    "train": 46,
+    "validation": 8,
+    "test": 6
+   },
+   "per_verse": {
+    "107:4": [
+     "train"
+    ],
+    "91:7": [
+     "train"
+    ],
+    "1:6": [
+     "validation"
+    ],
+    "36:5": [
+     "test"
+    ],
+    "104:6": [
+     "test"
+    ],
+    "113:1": [
+     "train"
+    ],
+    "78:18": [
+     "test"
+    ],
+    "88:5": [
+     "validation"
+    ],
+    "110:1": [
+     "train"
+    ],
+    "112:2": [
+     "train"
+    ],
+    "99:1": [
+     "train"
+    ],
+    "91:10": [
+     "validation"
+    ],
+    "100:7": [
+     "train"
+    ],
+    "93:11": [
+     "train"
+    ],
+    "99:5": [
+     "train"
+    ],
+    "108:2": [
+     "train"
+    ],
+    "93:4": [
+     "train"
+    ],
+    "104:2": [
+     "train"
+    ],
+    "113:2": [
+     "validation"
+    ],
+    "87:2": [
+     "train"
+    ],
+    "87:11": [
+     "train"
+    ],
+    "78:29": [
+     "train"
+    ],
+    "88:15": [
+     "validation"
+    ],
+    "91:5": [
+     "train"
+    ],
+    "78:7": [
+     "train"
+    ],
+    "91:6": [
+     "train"
+    ],
+    "97:3": [
+     "train"
+    ],
+    "36:17": [
+     "validation"
+    ],
+    "78:31": [
+     "train"
+    ],
+    "114:2": [
+     "train"
+    ],
+    "87:6": [
+     "train"
+    ],
+    "78:26": [
+     "train"
+    ],
+    "1:1": [
+     "train"
+    ],
+    "78:2": [
+     "train"
+    ],
+    "78:28": [
+     "train"
+    ],
+    "91:2": [
+     "validation"
+    ],
+    "87:12": [
+     "train"
+    ],
+    "98:2": [
+     "train"
+    ],
+    "88:10": [
+     "train"
+    ],
+    "97:5": [
+     "train"
+    ],
+    "87:5": [
+     "train"
+    ],
+    "107:3": [
+     "train"
+    ],
+    "87:14": [
+     "train"
+    ],
+    "87:13": [
+     "train"
+    ],
+    "1:3": [
+     "validation"
+    ],
+    "88:4": [
+     "train"
+    ],
+    "91:15": [
+     "train"
+    ],
+    "100:9": [
+     "train"
+    ],
+    "93:6": [
+     "train"
+    ],
+    "94:5": [
+     "test"
+    ],
+    "94:7": [
+     "train"
+    ],
+    "88:6": [
+     "train"
+    ],
+    "101:9": [
+     "test"
+    ],
+    "78:6": [
+     "train"
+    ],
+    "114:1": [
+     "train"
+    ],
+    "114:4": [
+     "train"
+    ],
+    "93:10": [
+     "train"
+    ],
+    "78:30": [
+     "test"
+    ],
+    "88:11": [
+     "train"
+    ],
+    "99:7": [
+     "train"
+    ]
+   },
+   "retained_k4_n": 42,
+   "retained_k4_split_counts": {
+    "train": 30,
+    "test": 5,
+    "validation": 7
+   }
+  },
+  "Sudais": {
+   "label": "abdurrahmaan_as-sudais",
+   "folder": "Abdurrahmaan_As-Sudais_192kbps",
+   "role": "confirmation",
+   "n_files": 60,
+   "split_counts": {
+    "train": 46,
+    "validation": 7,
+    "test": 7
+   },
+   "per_verse": {
+    "107:4": [
+     "train"
+    ],
+    "91:7": [
+     "train"
+    ],
+    "1:6": [
+     "train"
+    ],
+    "36:5": [
+     "train"
+    ],
+    "104:6": [
+     "train"
+    ],
+    "113:1": [
+     "train"
+    ],
+    "78:18": [
+     "train"
+    ],
+    "88:5": [
+     "train"
+    ],
+    "110:1": [
+     "train"
+    ],
+    "112:2": [
+     "train"
+    ],
+    "99:1": [
+     "validation"
+    ],
+    "91:10": [
+     "validation"
+    ],
+    "100:7": [
+     "train"
+    ],
+    "93:11": [
+     "validation"
+    ],
+    "99:5": [
+     "train"
+    ],
+    "108:2": [
+     "train"
+    ],
+    "93:4": [
+     "train"
+    ],
+    "104:2": [
+     "test"
+    ],
+    "113:2": [
+     "train"
+    ],
+    "87:2": [
+     "test"
+    ],
+    "87:11": [
+     "train"
+    ],
+    "78:29": [
+     "train"
+    ],
+    "88:15": [
+     "train"
+    ],
+    "91:5": [
+     "validation"
+    ],
+    "78:7": [
+     "train"
+    ],
+    "91:6": [
+     "train"
+    ],
+    "97:3": [
+     "test"
+    ],
+    "36:17": [
+     "train"
+    ],
+    "78:31": [
+     "train"
+    ],
+    "114:2": [
+     "validation"
+    ],
+    "87:6": [
+     "train"
+    ],
+    "78:26": [
+     "train"
+    ],
+    "1:1": [
+     "test"
+    ],
+    "78:2": [
+     "test"
+    ],
+    "78:28": [
+     "train"
+    ],
+    "91:2": [
+     "train"
+    ],
+    "87:12": [
+     "train"
+    ],
+    "98:2": [
+     "test"
+    ],
+    "88:10": [
+     "train"
+    ],
+    "97:5": [
+     "train"
+    ],
+    "87:5": [
+     "test"
+    ],
+    "107:3": [
+     "train"
+    ],
+    "87:14": [
+     "train"
+    ],
+    "87:13": [
+     "train"
+    ],
+    "1:3": [
+     "validation"
+    ],
+    "88:4": [
+     "validation"
+    ],
+    "91:15": [
+     "train"
+    ],
+    "100:9": [
+     "train"
+    ],
+    "93:6": [
+     "train"
+    ],
+    "94:5": [
+     "train"
+    ],
+    "94:7": [
+     "train"
+    ],
+    "88:6": [
+     "train"
+    ],
+    "101:9": [
+     "train"
+    ],
+    "78:6": [
+     "train"
+    ],
+    "114:1": [
+     "train"
+    ],
+    "114:4": [
+     "train"
+    ],
+    "93:10": [
+     "train"
+    ],
+    "78:30": [
+     "train"
+    ],
+    "88:11": [
+     "train"
+    ],
+    "99:7": [
+     "train"
+    ]
+   },
+   "retained_k4_n": 42,
+   "retained_k4_split_counts": {
+    "train": 34,
+    "test": 3,
+    "validation": 5
+   }
+  },
+  "Shuraym": {
+   "label": "saood_ash-shuraym",
+   "folder": "Saood_ash-Shuraym_128kbps",
+   "role": "confirmation",
+   "n_files": 60,
+   "split_counts": {
+    "train": 45,
+    "test": 9,
+    "validation": 5,
+    "not_found": 1
+   },
+   "per_verse": {
+    "107:4": [
+     "train"
+    ],
+    "91:7": [
+     "train"
+    ],
+    "1:6": [
+     "train"
+    ],
+    "36:5": [
+     "train"
+    ],
+    "104:6": [
+     "train"
+    ],
+    "113:1": [
+     "test"
+    ],
+    "78:18": [
+     "test"
+    ],
+    "88:5": [
+     "train"
+    ],
+    "110:1": [
+     "train"
+    ],
+    "112:2": [
+     "train"
+    ],
+    "99:1": [
+     "train"
+    ],
+    "91:10": [
+     "train"
+    ],
+    "100:7": [
+     "train"
+    ],
+    "93:11": [
+     "train"
+    ],
+    "99:5": [
+     "test"
+    ],
+    "108:2": [
+     "train"
+    ],
+    "93:4": [
+     "train"
+    ],
+    "104:2": [
+     "train"
+    ],
+    "113:2": [
+     "train"
+    ],
+    "87:2": [
+     "train"
+    ],
+    "87:11": [
+     "train"
+    ],
+    "78:29": [
+     "train"
+    ],
+    "88:15": [
+     "train"
+    ],
+    "91:5": [
+     "train"
+    ],
+    "78:7": [
+     "train"
+    ],
+    "91:6": [
+     "validation"
+    ],
+    "97:3": [
+     "validation"
+    ],
+    "36:17": [
+     "train"
+    ],
+    "78:31": [
+     "test"
+    ],
+    "114:2": [
+     "train"
+    ],
+    "87:6": [
+     "test"
+    ],
+    "78:26": [
+     "train"
+    ],
+    "1:1": [
+     "train"
+    ],
+    "78:2": [
+     "train"
+    ],
+    "78:28": [
+     "train"
+    ],
+    "91:2": [
+     "train"
+    ],
+    "87:12": [
+     "validation"
+    ],
+    "98:2": [
+     "train"
+    ],
+    "88:10": [
+     "train"
+    ],
+    "97:5": [
+     "train"
+    ],
+    "87:5": [
+     "train"
+    ],
+    "107:3": [
+     "train"
+    ],
+    "87:14": [
+     "train"
+    ],
+    "87:13": [
+     "test"
+    ],
+    "1:3": [
+     "train"
+    ],
+    "88:4": [
+     "validation"
+    ],
+    "91:15": [
+     "not_found"
+    ],
+    "100:9": [
+     "validation"
+    ],
+    "93:6": [
+     "train"
+    ],
+    "94:5": [
+     "train"
+    ],
+    "94:7": [
+     "train"
+    ],
+    "88:6": [
+     "test"
+    ],
+    "101:9": [
+     "test"
+    ],
+    "78:6": [
+     "train"
+    ],
+    "114:1": [
+     "train"
+    ],
+    "114:4": [
+     "train"
+    ],
+    "93:10": [
+     "train"
+    ],
+    "78:30": [
+     "test"
+    ],
+    "88:11": [
+     "train"
+    ],
+    "99:7": [
+     "train"
+    ]
+   },
+   "retained_k4_n": 42,
+   "retained_k4_split_counts": {
+    "train": 31,
+    "validation": 4,
+    "test": 6,
+    "not_found": 1
+   }
+  },
+  "Dussary": {
+   "label": "yasser_ad-dussary",
+   "folder": "Yasser_Ad-Dussary_128kbps",
+   "role": "confirmation",
+   "n_files": 60,
+   "split_counts": {
+    "train": 51,
+    "validation": 5,
+    "test": 4
+   },
+   "per_verse": {
+    "107:4": [
+     "train"
+    ],
+    "91:7": [
+     "train"
+    ],
+    "1:6": [
+     "validation"
+    ],
+    "36:5": [
+     "train"
+    ],
+    "104:6": [
+     "train"
+    ],
+    "113:1": [
+     "train"
+    ],
+    "78:18": [
+     "train"
+    ],
+    "88:5": [
+     "train"
+    ],
+    "110:1": [
+     "train"
+    ],
+    "112:2": [
+     "train"
+    ],
+    "99:1": [
+     "train"
+    ],
+    "91:10": [
+     "train"
+    ],
+    "100:7": [
+     "validation"
+    ],
+    "93:11": [
+     "train"
+    ],
+    "99:5": [
+     "test"
+    ],
+    "108:2": [
+     "train"
+    ],
+    "93:4": [
+     "train"
+    ],
+    "104:2": [
+     "train"
+    ],
+    "113:2": [
+     "train"
+    ],
+    "87:2": [
+     "train"
+    ],
+    "87:11": [
+     "train"
+    ],
+    "78:29": [
+     "train"
+    ],
+    "88:15": [
+     "test"
+    ],
+    "91:5": [
+     "train"
+    ],
+    "78:7": [
+     "test"
+    ],
+    "91:6": [
+     "train"
+    ],
+    "97:3": [
+     "train"
+    ],
+    "36:17": [
+     "train"
+    ],
+    "78:31": [
+     "train"
+    ],
+    "114:2": [
+     "train"
+    ],
+    "87:6": [
+     "test"
+    ],
+    "78:26": [
+     "train"
+    ],
+    "1:1": [
+     "validation"
+    ],
+    "78:2": [
+     "train"
+    ],
+    "78:28": [
+     "train"
+    ],
+    "91:2": [
+     "train"
+    ],
+    "87:12": [
+     "validation"
+    ],
+    "98:2": [
+     "train"
+    ],
+    "88:10": [
+     "train"
+    ],
+    "97:5": [
+     "train"
+    ],
+    "87:5": [
+     "train"
+    ],
+    "107:3": [
+     "train"
+    ],
+    "87:14": [
+     "train"
+    ],
+    "87:13": [
+     "train"
+    ],
+    "1:3": [
+     "train"
+    ],
+    "88:4": [
+     "train"
+    ],
+    "91:15": [
+     "train"
+    ],
+    "100:9": [
+     "train"
+    ],
+    "93:6": [
+     "train"
+    ],
+    "94:5": [
+     "train"
+    ],
+    "94:7": [
+     "train"
+    ],
+    "88:6": [
+     "train"
+    ],
+    "101:9": [
+     "train"
+    ],
+    "78:6": [
+     "train"
+    ],
+    "114:1": [
+     "train"
+    ],
+    "114:4": [
+     "validation"
+    ],
+    "93:10": [
+     "train"
+    ],
+    "78:30": [
+     "train"
+    ],
+    "88:11": [
+     "train"
+    ],
+    "99:7": [
+     "train"
+    ]
+   },
+   "retained_k4_n": 42,
+   "retained_k4_split_counts": {
+    "validation": 5,
+    "train": 35,
+    "test": 2
+   }
+  },
+  "Rifai": {
+   "label": "hani_rifai",
+   "folder": "Hani_Rifai_192kbps",
+   "role": "confirmation",
+   "n_files": 60,
+   "split_counts": {
+    "validation": 4,
+    "train": 49,
+    "test": 6,
+    "train+validation": 1
+   },
+   "per_verse": {
+    "107:4": [
+     "validation"
+    ],
+    "91:7": [
+     "train"
+    ],
+    "1:6": [
+     "train"
+    ],
+    "36:5": [
+     "train"
+    ],
+    "104:6": [
+     "train"
+    ],
+    "113:1": [
+     "train"
+    ],
+    "78:18": [
+     "train"
+    ],
+    "88:5": [
+     "train"
+    ],
+    "110:1": [
+     "test"
+    ],
+    "112:2": [
+     "train"
+    ],
+    "99:1": [
+     "validation"
+    ],
+    "91:10": [
+     "train"
+    ],
+    "100:7": [
+     "train"
+    ],
+    "93:11": [
+     "train"
+    ],
+    "99:5": [
+     "train"
+    ],
+    "108:2": [
+     "train"
+    ],
+    "93:4": [
+     "train"
+    ],
+    "104:2": [
+     "train"
+    ],
+    "113:2": [
+     "train"
+    ],
+    "87:2": [
+     "train"
+    ],
+    "87:11": [
+     "train"
+    ],
+    "78:29": [
+     "train"
+    ],
+    "88:15": [
+     "test"
+    ],
+    "91:5": [
+     "train"
+    ],
+    "78:7": [
+     "train"
+    ],
+    "91:6": [
+     "train"
+    ],
+    "97:3": [
+     "validation"
+    ],
+    "36:17": [
+     "train"
+    ],
+    "78:31": [
+     "train"
+    ],
+    "114:2": [
+     "test"
+    ],
+    "87:6": [
+     "test"
+    ],
+    "78:26": [
+     "train"
+    ],
+    "1:1": [
+     "train"
+    ],
+    "78:2": [
+     "train"
+    ],
+    "78:28": [
+     "train"
+    ],
+    "91:2": [
+     "train"
+    ],
+    "87:12": [
+     "train"
+    ],
+    "98:2": [
+     "train"
+    ],
+    "88:10": [
+     "train",
+     "validation"
+    ],
+    "97:5": [
+     "train"
+    ],
+    "87:5": [
+     "train"
+    ],
+    "107:3": [
+     "train"
+    ],
+    "87:14": [
+     "train"
+    ],
+    "87:13": [
+     "train"
+    ],
+    "1:3": [
+     "test"
+    ],
+    "88:4": [
+     "train"
+    ],
+    "91:15": [
+     "train"
+    ],
+    "100:9": [
+     "train"
+    ],
+    "93:6": [
+     "train"
+    ],
+    "94:5": [
+     "train"
+    ],
+    "94:7": [
+     "train"
+    ],
+    "88:6": [
+     "train"
+    ],
+    "101:9": [
+     "train"
+    ],
+    "78:6": [
+     "train"
+    ],
+    "114:1": [
+     "train"
+    ],
+    "114:4": [
+     "train"
+    ],
+    "93:10": [
+     "test"
+    ],
+    "78:30": [
+     "train"
+    ],
+    "88:11": [
+     "train"
+    ],
+    "99:7": [
+     "validation"
+    ]
+   },
+   "retained_k4_n": 42,
+   "retained_k4_split_counts": {
+    "train": 36,
+    "test": 4,
+    "train+validation": 1,
+    "validation": 1
+   }
+  }
+ },
+ "remedy": {
+  "fit/Alafasy": {
+   "train": 23,
+   "validation": 4,
+   "test": 3,
+   "train+validation": 2
+  },
+  "fit/Shuraym": {
+   "train": 28,
+   "validation": 4
+  },
+  "fit/Sudais": {
+   "train": 26,
+   "test": 3,
+   "validation": 3
+  },
+  "dev/Rifai": {
+   "train": 13,
+   "test": 2,
+   "validation": 1
+  },
+  "test/AlNufais": {
+   "not_in_everyayah_hf": 168
+  },
+  "test/Dussary": {
+   "train": 12,
+   "validation": 2,
+   "test": 2
+  }
+ }
+}

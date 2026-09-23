@@ -1,0 +1,17 @@
+{
+ "device": "cuda",
+ "whisper_weights_dir": "C:\\phon\\runs\\wb_M2\\best",
+ "sha256": {
+  "added_tokens.json": "5687ef031827f4c9fa3e7cbdd7fd915de0d6c7c6416463a28c63cbe1cf99a07a",
+  "config.json": "7d4cf9f1de7257fc2fca1d4850d33bb301cc9753a88039ca2d9ab73fdd6da4da",
+  "generation_config.json": "16289507ff800f678060392bd9968a0c61bbfebdecbeb0d0b19c2cfe8704443b",
+  "merges.txt": "78f27f801feb4283ae969d4cadacb28fc051b655647402b1a252c7079ea11c46",
+  "model.safetensors": "e6992fe1fb7d6f5f017316a8921346e42696ccd2d3dc3975bea8e1b04711ac00",
+  "normalizer.json": "bf1c507dc8724ca9cf9903640dacfb69dae2f00edee4f21ceba106a7392f26dd",
+  "preprocessor_config.json": "9b5cd03a36fbb8a627c64d98a5b5b126ead95a77720723944487311f0110b666",
+  "special_tokens_map.json": "87870d95726faac1641b583cbbb6d8a0c22deab726bcaeac9bb06c350bc638b1",
+  "tokenizer_config.json": "70e1ec9195ccd4baebf920c7e9f8cdd90f37a2b8aebcf305095c2dff074d1260",
+  "vocab.json": "e2aa043ef015641d363d8288e7c241c85e36a5c761fb303598e0710233344387"
+ },
+ "note": "metadata whisper_revision is a path label only; weights are from whisper_weights_dir"
+}

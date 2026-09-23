@@ -1,0 +1,1370 @@
+{
+ "revision": "6ea510862d64f59e555a4a8363eebc0f415621df",
+ "last_modified": "2026-09-17 16:33:10+00:00",
+ "files": {
+  "data/test-00000-of-00013-18d88ded65aa7b53.parquet": {
+   "size": 1428392591,
+   "rows": 1806,
+   "reciters": {
+    "abdulsamad": 582,
+    "abdul_basit": 1211,
+    "abdullah_basfar": 13
+   },
+   "usable_rows": 332
+  },
+  "data/test-00001-of-00013-bcc921915a4a15f3.parquet": {
+   "size": 825838076,
+   "rows": 1806,
+   "reciters": {
+    "abdullah_basfar": 576,
+    "abdullah_matroud": 614,
+    "abdurrahmaan_as-sudais": 607,
+    "abu_bakr_ash-shaatree": 9
+   },
+   "usable_rows": 1058
+  },
+  "data/test-00002-of-00013-b4218deff2d7f268.parquet": {
+   "size": 874434804,
+   "rows": 1806,
+   "reciters": {
+    "abu_bakr_ash-shaatree": 625,
+    "ahmed_neana": 598,
+    "ahmed_ibn_ali_al_ajamy": 583
+   },
+   "usable_rows": 1625
+  },
+  "data/test-00003-of-00013-eb1ac68e070a388e.parquet": {
+   "size": 872634516,
+   "rows": 1806,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 586,
+    "akram_alalaqimy": 602,
+    "alafasy": 590,
+    "ali_hajjaj_alsuesy": 28
+   },
+   "usable_rows": 564
+  },
+  "data/test-00004-of-00013-1e7bb5cb0e56549a.parquet": {
+   "size": 826978494,
+   "rows": 1806,
+   "reciters": {
+    "ali_hajjaj_alsuesy": 558,
+    "fares_abbad": 591,
+    "ghamadi": 608,
+    "hani_rifai": 49
+   },
+   "usable_rows": 1615
+  },
+  "data/test-00005-of-00013-4e0f03a48e0aaac5.parquet": {
+   "size": 1353943272,
+   "rows": 1806,
+   "reciters": {
+    "hani_rifai": 510,
+    "husary": 1296
+   },
+   "usable_rows": 0
+  },
+  "data/test-00006-of-00013-fad04ec308138364.parquet": {
+   "size": 920002665,
+   "rows": 1806,
+   "reciters": {
+    "husary": 528,
+    "karim_mansoori": 18,
+    "khaalid_abdullaah_al-qahtaanee": 576,
+    "maher_al_muaiqly": 564,
+    "menshawi": 120
+   },
+   "usable_rows": 1097
+  },
+  "data/test-00007-of-00013-9af7597d0a90a401.parquet": {
+   "size": 856729611,
+   "rows": 1806,
+   "reciters": {
+    "menshawi": 407,
+    "minshawi": 536,
+    "mohammad_al_tablaway": 629,
+    "muhammad_abdulkareem": 234
+   },
+   "usable_rows": 781
+  },
+  "data/test-00008-of-00013-9eaed5fb5fe455b0.parquet": {
+   "size": 809262344,
+   "rows": 1805,
+   "reciters": {
+    "muhammad_abdulkareem": 370,
+    "muhammad_ayyoub": 624,
+    "muhammad_jibreel": 629,
+    "muhsin_al_qasim": 182
+   },
+   "usable_rows": 1495
+  },
+  "data/test-00009-of-00013-cbe112f39e947006.parquet": {
+   "size": 736367463,
+   "rows": 1805,
+   "reciters": {
+    "muhsin_al_qasim": 409,
+    "mustafa_ismail": 199,
+    "nasser_alqatami": 580,
+    "parhizgar": 583,
+    "sahl_yassin": 34
+   },
+   "usable_rows": 1242
+  },
+  "data/test-00010-of-00013-caa23c37d46026bb.parquet": {
+   "size": 676426968,
+   "rows": 1805,
+   "reciters": {
+    "sahl_yassin": 579,
+    "salaah_abdulrahman_bukhatir": 608,
+    "saood_ash-shuraym": 609,
+    "yaser_salamah": 9
+   },
+   "usable_rows": 589
+  },
+  "data/test-00011-of-00013-1a285a00e6fda5f7.parquet": {
+   "size": 793836562,
+   "rows": 1805,
+   "reciters": {
+    "yaser_salamah": 580,
+    "yasser_ad-dussary": 628,
+    "ahmed_ibn_ali_al_ajamy": 597
+   },
+   "usable_rows": 1097
+  },
+  "data/test-00012-of-00013-9550ff55e5f66569.parquet": {
+   "size": 800306508,
+   "rows": 1805,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 22,
+    "aziz_alili": 613,
+    "khalefa_al_tunaiji": 566,
+    "mahmoud_ali_al_banna": 604
+   },
+   "usable_rows": 1675
+  },
+  "data/train-00000-of-00132-5f576ecc6b9cc4e3.parquet": {
+   "size": 1744212817,
+   "rows": 1423,
+   "reciters": {
+    "abdulsamad": 1423
+   },
+   "usable_rows": 471
+  },
+  "data/train-00001-of-00132-1efd575d27eae362.parquet": {
+   "size": 1202894965,
+   "rows": 1423,
+   "reciters": {
+    "abdulsamad": 1423
+   },
+   "usable_rows": 896
+  },
+  "data/train-00002-of-00132-1fe19dfaeff1e438.parquet": {
+   "size": 921254232,
+   "rows": 1423,
+   "reciters": {
+    "abdulsamad": 1423
+   },
+   "usable_rows": 1126
+  },
+  "data/train-00003-of-00132-04dae05c9eddee83.parquet": {
+   "size": 1669302384,
+   "rows": 1423,
+   "reciters": {
+    "abdulsamad": 131,
+    "abdul_basit": 1292
+   },
+   "usable_rows": 128
+  },
+  "data/train-00004-of-00132-b12fae9d9ff0e666.parquet": {
+   "size": 1267666429,
+   "rows": 1423,
+   "reciters": {
+    "abdul_basit": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00005-of-00132-a9ed73fbe9a97f09.parquet": {
+   "size": 987974416,
+   "rows": 1423,
+   "reciters": {
+    "abdul_basit": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00006-of-00132-b1c2d74f4ab01280.parquet": {
+   "size": 990138367,
+   "rows": 1423,
+   "reciters": {
+    "abdul_basit": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00007-of-00132-70d7a8739433bea3.parquet": {
+   "size": 721355962,
+   "rows": 1423,
+   "reciters": {
+    "abdul_basit": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00008-of-00132-e43ee59cca4e3d71.parquet": {
+   "size": 652801282,
+   "rows": 1423,
+   "reciters": {
+    "abdul_basit": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00009-of-00132-c19bf54066f19604.parquet": {
+   "size": 688501791,
+   "rows": 1423,
+   "reciters": {
+    "abdul_basit": 949,
+    "abdullah_basfar": 474
+   },
+   "usable_rows": 327
+  },
+  "data/train-00010-of-00132-67a2ee44f4b0bac2.parquet": {
+   "size": 928294036,
+   "rows": 1423,
+   "reciters": {
+    "abdullah_basfar": 1423
+   },
+   "usable_rows": 1147
+  },
+  "data/train-00011-of-00132-fa3800cc7ff1872f.parquet": {
+   "size": 687716248,
+   "rows": 1423,
+   "reciters": {
+    "abdullah_basfar": 1423
+   },
+   "usable_rows": 1301
+  },
+  "data/train-00012-of-00132-ff3b3a718fd352fc.parquet": {
+   "size": 450793742,
+   "rows": 1423,
+   "reciters": {
+    "abdullah_basfar": 1423
+   },
+   "usable_rows": 1373
+  },
+  "data/train-00013-of-00132-2b7daaf9d3dc3677.parquet": {
+   "size": 1015480838,
+   "rows": 1423,
+   "reciters": {
+    "abdullah_basfar": 51,
+    "abdullah_matroud": 1372
+   },
+   "usable_rows": 1105
+  },
+  "data/train-00014-of-00132-78ca400ce4f64574.parquet": {
+   "size": 678194895,
+   "rows": 1423,
+   "reciters": {
+    "abdullah_matroud": 1423
+   },
+   "usable_rows": 1334
+  },
+  "data/train-00015-of-00132-4cf10a64e66c2698.parquet": {
+   "size": 582281887,
+   "rows": 1423,
+   "reciters": {
+    "abdullah_matroud": 1423
+   },
+   "usable_rows": 1331
+  },
+  "data/train-00016-of-00132-c7b7c8f102917851.parquet": {
+   "size": 576717656,
+   "rows": 1423,
+   "reciters": {
+    "abdullah_matroud": 644,
+    "abdurrahmaan_as-sudais": 779
+   },
+   "usable_rows": 642
+  },
+  "data/train-00017-of-00132-daf1d004c24a9ba0.parquet": {
+   "size": 591842835,
+   "rows": 1423,
+   "reciters": {
+    "abdurrahmaan_as-sudais": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00018-of-00132-c3d71b5591fc8ba8.parquet": {
+   "size": 512380950,
+   "rows": 1423,
+   "reciters": {
+    "abdurrahmaan_as-sudais": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00019-of-00132-fd6b73bfdb5bcfca.parquet": {
+   "size": 367701255,
+   "rows": 1423,
+   "reciters": {
+    "abdurrahmaan_as-sudais": 1277,
+    "abu_bakr_ash-shaatree": 146
+   },
+   "usable_rows": 128
+  },
+  "data/train-00020-of-00132-5bccdd2c076abbc9.parquet": {
+   "size": 883809609,
+   "rows": 1423,
+   "reciters": {
+    "abu_bakr_ash-shaatree": 1423
+   },
+   "usable_rows": 1202
+  },
+  "data/train-00021-of-00132-283668039bf07a0b.parquet": {
+   "size": 594866854,
+   "rows": 1423,
+   "reciters": {
+    "abu_bakr_ash-shaatree": 1423
+   },
+   "usable_rows": 1357
+  },
+  "data/train-00022-of-00132-159ff67b859d869a.parquet": {
+   "size": 474994547,
+   "rows": 1423,
+   "reciters": {
+    "abu_bakr_ash-shaatree": 1423
+   },
+   "usable_rows": 1362
+  },
+  "data/train-00023-of-00132-9ce5a55fe980380a.parquet": {
+   "size": 927154043,
+   "rows": 1423,
+   "reciters": {
+    "abu_bakr_ash-shaatree": 339,
+    "ahmed_neana": 1084
+   },
+   "usable_rows": 1106
+  },
+  "data/train-00024-of-00132-53df69b084229791.parquet": {
+   "size": 763636895,
+   "rows": 1423,
+   "reciters": {
+    "ahmed_neana": 1423
+   },
+   "usable_rows": 1279
+  },
+  "data/train-00025-of-00132-28329e8594671cb5.parquet": {
+   "size": 709054662,
+   "rows": 1423,
+   "reciters": {
+    "ahmed_neana": 1423
+   },
+   "usable_rows": 1289
+  },
+  "data/train-00026-of-00132-ec1819427cdb0768.parquet": {
+   "size": 606705914,
+   "rows": 1423,
+   "reciters": {
+    "ahmed_neana": 942,
+    "ahmed_ibn_ali_al_ajamy": 481
+   },
+   "usable_rows": 1266
+  },
+  "data/train-00027-of-00132-e68c388ae7ef1772.parquet": {
+   "size": 778559204,
+   "rows": 1423,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 1423
+   },
+   "usable_rows": 1245
+  },
+  "data/train-00028-of-00132-0ebc8598928a18c9.parquet": {
+   "size": 635418556,
+   "rows": 1423,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 1423
+   },
+   "usable_rows": 1316
+  },
+  "data/train-00029-of-00132-9359e7941bd25c8e.parquet": {
+   "size": 408403902,
+   "rows": 1423,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 1423
+   },
+   "usable_rows": 1373
+  },
+  "data/train-00030-of-00132-e0731e0f8869427b.parquet": {
+   "size": 869280632,
+   "rows": 1423,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 1423
+   },
+   "usable_rows": 1217
+  },
+  "data/train-00031-of-00132-1f15ca6c78239802.parquet": {
+   "size": 627318164,
+   "rows": 1423,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 1423
+   },
+   "usable_rows": 1357
+  },
+  "data/train-00032-of-00132-07d0b7bd948ac6d2.parquet": {
+   "size": 554605502,
+   "rows": 1423,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 1423
+   },
+   "usable_rows": 1344
+  },
+  "data/train-00033-of-00132-0b8d0dd8017ececf.parquet": {
+   "size": 738871370,
+   "rows": 1423,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 590,
+    "akram_alalaqimy": 833
+   },
+   "usable_rows": 589
+  },
+  "data/train-00034-of-00132-24d034cddb00f88a.parquet": {
+   "size": 753370847,
+   "rows": 1423,
+   "reciters": {
+    "akram_alalaqimy": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00035-of-00132-ea221e65c9930d0e.parquet": {
+   "size": 617200553,
+   "rows": 1423,
+   "reciters": {
+    "akram_alalaqimy": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00036-of-00132-01a23f54540f6e8d.parquet": {
+   "size": 516543090,
+   "rows": 1423,
+   "reciters": {
+    "akram_alalaqimy": 1164,
+    "alafasy": 259
+   },
+   "usable_rows": 0
+  },
+  "data/train-00037-of-00132-cb1631efc656e9e0.parquet": {
+   "size": 1009078260,
+   "rows": 1423,
+   "reciters": {
+    "alafasy": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00038-of-00132-35fac962de48cf19.parquet": {
+   "size": 676500705,
+   "rows": 1423,
+   "reciters": {
+    "alafasy": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00039-of-00132-e0ef969055749058.parquet": {
+   "size": 585823708,
+   "rows": 1423,
+   "reciters": {
+    "alafasy": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00040-of-00132-5b7a21aba2a04ca4.parquet": {
+   "size": 960107232,
+   "rows": 1423,
+   "reciters": {
+    "alafasy": 359,
+    "ali_hajjaj_alsuesy": 1064
+   },
+   "usable_rows": 716
+  },
+  "data/train-00041-of-00132-1cb9eb7441eaa671.parquet": {
+   "size": 783184368,
+   "rows": 1423,
+   "reciters": {
+    "ali_hajjaj_alsuesy": 1423
+   },
+   "usable_rows": 1263
+  },
+  "data/train-00042-of-00132-09754522cdc775b4.parquet": {
+   "size": 691245980,
+   "rows": 1423,
+   "reciters": {
+    "ali_hajjaj_alsuesy": 1423
+   },
+   "usable_rows": 1292
+  },
+  "data/train-00043-of-00132-08545d4697514a2e.parquet": {
+   "size": 589020396,
+   "rows": 1423,
+   "reciters": {
+    "ali_hajjaj_alsuesy": 967,
+    "fares_abbad": 456
+   },
+   "usable_rows": 1293
+  },
+  "data/train-00044-of-00132-931ecea7f461f971.parquet": {
+   "size": 767028242,
+   "rows": 1423,
+   "reciters": {
+    "fares_abbad": 1423
+   },
+   "usable_rows": 1290
+  },
+  "data/train-00045-of-00132-c18be4ef751fd4f0.parquet": {
+   "size": 580326085,
+   "rows": 1423,
+   "reciters": {
+    "fares_abbad": 1423
+   },
+   "usable_rows": 1372
+  },
+  "data/train-00046-of-00132-437522a6bed0efe5.parquet": {
+   "size": 419986691,
+   "rows": 1423,
+   "reciters": {
+    "fares_abbad": 1423
+   },
+   "usable_rows": 1392
+  },
+  "data/train-00047-of-00132-485b04ae277bb9dc.parquet": {
+   "size": 788179186,
+   "rows": 1423,
+   "reciters": {
+    "fares_abbad": 249,
+    "ghamadi": 1174
+   },
+   "usable_rows": 1230
+  },
+  "data/train-00048-of-00132-811cb3e81731c3bc.parquet": {
+   "size": 603326705,
+   "rows": 1423,
+   "reciters": {
+    "ghamadi": 1423
+   },
+   "usable_rows": 1366
+  },
+  "data/train-00049-of-00132-44ae0150dbd618b6.parquet": {
+   "size": 555165643,
+   "rows": 1423,
+   "reciters": {
+    "ghamadi": 1423
+   },
+   "usable_rows": 1359
+  },
+  "data/train-00050-of-00132-f8190daefe48ac53.parquet": {
+   "size": 587996707,
+   "rows": 1423,
+   "reciters": {
+    "ghamadi": 843,
+    "hani_rifai": 580
+   },
+   "usable_rows": 836
+  },
+  "data/train-00051-of-00132-2d05563ed2d2b654.parquet": {
+   "size": 751779014,
+   "rows": 1423,
+   "reciters": {
+    "hani_rifai": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00052-of-00132-a1655818ab8da420.parquet": {
+   "size": 629081567,
+   "rows": 1423,
+   "reciters": {
+    "hani_rifai": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00053-of-00132-3cd9609c7b5ef5ad.parquet": {
+   "size": 391147249,
+   "rows": 1423,
+   "reciters": {
+    "hani_rifai": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00054-of-00132-497101d9be09b3d9.parquet": {
+   "size": 1419266668,
+   "rows": 1423,
+   "reciters": {
+    "hani_rifai": 82,
+    "husary": 1341
+   },
+   "usable_rows": 0
+  },
+  "data/train-00055-of-00132-0c89448d76c24507.parquet": {
+   "size": 991738479,
+   "rows": 1423,
+   "reciters": {
+    "husary": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00056-of-00132-e4c40b8684a91681.parquet": {
+   "size": 845413842,
+   "rows": 1423,
+   "reciters": {
+    "husary": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00057-of-00132-da32d74a96d2e081.parquet": {
+   "size": 1453077510,
+   "rows": 1423,
+   "reciters": {
+    "husary": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00058-of-00132-4b9fe0ccf5a875a4.parquet": {
+   "size": 1428699617,
+   "rows": 1423,
+   "reciters": {
+    "husary": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00059-of-00132-ed1bc1ddb0665ada.parquet": {
+   "size": 1241102117,
+   "rows": 1423,
+   "reciters": {
+    "husary": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00060-of-00132-0d25757946f5adb7.parquet": {
+   "size": 1172444695,
+   "rows": 1423,
+   "reciters": {
+    "husary": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00061-of-00132-17df44121357c022.parquet": {
+   "size": 1239898556,
+   "rows": 1423,
+   "reciters": {
+    "husary": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00062-of-00132-8d35a5c2d6f6597d.parquet": {
+   "size": 912623535,
+   "rows": 1423,
+   "reciters": {
+    "husary": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00063-of-00132-966edbc3002d88fb.parquet": {
+   "size": 727751676,
+   "rows": 1423,
+   "reciters": {
+    "husary": 989,
+    "karim_mansoori": 128,
+    "khaalid_abdullaah_al-qahtaanee": 306
+   },
+   "usable_rows": 317
+  },
+  "data/train-00064-of-00132-e7992d53f878fb7b.parquet": {
+   "size": 843814343,
+   "rows": 1423,
+   "reciters": {
+    "khaalid_abdullaah_al-qahtaanee": 1423
+   },
+   "usable_rows": 1229
+  },
+  "data/train-00065-of-00132-f539c4d17548c465.parquet": {
+   "size": 603267643,
+   "rows": 1423,
+   "reciters": {
+    "khaalid_abdullaah_al-qahtaanee": 1423
+   },
+   "usable_rows": 1363
+  },
+  "data/train-00066-of-00132-7254fb465c6dd425.parquet": {
+   "size": 461584899,
+   "rows": 1423,
+   "reciters": {
+    "khaalid_abdullaah_al-qahtaanee": 1423
+   },
+   "usable_rows": 1366
+  },
+  "data/train-00067-of-00132-40d22a0d357abfa6.parquet": {
+   "size": 712720154,
+   "rows": 1423,
+   "reciters": {
+    "khaalid_abdullaah_al-qahtaanee": 131,
+    "maher_al_muaiqly": 1292
+   },
+   "usable_rows": 1318
+  },
+  "data/train-00068-of-00132-084d7567140bf324.parquet": {
+   "size": 498640085,
+   "rows": 1423,
+   "reciters": {
+    "maher_al_muaiqly": 1423
+   },
+   "usable_rows": 1404
+  },
+  "data/train-00069-of-00132-8153f9a912e1a54f.parquet": {
+   "size": 412517084,
+   "rows": 1423,
+   "reciters": {
+    "maher_al_muaiqly": 1423
+   },
+   "usable_rows": 1408
+  },
+  "data/train-00070-of-00132-1c434b351b7af51c.parquet": {
+   "size": 660883151,
+   "rows": 1423,
+   "reciters": {
+    "maher_al_muaiqly": 622,
+    "menshawi": 801
+   },
+   "usable_rows": 622
+  },
+  "data/train-00071-of-00132-73715944b05aa73c.parquet": {
+   "size": 725803628,
+   "rows": 1423,
+   "reciters": {
+    "menshawi": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00072-of-00132-026616327775ced6.parquet": {
+   "size": 545662075,
+   "rows": 1423,
+   "reciters": {
+    "menshawi": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00073-of-00132-fbda0459f6ac5a1d.parquet": {
+   "size": 748514857,
+   "rows": 1423,
+   "reciters": {
+    "menshawi": 792,
+    "minshawi": 631
+   },
+   "usable_rows": 0
+  },
+  "data/train-00074-of-00132-563389682cdc2d1d.parquet": {
+   "size": 844443994,
+   "rows": 1423,
+   "reciters": {
+    "minshawi": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00075-of-00132-7620c9855de421de.parquet": {
+   "size": 625220300,
+   "rows": 1423,
+   "reciters": {
+    "minshawi": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00076-of-00132-2a0ea21635fd6b17.parquet": {
+   "size": 440255825,
+   "rows": 1423,
+   "reciters": {
+    "minshawi": 1423
+   },
+   "usable_rows": 0
+  },
+  "data/train-00077-of-00132-4cf1b0eae77eaa82.parquet": {
+   "size": 1132561120,
+   "rows": 1423,
+   "reciters": {
+    "minshawi": 12,
+    "mohammad_al_tablaway": 1411
+   },
+   "usable_rows": 1005
+  },
+  "data/train-00078-of-00132-cdfbd4357a5a497b.parquet": {
+   "size": 661688268,
+   "rows": 1423,
+   "reciters": {
+    "mohammad_al_tablaway": 1423
+   },
+   "usable_rows": 1349
+  },
+  "data/train-00079-of-00132-1a7d551917b942d1.parquet": {
+   "size": 634345332,
+   "rows": 1423,
+   "reciters": {
+    "mohammad_al_tablaway": 1423
+   },
+   "usable_rows": 1320
+  },
+  "data/train-00080-of-00132-c3340a2d5f97c600.parquet": {
+   "size": 623677555,
+   "rows": 1423,
+   "reciters": {
+    "mohammad_al_tablaway": 681,
+    "muhammad_abdulkareem": 742
+   },
+   "usable_rows": 1311
+  },
+  "data/train-00081-of-00132-0ca505daf3cd97f8.parquet": {
+   "size": 621881680,
+   "rows": 1422,
+   "reciters": {
+    "muhammad_abdulkareem": 1422
+   },
+   "usable_rows": 1367
+  },
+  "data/train-00082-of-00132-e466091cd35c24db.parquet": {
+   "size": 517511338,
+   "rows": 1422,
+   "reciters": {
+    "muhammad_abdulkareem": 1422
+   },
+   "usable_rows": 1378
+  },
+  "data/train-00083-of-00132-76270aa88861b4e8.parquet": {
+   "size": 470366602,
+   "rows": 1422,
+   "reciters": {
+    "muhammad_abdulkareem": 1176,
+    "muhammad_ayyoub": 246
+   },
+   "usable_rows": 1326
+  },
+  "data/train-00084-of-00132-457181c4a99580e8.parquet": {
+   "size": 990185564,
+   "rows": 1422,
+   "reciters": {
+    "muhammad_ayyoub": 1422
+   },
+   "usable_rows": 1096
+  },
+  "data/train-00085-of-00132-4c9fe3b9673f5e84.parquet": {
+   "size": 681658058,
+   "rows": 1422,
+   "reciters": {
+    "muhammad_ayyoub": 1422
+   },
+   "usable_rows": 1294
+  },
+  "data/train-00086-of-00132-0a3e27aefd73531e.parquet": {
+   "size": 524266985,
+   "rows": 1422,
+   "reciters": {
+    "muhammad_ayyoub": 1422
+   },
+   "usable_rows": 1333
+  },
+  "data/train-00087-of-00132-1435bc4298688cd8.parquet": {
+   "size": 870436027,
+   "rows": 1422,
+   "reciters": {
+    "muhammad_ayyoub": 195,
+    "muhammad_jibreel": 1227
+   },
+   "usable_rows": 1185
+  },
+  "data/train-00088-of-00132-b9b1375f9878e0b2.parquet": {
+   "size": 600333705,
+   "rows": 1422,
+   "reciters": {
+    "muhammad_jibreel": 1422
+   },
+   "usable_rows": 1357
+  },
+  "data/train-00089-of-00132-9be37ab9cc6f7191.parquet": {
+   "size": 612884448,
+   "rows": 1422,
+   "reciters": {
+    "muhammad_jibreel": 1422
+   },
+   "usable_rows": 1311
+  },
+  "data/train-00090-of-00132-5d3908d18500759e.parquet": {
+   "size": 544649768,
+   "rows": 1422,
+   "reciters": {
+    "muhammad_jibreel": 731,
+    "muhsin_al_qasim": 691
+   },
+   "usable_rows": 731
+  },
+  "data/train-00091-of-00132-d63d36e0521d9aa2.parquet": {
+   "size": 615865442,
+   "rows": 1422,
+   "reciters": {
+    "muhsin_al_qasim": 1422
+   },
+   "usable_rows": 0
+  },
+  "data/train-00092-of-00132-de461ed469db3417.parquet": {
+   "size": 498844700,
+   "rows": 1422,
+   "reciters": {
+    "muhsin_al_qasim": 1422
+   },
+   "usable_rows": 0
+  },
+  "data/train-00093-of-00132-c793f920f5e35ae6.parquet": {
+   "size": 331410341,
+   "rows": 1422,
+   "reciters": {
+    "muhsin_al_qasim": 1422
+   },
+   "usable_rows": 0
+  },
+  "data/train-00094-of-00132-42d3c8ea092b4179.parquet": {
+   "size": 590418389,
+   "rows": 1422,
+   "reciters": {
+    "muhsin_al_qasim": 47,
+    "mustafa_ismail": 1375
+   },
+   "usable_rows": 1242
+  },
+  "data/train-00095-of-00132-5a192e1764953988.parquet": {
+   "size": 863911302,
+   "rows": 1422,
+   "reciters": {
+    "mustafa_ismail": 164,
+    "nasser_alqatami": 1258
+   },
+   "usable_rows": 1207
+  },
+  "data/train-00096-of-00132-c069cc465353d4f7.parquet": {
+   "size": 628326291,
+   "rows": 1422,
+   "reciters": {
+    "nasser_alqatami": 1422
+   },
+   "usable_rows": 1358
+  },
+  "data/train-00097-of-00132-9335aee8c952fe64.parquet": {
+   "size": 541081479,
+   "rows": 1422,
+   "reciters": {
+    "nasser_alqatami": 1422
+   },
+   "usable_rows": 1358
+  },
+  "data/train-00098-of-00132-fce1235c480ab45d.parquet": {
+   "size": 688284291,
+   "rows": 1422,
+   "reciters": {
+    "nasser_alqatami": 617,
+    "parhizgar": 805
+   },
+   "usable_rows": 1240
+  },
+  "data/train-00099-of-00132-8818ae7c1ad46164.parquet": {
+   "size": 691802432,
+   "rows": 1422,
+   "reciters": {
+    "parhizgar": 1422
+   },
+   "usable_rows": 1315
+  },
+  "data/train-00100-of-00132-084145123319bb42.parquet": {
+   "size": 547256672,
+   "rows": 1422,
+   "reciters": {
+    "parhizgar": 1422
+   },
+   "usable_rows": 1365
+  },
+  "data/train-00101-of-00132-eb531eca905234f8.parquet": {
+   "size": 466513179,
+   "rows": 1422,
+   "reciters": {
+    "parhizgar": 1085,
+    "sahl_yassin": 337
+   },
+   "usable_rows": 1067
+  },
+  "data/train-00102-of-00132-eda431b8cbe237ce.parquet": {
+   "size": 775171644,
+   "rows": 1422,
+   "reciters": {
+    "sahl_yassin": 1422
+   },
+   "usable_rows": 0
+  },
+  "data/train-00103-of-00132-9a70a6cad474c3dc.parquet": {
+   "size": 557241264,
+   "rows": 1422,
+   "reciters": {
+    "sahl_yassin": 1422
+   },
+   "usable_rows": 0
+  },
+  "data/train-00104-of-00132-88427ed4a43c35d3.parquet": {
+   "size": 418170085,
+   "rows": 1422,
+   "reciters": {
+    "sahl_yassin": 1422
+   },
+   "usable_rows": 0
+  },
+  "data/train-00105-of-00132-c4027a0323565f59.parquet": {
+   "size": 747381496,
+   "rows": 1422,
+   "reciters": {
+    "sahl_yassin": 192,
+    "salaah_abdulrahman_bukhatir": 1230
+   },
+   "usable_rows": 1106
+  },
+  "data/train-00106-of-00132-4c09b82cc79a09fd.parquet": {
+   "size": 554614862,
+   "rows": 1422,
+   "reciters": {
+    "salaah_abdulrahman_bukhatir": 1422
+   },
+   "usable_rows": 1392
+  },
+  "data/train-00107-of-00132-d3490ea2a8dfe28c.parquet": {
+   "size": 519815998,
+   "rows": 1422,
+   "reciters": {
+    "salaah_abdulrahman_bukhatir": 1422
+   },
+   "usable_rows": 1378
+  },
+  "data/train-00108-of-00132-bfd55b08e1a53b3c.parquet": {
+   "size": 480684036,
+   "rows": 1422,
+   "reciters": {
+    "salaah_abdulrahman_bukhatir": 700,
+    "saood_ash-shuraym": 722
+   },
+   "usable_rows": 700
+  },
+  "data/train-00109-of-00132-7e7b487adf7f83b4.parquet": {
+   "size": 529448313,
+   "rows": 1422,
+   "reciters": {
+    "saood_ash-shuraym": 1422
+   },
+   "usable_rows": 0
+  },
+  "data/train-00110-of-00132-6f6ef2459c07d977.parquet": {
+   "size": 432228710,
+   "rows": 1422,
+   "reciters": {
+    "saood_ash-shuraym": 1422
+   },
+   "usable_rows": 0
+  },
+  "data/train-00111-of-00132-525a8ca0f8565922.parquet": {
+   "size": 302379830,
+   "rows": 1422,
+   "reciters": {
+    "saood_ash-shuraym": 1352,
+    "yaser_salamah": 70
+   },
+   "usable_rows": 62
+  },
+  "data/train-00112-of-00132-ef0d322892837ba2.parquet": {
+   "size": 886505637,
+   "rows": 1422,
+   "reciters": {
+    "yaser_salamah": 1422
+   },
+   "usable_rows": 1194
+  },
+  "data/train-00113-of-00132-3f354655eaf25a9b.parquet": {
+   "size": 605266651,
+   "rows": 1422,
+   "reciters": {
+    "yaser_salamah": 1422
+   },
+   "usable_rows": 1348
+  },
+  "data/train-00114-of-00132-fc98b00ce13df8d6.parquet": {
+   "size": 529539759,
+   "rows": 1422,
+   "reciters": {
+    "yaser_salamah": 1422
+   },
+   "usable_rows": 1350
+  },
+  "data/train-00115-of-00132-bbda1ea91dccb154.parquet": {
+   "size": 757050067,
+   "rows": 1422,
+   "reciters": {
+    "yaser_salamah": 365,
+    "yasser_ad-dussary": 1057
+   },
+   "usable_rows": 365
+  },
+  "data/train-00116-of-00132-7be65bedde15a6d5.parquet": {
+   "size": 619680363,
+   "rows": 1422,
+   "reciters": {
+    "yasser_ad-dussary": 1422
+   },
+   "usable_rows": 0
+  },
+  "data/train-00117-of-00132-8b686b14f6c97547.parquet": {
+   "size": 573726402,
+   "rows": 1422,
+   "reciters": {
+    "yasser_ad-dussary": 1422
+   },
+   "usable_rows": 0
+  },
+  "data/train-00118-of-00132-b9795057a9643e59.parquet": {
+   "size": 581204321,
+   "rows": 1422,
+   "reciters": {
+    "yasser_ad-dussary": 835,
+    "ahmed_ibn_ali_al_ajamy": 587
+   },
+   "usable_rows": 465
+  },
+  "data/train-00119-of-00132-b243b6f758e77f1b.parquet": {
+   "size": 747198444,
+   "rows": 1422,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 1422
+   },
+   "usable_rows": 1300
+  },
+  "data/train-00120-of-00132-03287a8d19647a17.parquet": {
+   "size": 615008343,
+   "rows": 1422,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 1422
+   },
+   "usable_rows": 1350
+  },
+  "data/train-00121-of-00132-d5265cd4353ff91a.parquet": {
+   "size": 401528568,
+   "rows": 1422,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 1378,
+    "aziz_alili": 44
+   },
+   "usable_rows": 1373
+  },
+  "data/train-00122-of-00132-ee279c1fc59c721a.parquet": {
+   "size": 917891522,
+   "rows": 1422,
+   "reciters": {
+    "aziz_alili": 1422
+   },
+   "usable_rows": 1181
+  },
+  "data/train-00123-of-00132-d9e37f52f4593b07.parquet": {
+   "size": 651599925,
+   "rows": 1422,
+   "reciters": {
+    "aziz_alili": 1422
+   },
+   "usable_rows": 1344
+  },
+  "data/train-00124-of-00132-83e1dbc92cca203d.parquet": {
+   "size": 521167730,
+   "rows": 1422,
+   "reciters": {
+    "aziz_alili": 1422
+   },
+   "usable_rows": 1359
+  },
+  "data/train-00125-of-00132-64b1406107e29e2e.parquet": {
+   "size": 680848929,
+   "rows": 1422,
+   "reciters": {
+    "aziz_alili": 595,
+    "khalefa_al_tunaiji": 827
+   },
+   "usable_rows": 1249
+  },
+  "data/train-00126-of-00132-ee5263b05b3b4995.parquet": {
+   "size": 730515073,
+   "rows": 1422,
+   "reciters": {
+    "khalefa_al_tunaiji": 1422
+   },
+   "usable_rows": 1306
+  },
+  "data/train-00127-of-00132-fb89f8bf2c403559.parquet": {
+   "size": 605807176,
+   "rows": 1422,
+   "reciters": {
+    "khalefa_al_tunaiji": 1422
+   },
+   "usable_rows": 1332
+  },
+  "data/train-00128-of-00132-94103f51e95535cb.parquet": {
+   "size": 624895599,
+   "rows": 1422,
+   "reciters": {
+    "khalefa_al_tunaiji": 930,
+    "mahmoud_ali_al_banna": 492
+   },
+   "usable_rows": 1281
+  },
+  "data/train-00129-of-00132-9e45141c8109b477.parquet": {
+   "size": 771522563,
+   "rows": 1422,
+   "reciters": {
+    "mahmoud_ali_al_banna": 1422
+   },
+   "usable_rows": 1285
+  },
+  "data/train-00130-of-00132-cc325a0395702c0c.parquet": {
+   "size": 591265348,
+   "rows": 1422,
+   "reciters": {
+    "mahmoud_ali_al_banna": 1422
+   },
+   "usable_rows": 1358
+  },
+  "data/train-00131-of-00132-13118eba5f788e61.parquet": {
+   "size": 412523163,
+   "rows": 1422,
+   "reciters": {
+    "mahmoud_ali_al_banna": 1422
+   },
+   "usable_rows": 1386
+  },
+  "data/validation-00000-of-00012-91e6174ad3aace19.parquet": {
+   "size": 1449452903,
+   "rows": 1957,
+   "reciters": {
+    "abdulsamad": 511,
+    "abdul_basit": 1121,
+    "abdullah_basfar": 325
+   },
+   "usable_rows": 573
+  },
+  "data/validation-00001-of-00012-46680fb9738a4c70.parquet": {
+   "size": 876198009,
+   "rows": 1957,
+   "reciters": {
+    "abdullah_basfar": 258,
+    "abdullah_matroud": 652,
+    "abdurrahmaan_as-sudais": 632,
+    "abu_bakr_ash-shaatree": 415
+   },
+   "usable_rows": 1185
+  },
+  "data/validation-00002-of-00012-3ac2a132f8c34654.parquet": {
+   "size": 894681328,
+   "rows": 1956,
+   "reciters": {
+    "abu_bakr_ash-shaatree": 231,
+    "ahmed_neana": 621,
+    "ahmed_ibn_ali_al_ajamy": 1104
+   },
+   "usable_rows": 1784
+  },
+  "data/validation-00003-of-00012-551feb02a1bc1997.parquet": {
+   "size": 986240044,
+   "rows": 1956,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 53,
+    "akram_alalaqimy": 572,
+    "alafasy": 552,
+    "ali_hajjaj_alsuesy": 627,
+    "fares_abbad": 152
+   },
+   "usable_rows": 727
+  },
+  "data/validation-00004-of-00012-6e9b2322deab3c96.parquet": {
+   "size": 928558991,
+   "rows": 1956,
+   "reciters": {
+    "fares_abbad": 488,
+    "ghamadi": 610,
+    "hani_rifai": 572,
+    "husary": 286
+   },
+   "usable_rows": 1042
+  },
+  "data/validation-00005-of-00012-2d34ae8c5a8cd1c2.parquet": {
+   "size": 1445326065,
+   "rows": 1956,
+   "reciters": {
+    "husary": 1482,
+    "karim_mansoori": 13,
+    "khaalid_abdullaah_al-qahtaanee": 461
+   },
+   "usable_rows": 418
+  },
+  "data/validation-00006-of-00012-d60f1b3461f6006f.parquet": {
+   "size": 827818518,
+   "rows": 1956,
+   "reciters": {
+    "khaalid_abdullaah_al-qahtaanee": 172,
+    "maher_al_muaiqly": 612,
+    "menshawi": 562,
+    "minshawi": 571,
+    "mohammad_al_tablaway": 39
+   },
+   "usable_rows": 798
+  },
+  "data/validation-00007-of-00012-50e92fb8c398963c.parquet": {
+   "size": 988866887,
+   "rows": 1956,
+   "reciters": {
+    "mohammad_al_tablaway": 560,
+    "muhammad_abdulkareem": 582,
+    "muhammad_ayyoub": 602,
+    "muhammad_jibreel": 212
+   },
+   "usable_rows": 1743
+  },
+  "data/validation-00008-of-00012-fa54b7732dd5cd95.parquet": {
+   "size": 822480398,
+   "rows": 1956,
+   "reciters": {
+    "muhammad_jibreel": 402,
+    "muhsin_al_qasim": 606,
+    "mustafa_ismail": 202,
+    "nasser_alqatami": 627,
+    "parhizgar": 119
+   },
+   "usable_rows": 1245
+  },
+  "data/validation-00009-of-00012-36e5d56109313571.parquet": {
+   "size": 787929023,
+   "rows": 1956,
+   "reciters": {
+    "parhizgar": 500,
+    "sahl_yassin": 633,
+    "salaah_abdulrahman_bukhatir": 598,
+    "saood_ash-shuraym": 225
+   },
+   "usable_rows": 1050
+  },
+  "data/validation-00010-of-00012-7071951d803b427c.parquet": {
+   "size": 840077945,
+   "rows": 1956,
+   "reciters": {
+    "saood_ash-shuraym": 398,
+    "yaser_salamah": 605,
+    "yasser_ad-dussary": 599,
+    "ahmed_ibn_ali_al_ajamy": 354
+   },
+   "usable_rows": 881
+  },
+  "data/validation-00011-of-00012-e202b959bd3c9b87.parquet": {
+   "size": 854146729,
+   "rows": 1956,
+   "reciters": {
+    "ahmed_ibn_ali_al_ajamy": 243,
+    "aziz_alili": 595,
+    "khalefa_al_tunaiji": 547,
+    "mahmoud_ali_al_banna": 571
+   },
+   "usable_rows": 1806
+  }
+ }
+}

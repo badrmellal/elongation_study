@@ -1,0 +1,12556 @@
+{
+ "seed": 20260921,
+ "source": "gilkeyio/librispeech-alignments test_clean (MFA)",
+ "speakers": [
+  "1089",
+  "1188",
+  "1320",
+  "1580",
+  "2094",
+  "237",
+  "2830",
+  "3570",
+  "3729",
+  "4970",
+  "4992",
+  "5105",
+  "5142",
+  "5683",
+  "61",
+  "672",
+  "7176",
+  "7729",
+  "8455",
+  "8555"
+ ],
+ "items": [
+  {
+   "id": "1089-134686-0004",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134686-0004.wav",
+   "reference": "number ten fresh nelly is waiting on you good night husband",
+   "intervals": [
+    [
+     0.32,
+     0.42
+    ],
+    [
+     0.81,
+     1.03
+    ],
+    [
+     1.7,
+     1.78
+    ],
+    [
+     2.08,
+     2.17
+    ],
+    [
+     2.64,
+     2.73
+    ],
+    [
+     2.9,
+     3.03
+    ],
+    [
+     3.21,
+     3.4
+    ],
+    [
+     4.34,
+     4.44
+    ],
+    [
+     4.58,
+     4.65
+    ]
+   ],
+   "duration_s": 5.2150625
+  },
+  {
+   "id": "1089-134691-0015",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134691-0015.wav",
+   "reference": "words was it their colours",
+   "intervals": [
+    [
+     0.59,
+     0.85
+    ],
+    [
+     2.38,
+     2.44
+    ]
+   ],
+   "duration_s": 3.395
+  },
+  {
+   "id": "1089-134686-0008",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134686-0008.wav",
+   "reference": "the chaos in which his ardour extinguished itself was a cold indifferent knowledge of himself",
+   "intervals": [
+    [
+     0.75,
+     0.91
+    ],
+    [
+     1.41,
+     1.47
+    ],
+    [
+     1.76,
+     1.96
+    ],
+    [
+     3.18,
+     3.29
+    ],
+    [
+     4.75,
+     4.86
+    ],
+    [
+     5.43,
+     5.57
+    ],
+    [
+     6.21,
+     6.3
+    ]
+   ],
+   "duration_s": 6.73
+  },
+  {
+   "id": "1089-134691-0006",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134691-0006.wav",
+   "reference": "the pride of that dim image brought back to his mind the dignity of the office he had refused",
+   "intervals": [
+    [
+     0.44,
+     0.62
+    ],
+    [
+     0.8,
+     0.89
+    ],
+    [
+     1.02,
+     1.13
+    ],
+    [
+     1.22,
+     1.36
+    ],
+    [
+     1.85,
+     1.94
+    ],
+    [
+     2.09,
+     2.21
+    ],
+    [
+     2.4,
+     2.46
+    ],
+    [
+     2.78,
+     3.0
+    ],
+    [
+     4.14,
+     4.28
+    ],
+    [
+     5.12,
+     5.32
+    ]
+   ],
+   "duration_s": 5.895
+  },
+  {
+   "id": "1089-134686-0021",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134686-0021.wav",
+   "reference": "if a layman in giving baptism pour the water before saying the words is the child baptized",
+   "intervals": [
+    [
+     0.64,
+     0.75
+    ],
+    [
+     1.1,
+     1.22
+    ],
+    [
+     1.68,
+     1.8
+    ],
+    [
+     2.42,
+     2.53
+    ],
+    [
+     2.61,
+     2.68
+    ],
+    [
+     2.77,
+     2.89
+    ],
+    [
+     3.4,
+     3.48
+    ],
+    [
+     3.72,
+     3.84
+    ],
+    [
+     4.21,
+     4.4
+    ],
+    [
+     4.71,
+     4.86
+    ],
+    [
+     5.18,
+     5.34
+    ],
+    [
+     5.58,
+     5.69
+    ]
+   ],
+   "duration_s": 6.55
+  },
+  {
+   "id": "1089-134686-0002",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134686-0002.wav",
+   "reference": "after early nightfall the yellow lamps would light up here and there the squalid quarter of the brothels",
+   "intervals": [
+    [
+     0.36,
+     0.52
+    ],
+    [
+     0.73,
+     0.93
+    ],
+    [
+     1.16,
+     1.28
+    ],
+    [
+     1.96,
+     2.02
+    ],
+    [
+     2.29,
+     2.4
+    ],
+    [
+     2.86,
+     2.95
+    ],
+    [
+     3.06,
+     3.19
+    ],
+    [
+     3.35,
+     3.44
+    ],
+    [
+     3.7,
+     3.93
+    ],
+    [
+     4.49,
+     4.57
+    ],
+    [
+     5.65,
+     5.77
+    ]
+   ],
+   "duration_s": 6.625
+  },
+  {
+   "id": "1089-134691-0010",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134691-0010.wav",
+   "reference": "brother mac ardle brother keogh",
+   "intervals": [
+    [
+     0.49,
+     0.55
+    ],
+    [
+     0.87,
+     0.95
+    ],
+    [
+     2.49,
+     2.6
+    ]
+   ],
+   "duration_s": 3.195
+  },
+  {
+   "id": "1089-134686-0036",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134686-0036.wav",
+   "reference": "a great saint saint francis xavier",
+   "intervals": [
+    [
+     0.49,
+     0.58
+    ],
+    [
+     0.99,
+     1.09
+    ],
+    [
+     1.68,
+     1.75
+    ],
+    [
+     2.01,
+     2.07
+    ],
+    [
+     2.65,
+     2.78
+    ]
+   ],
+   "duration_s": 3.25
+  },
+  {
+   "id": "1089-134691-0005",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134691-0005.wav",
+   "reference": "whose feet are as the feet of harts and underneath the everlasting arms",
+   "intervals": [
+    [
+     0.36,
+     0.48
+    ],
+    [
+     0.66,
+     0.8
+    ],
+    [
+     0.9,
+     1.19
+    ],
+    [
+     1.25,
+     1.39
+    ],
+    [
+     1.7,
+     1.81
+    ],
+    [
+     2.06,
+     2.17
+    ],
+    [
+     3.17,
+     3.29
+    ],
+    [
+     4.12,
+     4.23
+    ],
+    [
+     4.57,
+     4.79
+    ]
+   ],
+   "duration_s": 5.36
+  },
+  {
+   "id": "1089-134686-0003",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134686-0003.wav",
+   "reference": "hello bertie any good in your mind",
+   "intervals": [
+    [
+     0.58,
+     0.69
+    ],
+    [
+     0.81,
+     0.95
+    ],
+    [
+     1.62,
+     1.72
+    ],
+    [
+     1.89,
+     1.95
+    ],
+    [
+     2.05,
+     2.31
+    ]
+   ],
+   "duration_s": 2.68
+  },
+  {
+   "id": "1089-134691-0018",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134691-0018.wav",
+   "reference": "again again",
+   "intervals": [
+    [
+     0.46,
+     0.74
+    ],
+    [
+     2.04,
+     2.31
+    ]
+   ],
+   "duration_s": 3.09
+  },
+  {
+   "id": "1089-134686-0033",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134686-0033.wav",
+   "reference": "a great saint saint francis xavier",
+   "intervals": [
+    [
+     0.56,
+     0.64
+    ],
+    [
+     0.9,
+     1.02
+    ],
+    [
+     1.75,
+     1.82
+    ],
+    [
+     2.06,
+     2.13
+    ],
+    [
+     2.73,
+     2.85
+    ]
+   ],
+   "duration_s": 3.33
+  },
+  {
+   "id": "1089-134686-0013",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134686-0013.wav",
+   "reference": "if ever he was impelled to cast sin from him and to repent the impulse that moved him was the wish to be her knight",
+   "intervals": [
+    [
+     0.51,
+     0.62
+    ],
+    [
+     0.73,
+     0.8
+    ],
+    [
+     1.05,
+     1.12
+    ],
+    [
+     1.59,
+     1.71
+    ],
+    [
+     2.1,
+     2.24
+    ],
+    [
+     2.55,
+     2.63
+    ],
+    [
+     2.88,
+     2.94
+    ],
+    [
+     3.08,
+     3.16
+    ],
+    [
+     3.85,
+     3.95
+    ],
+    [
+     5.48,
+     5.58
+    ],
+    [
+     5.76,
+     5.84
+    ],
+    [
+     6.35,
+     6.44
+    ],
+    [
+     6.72,
+     6.83
+    ],
+    [
+     7.16,
+     7.34
+    ]
+   ],
+   "duration_s": 7.915
+  },
+  {
+   "id": "1089-134691-0007",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134691-0007.wav",
+   "reference": "soon the whole bridge was trembling and resounding",
+   "intervals": [
+    [
+     0.6,
+     0.75
+    ],
+    [
+     0.82,
+     0.89
+    ],
+    [
+     1.02,
+     1.09
+    ],
+    [
+     1.39,
+     1.5
+    ],
+    [
+     1.92,
+     1.98
+    ],
+    [
+     2.69,
+     2.84
+    ]
+   ],
+   "duration_s": 3.44
+  },
+  {
+   "id": "1089-134691-0019",
+   "speaker": "1089",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1089-134691-0019.wav",
+   "reference": "a voice from beyond the world was calling",
+   "intervals": [
+    [
+     0.69,
+     0.89
+    ],
+    [
+     1.35,
+     1.51
+    ],
+    [
+     1.8,
+     1.96
+    ],
+    [
+     2.4,
+     2.55
+    ]
+   ],
+   "duration_s": 3.155
+  },
+  {
+   "id": "1188-133604-0035",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0035.wav",
+   "reference": "thus in chaucer's dream",
+   "intervals": [
+    [
+     0.6,
+     0.74
+    ],
+    [
+     1.2,
+     1.32
+    ],
+    [
+     1.5,
+     1.62
+    ],
+    [
+     2.06,
+     2.24
+    ]
+   ],
+   "duration_s": 2.925
+  },
+  {
+   "id": "1188-133604-0042",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0042.wav",
+   "reference": "the scene is absolutely arcadian",
+   "intervals": [
+    [
+     0.74,
+     0.81
+    ],
+    [
+     1.4,
+     1.5
+    ],
+    [
+     1.91,
+     2.01
+    ]
+   ],
+   "duration_s": 2.66
+  },
+  {
+   "id": "1188-133604-0040",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0040.wav",
+   "reference": "the crampness and the poverty are all intended",
+   "intervals": [
+    [
+     1.38,
+     1.54
+    ],
+    [
+     1.96,
+     2.06
+    ],
+    [
+     2.35,
+     2.41
+    ]
+   ],
+   "duration_s": 3.23
+  },
+  {
+   "id": "1188-133604-0039",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0039.wav",
+   "reference": "it has no beauty whatsoever no specialty of picturesqueness and all its lines are cramped and poor",
+   "intervals": [
+    [
+     1.28,
+     1.39
+    ],
+    [
+     1.99,
+     2.07
+    ],
+    [
+     4.14,
+     4.23
+    ],
+    [
+     4.31,
+     4.4
+    ],
+    [
+     4.73,
+     4.89
+    ],
+    [
+     5.28,
+     5.41
+    ],
+    [
+     5.83,
+     6.01
+    ]
+   ],
+   "duration_s": 6.625
+  },
+  {
+   "id": "1188-133604-0025",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0025.wav",
+   "reference": "you know i have just been telling you how this school of materialism and clay involved itself at last in cloud and fire",
+   "intervals": [
+    [
+     0.71,
+     0.78
+    ],
+    [
+     0.78,
+     0.87
+    ],
+    [
+     2.25,
+     2.34
+    ],
+    [
+     2.68,
+     2.75
+    ],
+    [
+     3.08,
+     3.17
+    ],
+    [
+     3.89,
+     4.03
+    ],
+    [
+     4.22,
+     4.32
+    ],
+    [
+     4.67,
+     4.73
+    ],
+    [
+     5.12,
+     5.3
+    ],
+    [
+     5.44,
+     5.66
+    ],
+    [
+     6.07,
+     6.25
+    ],
+    [
+     6.56,
+     6.75
+    ]
+   ],
+   "duration_s": 7.45
+  },
+  {
+   "id": "1188-133604-0043",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0043.wav",
+   "reference": "see that your lives be in nothing worse than a boy's climbing for his entangled kite",
+   "intervals": [
+    [
+     0.54,
+     0.63
+    ],
+    [
+     1.01,
+     1.15
+    ],
+    [
+     1.59,
+     1.67
+    ],
+    [
+     1.96,
+     2.06
+    ],
+    [
+     2.45,
+     2.6
+    ],
+    [
+     2.86,
+     3.0
+    ],
+    [
+     3.68,
+     3.74
+    ],
+    [
+     4.08,
+     4.25
+    ]
+   ],
+   "duration_s": 4.885
+  },
+  {
+   "id": "1188-133604-0033",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0033.wav",
+   "reference": "every plant in the grass is set formally grows perfectly and may be realized completely",
+   "intervals": [
+    [
+     0.36,
+     0.48
+    ],
+    [
+     0.82,
+     0.93
+    ],
+    [
+     1.33,
+     1.53
+    ],
+    [
+     1.89,
+     1.97
+    ],
+    [
+     2.17,
+     2.23
+    ],
+    [
+     3.48,
+     3.55
+    ],
+    [
+     4.47,
+     4.56
+    ],
+    [
+     4.67,
+     4.73
+    ]
+   ],
+   "duration_s": 6.625
+  },
+  {
+   "id": "1188-133604-0031",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0031.wav",
+   "reference": "there's one and there's another the dudley and the flint",
+   "intervals": [
+    [
+     0.73,
+     0.84
+    ],
+    [
+     1.26,
+     1.37
+    ],
+    [
+     2.41,
+     2.5
+    ]
+   ],
+   "duration_s": 4.25
+  },
+  {
+   "id": "1188-133604-0010",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0010.wav",
+   "reference": "but in this vignette copied from turner you have the two principles brought out perfectly",
+   "intervals": [
+    [
+     1.28,
+     1.43
+    ],
+    [
+     1.77,
+     1.87
+    ],
+    [
+     2.33,
+     2.45
+    ],
+    [
+     3.43,
+     3.49
+    ],
+    [
+     3.74,
+     3.82
+    ],
+    [
+     4.76,
+     4.84
+    ],
+    [
+     4.89,
+     5.01
+    ],
+    [
+     5.19,
+     5.27
+    ]
+   ],
+   "duration_s": 6.095
+  },
+  {
+   "id": "1188-133604-0017",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0017.wav",
+   "reference": "that a style is restrained or severe does not mean that it is also erroneous",
+   "intervals": [
+    [
+     0.9,
+     1.06
+    ],
+    [
+     1.57,
+     1.73
+    ],
+    [
+     2.22,
+     2.36
+    ],
+    [
+     2.66,
+     2.75
+    ],
+    [
+     2.88,
+     2.99
+    ],
+    [
+     3.46,
+     3.55
+    ],
+    [
+     3.96,
+     4.03
+    ]
+   ],
+   "duration_s": 4.615
+  },
+  {
+   "id": "1188-133604-0006",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0006.wav",
+   "reference": "then he comes to the beak of it",
+   "intervals": [
+    [
+     0.68,
+     0.77
+    ],
+    [
+     1.48,
+     1.59
+    ]
+   ],
+   "duration_s": 2.4
+  },
+  {
+   "id": "1188-133604-0013",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0013.wav",
+   "reference": "it must remember be one or the other",
+   "intervals": [
+    [
+     0.74,
+     0.85
+    ],
+    [
+     1.18,
+     1.24
+    ],
+    [
+     1.75,
+     1.86
+    ],
+    [
+     1.9,
+     2.07
+    ],
+    [
+     2.26,
+     2.38
+    ]
+   ],
+   "duration_s": 3.02
+  },
+  {
+   "id": "1188-133604-0038",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0038.wav",
+   "reference": "but now here is a subject of which you will wonder at first why turner drew it at all",
+   "intervals": [
+    [
+     0.7,
+     0.83
+    ],
+    [
+     1.29,
+     1.37
+    ],
+    [
+     1.8,
+     1.87
+    ],
+    [
+     3.01,
+     3.07
+    ],
+    [
+     3.45,
+     3.57
+    ],
+    [
+     3.78,
+     3.85
+    ],
+    [
+     4.4,
+     4.5
+    ],
+    [
+     4.68,
+     4.9
+    ]
+   ],
+   "duration_s": 5.365
+  },
+  {
+   "id": "1188-133604-0036",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0036.wav",
+   "reference": "in both these high mythical subjects the surrounding nature though suffering is still dignified and beautiful",
+   "intervals": [
+    [
+     0.51,
+     0.6
+    ],
+    [
+     0.74,
+     0.85
+    ],
+    [
+     1.0,
+     1.07
+    ],
+    [
+     1.36,
+     1.74
+    ],
+    [
+     2.43,
+     2.51
+    ],
+    [
+     3.76,
+     3.87
+    ],
+    [
+     4.13,
+     4.23
+    ],
+    [
+     4.53,
+     4.6
+    ],
+    [
+     4.77,
+     4.84
+    ],
+    [
+     6.12,
+     6.19
+    ]
+   ],
+   "duration_s": 7.97
+  },
+  {
+   "id": "1188-133604-0029",
+   "speaker": "1188",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1188-133604-0029.wav",
+   "reference": "only there are two sorts of cloud and fire",
+   "intervals": [
+    [
+     0.47,
+     0.64
+    ],
+    [
+     1.84,
+     1.91
+    ],
+    [
+     2.45,
+     2.55
+    ],
+    [
+     2.84,
+     2.92
+    ]
+   ],
+   "duration_s": 3.705
+  },
+  {
+   "id": "1320-122617-0024",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122617-0024.wav",
+   "reference": "but hawkeye who was too much occupied with his own thoughts to note the movement continued speaking more to himself than to his companion",
+   "intervals": [
+    [
+     0.44,
+     0.56
+    ],
+    [
+     0.94,
+     1.0
+    ],
+    [
+     1.43,
+     1.49
+    ],
+    [
+     1.6,
+     1.73
+    ],
+    [
+     2.45,
+     2.57
+    ],
+    [
+     2.73,
+     2.87
+    ],
+    [
+     3.21,
+     3.29
+    ],
+    [
+     3.56,
+     3.63
+    ],
+    [
+     4.97,
+     5.04
+    ],
+    [
+     5.33,
+     5.4
+    ],
+    [
+     6.72,
+     6.84
+    ]
+   ],
+   "duration_s": 7.555
+  },
+  {
+   "id": "1320-122617-0009",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122617-0009.wav",
+   "reference": "i greatly mourn that one so well disposed should die in his ignorance and i have sought a goodly hymn can you lead me to him",
+   "intervals": [
+    [
+     0.09,
+     0.29
+    ],
+    [
+     0.46,
+     0.53
+    ],
+    [
+     0.85,
+     0.98
+    ],
+    [
+     1.67,
+     1.74
+    ],
+    [
+     2.25,
+     2.48
+    ],
+    [
+     2.77,
+     2.83
+    ],
+    [
+     2.97,
+     3.17
+    ],
+    [
+     4.1,
+     4.19
+    ],
+    [
+     4.46,
+     4.58
+    ],
+    [
+     5.16,
+     5.3
+    ],
+    [
+     5.78,
+     5.88
+    ],
+    [
+     6.03,
+     6.1
+    ],
+    [
+     6.21,
+     6.34
+    ],
+    [
+     6.46,
+     6.54
+    ],
+    [
+     6.67,
+     6.8
+    ],
+    [
+     6.88,
+     6.99
+    ]
+   ],
+   "duration_s": 7.705
+  },
+  {
+   "id": "1320-122612-0015",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122612-0015.wav",
+   "reference": "the whole party crowded to the spot where uncas pointed out the impression of a moccasin in the moist alluvion",
+   "intervals": [
+    [
+     0.17,
+     0.23
+    ],
+    [
+     0.32,
+     0.43
+    ],
+    [
+     0.62,
+     0.69
+    ],
+    [
+     1.08,
+     1.2
+    ],
+    [
+     1.79,
+     1.92
+    ],
+    [
+     2.63,
+     2.74
+    ],
+    [
+     2.91,
+     3.02
+    ],
+    [
+     4.05,
+     4.18
+    ],
+    [
+     5.0,
+     5.14
+    ]
+   ],
+   "duration_s": 6.385
+  },
+  {
+   "id": "1320-122612-0009",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122612-0009.wav",
+   "reference": "it would have been more wonderful had he spoken without a bidding",
+   "intervals": [
+    [
+     1.3,
+     1.4
+    ],
+    [
+     2.12,
+     2.19
+    ],
+    [
+     2.39,
+     2.5
+    ],
+    [
+     2.89,
+     3.01
+    ],
+    [
+     3.22,
+     3.3
+    ]
+   ],
+   "duration_s": 3.88
+  },
+  {
+   "id": "1320-122617-0031",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122617-0031.wav",
+   "reference": "bravely and generously has he battled in my behalf and this and more will i dare in his service",
+   "intervals": [
+    [
+     0.41,
+     0.49
+    ],
+    [
+     1.81,
+     1.93
+    ],
+    [
+     2.3,
+     2.41
+    ],
+    [
+     2.64,
+     2.81
+    ],
+    [
+     3.84,
+     4.02
+    ],
+    [
+     4.33,
+     4.49
+    ],
+    [
+     4.6,
+     4.75
+    ],
+    [
+     5.27,
+     5.37
+    ]
+   ],
+   "duration_s": 6.285
+  },
+  {
+   "id": "1320-122617-0026",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122617-0026.wav",
+   "reference": "well what can't be done by main courage in war must be done by circumvention",
+   "intervals": [
+    [
+     0.52,
+     0.62
+    ],
+    [
+     1.04,
+     1.1
+    ],
+    [
+     1.25,
+     1.34
+    ],
+    [
+     1.49,
+     1.57
+    ],
+    [
+     1.66,
+     1.79
+    ],
+    [
+     1.97,
+     2.05
+    ],
+    [
+     2.15,
+     2.26
+    ],
+    [
+     2.51,
+     2.65
+    ],
+    [
+     3.01,
+     3.13
+    ],
+    [
+     3.69,
+     3.78
+    ],
+    [
+     3.89,
+     3.97
+    ],
+    [
+     4.42,
+     4.5
+    ]
+   ],
+   "duration_s": 5.225
+  },
+  {
+   "id": "1320-122617-0039",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122617-0039.wav",
+   "reference": "the mohican started on his feet and shook his shaggy covering as though the animal he counterfeited was about to make some desperate effort",
+   "intervals": [
+    [
+     0.55,
+     0.63
+    ],
+    [
+     1.04,
+     1.11
+    ],
+    [
+     1.3,
+     1.37
+    ],
+    [
+     1.68,
+     1.81
+    ],
+    [
+     2.69,
+     2.79
+    ],
+    [
+     3.02,
+     3.1
+    ],
+    [
+     3.6,
+     3.71
+    ],
+    [
+     3.84,
+     3.94
+    ],
+    [
+     4.43,
+     4.53
+    ],
+    [
+     5.21,
+     5.3
+    ],
+    [
+     6.03,
+     6.1
+    ],
+    [
+     6.38,
+     6.47
+    ]
+   ],
+   "duration_s": 7.055
+  },
+  {
+   "id": "1320-122617-0029",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122617-0029.wav",
+   "reference": "if you are not then knocked on the head your being a non composser will protect you and you'll then have a good reason to expect to die in your bed",
+   "intervals": [
+    [
+     0.14,
+     0.27
+    ],
+    [
+     0.37,
+     0.44
+    ],
+    [
+     0.6,
+     0.7
+    ],
+    [
+     0.84,
+     0.95
+    ],
+    [
+     1.07,
+     1.22
+    ],
+    [
+     1.64,
+     1.82
+    ],
+    [
+     2.24,
+     2.31
+    ],
+    [
+     2.54,
+     2.66
+    ],
+    [
+     3.67,
+     3.74
+    ],
+    [
+     3.95,
+     4.06
+    ],
+    [
+     4.63,
+     4.75
+    ],
+    [
+     4.85,
+     4.92
+    ],
+    [
+     5.05,
+     5.2
+    ],
+    [
+     5.38,
+     5.44
+    ],
+    [
+     5.62,
+     5.69
+    ],
+    [
+     5.86,
+     5.94
+    ],
+    [
+     6.81,
+     7.0
+    ],
+    [
+     7.29,
+     7.46
+    ]
+   ],
+   "duration_s": 7.875
+  },
+  {
+   "id": "1320-122617-0041",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122617-0041.wav",
+   "reference": "uncas cast his skin and stepped forth in his own beautiful proportions",
+   "intervals": [
+    [
+     0.28,
+     0.42
+    ],
+    [
+     0.84,
+     1.01
+    ],
+    [
+     1.45,
+     1.6
+    ],
+    [
+     2.26,
+     2.36
+    ],
+    [
+     2.71,
+     2.83
+    ],
+    [
+     3.52,
+     3.6
+    ]
+   ],
+   "duration_s": 4.15
+  },
+  {
+   "id": "1320-122617-0022",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122617-0022.wav",
+   "reference": "the delawares are children of the tortoise and they outstrip the deer",
+   "intervals": [
+    [
+     0.37,
+     0.43
+    ],
+    [
+     1.64,
+     1.73
+    ],
+    [
+     2.12,
+     2.23
+    ],
+    [
+     2.94,
+     3.08
+    ]
+   ],
+   "duration_s": 3.855
+  },
+  {
+   "id": "1320-122612-0016",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122612-0016.wav",
+   "reference": "run back uncas and bring me the size of the singer's foot",
+   "intervals": [
+    [
+     0.41,
+     0.48
+    ],
+    [
+     0.63,
+     0.77
+    ],
+    [
+     0.87,
+     0.94
+    ],
+    [
+     1.94,
+     2.11
+    ],
+    [
+     3.02,
+     3.17
+    ]
+   ],
+   "duration_s": 3.49
+  },
+  {
+   "id": "1320-122612-0004",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122612-0004.wav",
+   "reference": "distrusting his own judgment his appeals to the opinion of chingachgook were frequent and earnest",
+   "intervals": [
+    [
+     0.66,
+     0.73
+    ],
+    [
+     1.19,
+     1.32
+    ],
+    [
+     1.49,
+     1.57
+    ],
+    [
+     2.55,
+     2.68
+    ],
+    [
+     4.27,
+     4.33
+    ],
+    [
+     5.13,
+     5.21
+    ],
+    [
+     5.3,
+     5.49
+    ]
+   ],
+   "duration_s": 6.425
+  },
+  {
+   "id": "1320-122617-0000",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122617-0000.wav",
+   "reference": "notwithstanding the high resolution of hawkeye he fully comprehended all the difficulties and danger he was about to incur",
+   "intervals": [
+    [
+     1.07,
+     1.18
+    ],
+    [
+     1.56,
+     1.67
+    ],
+    [
+     2.62,
+     2.73
+    ],
+    [
+     3.67,
+     3.73
+    ],
+    [
+     4.31,
+     4.37
+    ],
+    [
+     4.55,
+     4.67
+    ],
+    [
+     5.8,
+     5.94
+    ],
+    [
+     6.58,
+     6.71
+    ],
+    [
+     6.83,
+     6.91
+    ],
+    [
+     7.17,
+     7.44
+    ]
+   ],
+   "duration_s": 7.835
+  },
+  {
+   "id": "1320-122612-0013",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122612-0013.wav",
+   "reference": "a circle of a few hundred feet in circumference was drawn and each of the party took a segment for his portion",
+   "intervals": [
+    [
+     0.48,
+     0.58
+    ],
+    [
+     1.15,
+     1.28
+    ],
+    [
+     1.73,
+     1.86
+    ],
+    [
+     3.12,
+     3.29
+    ],
+    [
+     3.79,
+     3.94
+    ],
+    [
+     4.99,
+     5.07
+    ],
+    [
+     5.73,
+     5.82
+    ]
+   ],
+   "duration_s": 6.55
+  },
+  {
+   "id": "1320-122617-0005",
+   "speaker": "1320",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\1320-122617-0005.wav",
+   "reference": "the bear shook his shaggy sides and then a well known voice replied",
+   "intervals": [
+    [
+     0.7,
+     0.81
+    ],
+    [
+     1.03,
+     1.09
+    ],
+    [
+     1.46,
+     1.58
+    ],
+    [
+     1.89,
+     2.17
+    ],
+    [
+     3.1,
+     3.2
+    ],
+    [
+     3.37,
+     3.5
+    ],
+    [
+     3.88,
+     4.09
+    ]
+   ],
+   "duration_s": 4.4
+  },
+  {
+   "id": "1580-141084-0028",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141084-0028.wav",
+   "reference": "there was no man sir",
+   "intervals": [
+    [
+     0.48,
+     0.54
+    ],
+    [
+     0.72,
+     0.84
+    ],
+    [
+     1.08,
+     1.19
+    ],
+    [
+     1.33,
+     1.55
+    ],
+    [
+     1.9,
+     2.2
+    ]
+   ],
+   "duration_s": 2.655
+  },
+  {
+   "id": "1580-141084-0006",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141084-0006.wav",
+   "reference": "you don't seem to realize the position",
+   "intervals": [
+    [
+     0.32,
+     0.41
+    ],
+    [
+     1.21,
+     1.27
+    ],
+    [
+     1.48,
+     1.57
+    ]
+   ],
+   "duration_s": 2.135
+  },
+  {
+   "id": "1580-141084-0044",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141084-0044.wav",
+   "reference": "gloves said the young man",
+   "intervals": [
+    [
+     0.62,
+     0.85
+    ],
+    [
+     1.78,
+     1.85
+    ],
+    [
+     2.05,
+     2.15
+    ],
+    [
+     2.29,
+     2.46
+    ]
+   ],
+   "duration_s": 2.895
+  },
+  {
+   "id": "1580-141084-0013",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141084-0013.wav",
+   "reference": "he is the one with the worst record",
+   "intervals": [
+    [
+     0.33,
+     0.42
+    ],
+    [
+     0.42,
+     0.49
+    ],
+    [
+     0.73,
+     0.81
+    ],
+    [
+     1.2,
+     1.33
+    ],
+    [
+     1.54,
+     1.61
+    ]
+   ],
+   "duration_s": 2.225
+  },
+  {
+   "id": "1580-141083-0011",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141083-0011.wav",
+   "reference": "a broken tip of lead was lying there also",
+   "intervals": [
+    [
+     0.87,
+     0.93
+    ],
+    [
+     1.24,
+     1.39
+    ],
+    [
+     1.66,
+     1.75
+    ],
+    [
+     1.9,
+     1.96
+    ],
+    [
+     2.05,
+     2.15
+    ]
+   ],
+   "duration_s": 2.825
+  },
+  {
+   "id": "1580-141084-0034",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141084-0034.wav",
+   "reference": "well well don't trouble to answer listen and see that i do you no injustice",
+   "intervals": [
+    [
+     0.45,
+     0.54
+    ],
+    [
+     0.6,
+     0.73
+    ],
+    [
+     1.4,
+     1.53
+    ],
+    [
+     2.03,
+     2.09
+    ],
+    [
+     2.32,
+     2.39
+    ],
+    [
+     2.6,
+     2.67
+    ],
+    [
+     2.8,
+     2.89
+    ],
+    [
+     3.13,
+     3.2
+    ],
+    [
+     3.29,
+     3.4
+    ],
+    [
+     3.56,
+     3.63
+    ]
+   ],
+   "duration_s": 4.49
+  },
+  {
+   "id": "1580-141083-0005",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141083-0005.wav",
+   "reference": "i was absent rather more than an hour",
+   "intervals": [
+    [
+     0.23,
+     0.35
+    ],
+    [
+     0.53,
+     0.65
+    ],
+    [
+     1.25,
+     1.32
+    ],
+    [
+     1.88,
+     2.08
+    ]
+   ],
+   "duration_s": 2.745
+  },
+  {
+   "id": "1580-141083-0020",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141083-0020.wav",
+   "reference": "then he approached it and standing on tiptoe with his neck craned he looked into the room",
+   "intervals": [
+    [
+     0.35,
+     0.41
+    ],
+    [
+     0.61,
+     0.72
+    ],
+    [
+     1.35,
+     1.5
+    ],
+    [
+     1.74,
+     1.82
+    ],
+    [
+     1.98,
+     2.05
+    ],
+    [
+     2.19,
+     2.25
+    ],
+    [
+     2.83,
+     2.92
+    ],
+    [
+     3.14,
+     3.31
+    ],
+    [
+     3.48,
+     3.55
+    ],
+    [
+     3.64,
+     3.72
+    ],
+    [
+     3.87,
+     3.98
+    ],
+    [
+     4.37,
+     4.47
+    ]
+   ],
+   "duration_s": 5.135
+  },
+  {
+   "id": "1580-141084-0022",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141084-0022.wav",
+   "reference": "and one more this morning",
+   "intervals": [
+    [
+     0.46,
+     0.55
+    ],
+    [
+     0.74,
+     0.81
+    ],
+    [
+     0.94,
+     1.04
+    ]
+   ],
+   "duration_s": 2.06
+  },
+  {
+   "id": "1580-141084-0037",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141084-0037.wav",
+   "reference": "when i approached your room i examined the window",
+   "intervals": [
+    [
+     0.52,
+     0.63
+    ],
+    [
+     0.84,
+     0.93
+    ],
+    [
+     1.32,
+     1.45
+    ],
+    [
+     1.58,
+     1.73
+    ],
+    [
+     1.93,
+     2.02
+    ]
+   ],
+   "duration_s": 2.965
+  },
+  {
+   "id": "1580-141084-0047",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141084-0047.wav",
+   "reference": "i have a letter here mister soames which i wrote to you early this morning in the middle of a restless night",
+   "intervals": [
+    [
+     0.23,
+     0.36
+    ],
+    [
+     0.65,
+     0.73
+    ],
+    [
+     0.93,
+     1.03
+    ],
+    [
+     1.49,
+     1.64
+    ],
+    [
+     2.05,
+     2.13
+    ],
+    [
+     2.26,
+     2.35
+    ],
+    [
+     2.58,
+     2.67
+    ],
+    [
+     2.67,
+     2.83
+    ],
+    [
+     3.26,
+     3.32
+    ],
+    [
+     3.94,
+     4.0
+    ],
+    [
+     4.18,
+     4.26
+    ],
+    [
+     4.62,
+     4.78
+    ]
+   ],
+   "duration_s": 5.25
+  },
+  {
+   "id": "1580-141083-0031",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141083-0031.wav",
+   "reference": "holmes held out a small chip with the letters n n and a space of clear wood after them you see",
+   "intervals": [
+    [
+     0.78,
+     0.85
+    ],
+    [
+     0.97,
+     1.04
+    ],
+    [
+     1.59,
+     1.7
+    ],
+    [
+     2.09,
+     2.17
+    ],
+    [
+     2.43,
+     2.61
+    ],
+    [
+     2.88,
+     3.13
+    ],
+    [
+     3.3,
+     3.41
+    ],
+    [
+     3.75,
+     3.88
+    ],
+    [
+     4.26,
+     4.34
+    ],
+    [
+     4.51,
+     4.59
+    ],
+    [
+     4.66,
+     4.84
+    ],
+    [
+     5.07,
+     5.15
+    ],
+    [
+     5.7,
+     5.96
+    ]
+   ],
+   "duration_s": 6.25
+  },
+  {
+   "id": "1580-141083-0053",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141083-0053.wav",
+   "reference": "you haven't seen any of them no sir",
+   "intervals": [
+    [
+     1.11,
+     1.3
+    ],
+    [
+     1.36,
+     1.5
+    ],
+    [
+     1.67,
+     1.76
+    ],
+    [
+     1.87,
+     1.95
+    ],
+    [
+     3.03,
+     3.29
+    ],
+    [
+     3.51,
+     3.81
+    ]
+   ],
+   "duration_s": 4.015
+  },
+  {
+   "id": "1580-141083-0049",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141083-0049.wav",
+   "reference": "anyone in the room could get out yes sir",
+   "intervals": [
+    [
+     0.44,
+     0.56
+    ],
+    [
+     1.55,
+     1.79
+    ],
+    [
+     2.84,
+     2.94
+    ],
+    [
+     3.2,
+     3.42
+    ]
+   ],
+   "duration_s": 3.8450625
+  },
+  {
+   "id": "1580-141084-0039",
+   "speaker": "1580",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\1580-141084-0039.wav",
+   "reference": "i entered and i took you into my confidence as to the suggestions of the side table",
+   "intervals": [
+    [
+     0.36,
+     0.53
+    ],
+    [
+     0.53,
+     0.64
+    ],
+    [
+     1.13,
+     1.23
+    ],
+    [
+     1.29,
+     1.38
+    ],
+    [
+     1.5,
+     1.58
+    ],
+    [
+     1.72,
+     1.8
+    ],
+    [
+     2.05,
+     2.14
+    ],
+    [
+     2.23,
+     2.35
+    ],
+    [
+     2.72,
+     2.8
+    ],
+    [
+     3.31,
+     3.39
+    ],
+    [
+     3.98,
+     4.11
+    ],
+    [
+     4.26,
+     4.36
+    ]
+   ],
+   "duration_s": 4.885
+  },
+  {
+   "id": "2094-142345-0019",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0019.wav",
+   "reference": "comb the wool for the whittaws indeed",
+   "intervals": [
+    [
+     0.58,
+     0.67
+    ],
+    [
+     0.96,
+     1.11
+    ],
+    [
+     1.38,
+     1.45
+    ],
+    [
+     2.04,
+     2.28
+    ]
+   ],
+   "duration_s": 2.66
+  },
+  {
+   "id": "2094-142345-0050",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0050.wav",
+   "reference": "but there's father the barn sir if he'd be of any use",
+   "intervals": [
+    [
+     0.87,
+     0.99
+    ],
+    [
+     1.35,
+     1.49
+    ],
+    [
+     1.87,
+     2.09
+    ],
+    [
+     2.27,
+     2.36
+    ],
+    [
+     2.45,
+     2.54
+    ],
+    [
+     2.83,
+     2.89
+    ],
+    [
+     3.14,
+     3.22
+    ]
+   ],
+   "duration_s": 4.045
+  },
+  {
+   "id": "2094-142345-0028",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0028.wav",
+   "reference": "no no no totty ud get her feet wet said missus poyser carrying away her iron",
+   "intervals": [
+    [
+     0.61,
+     0.8
+    ],
+    [
+     0.97,
+     1.15
+    ],
+    [
+     1.35,
+     1.9
+    ],
+    [
+     2.15,
+     2.23
+    ],
+    [
+     2.83,
+     2.97
+    ],
+    [
+     3.1,
+     3.27
+    ],
+    [
+     3.93,
+     4.01
+    ],
+    [
+     4.28,
+     4.45
+    ],
+    [
+     5.64,
+     5.76
+    ],
+    [
+     5.97,
+     6.15
+    ]
+   ],
+   "duration_s": 6.84
+  },
+  {
+   "id": "2094-142345-0031",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0031.wav",
+   "reference": "and she was very fond of you too aunt rachel",
+   "intervals": [
+    [
+     0.4,
+     0.48
+    ],
+    [
+     1.17,
+     1.26
+    ],
+    [
+     1.49,
+     1.56
+    ],
+    [
+     1.69,
+     1.89
+    ],
+    [
+     1.89,
+     1.97
+    ],
+    [
+     2.1,
+     2.18
+    ]
+   ],
+   "duration_s": 2.78
+  },
+  {
+   "id": "2094-142345-0051",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0051.wav",
+   "reference": "no thank you i'll just look at the whelps and leave a message about them with your shepherd",
+   "intervals": [
+    [
+     0.6,
+     0.75
+    ],
+    [
+     1.08,
+     1.25
+    ],
+    [
+     1.76,
+     1.89
+    ],
+    [
+     2.57,
+     2.68
+    ],
+    [
+     3.38,
+     3.46
+    ],
+    [
+     3.77,
+     3.88
+    ],
+    [
+     4.0,
+     4.07
+    ],
+    [
+     4.52,
+     4.58
+    ]
+   ],
+   "duration_s": 5.31
+  },
+  {
+   "id": "2094-142345-0035",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0035.wav",
+   "reference": "but not more than what's in the bible aunt said dinah",
+   "intervals": [
+    [
+     0.68,
+     0.78
+    ],
+    [
+     0.9,
+     0.98
+    ],
+    [
+     1.55,
+     1.71
+    ],
+    [
+     1.93,
+     2.14
+    ],
+    [
+     2.78,
+     2.9
+    ]
+   ],
+   "duration_s": 3.575
+  },
+  {
+   "id": "2094-142345-0043",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0043.wav",
+   "reference": "by this time the two gentlemen had reached the palings and had got down from their horses it was plain they meant to come in",
+   "intervals": [
+    [
+     0.66,
+     0.73
+    ],
+    [
+     0.89,
+     1.01
+    ],
+    [
+     1.27,
+     1.36
+    ],
+    [
+     1.46,
+     1.52
+    ],
+    [
+     2.35,
+     2.48
+    ],
+    [
+     2.88,
+     2.99
+    ],
+    [
+     3.22,
+     3.32
+    ],
+    [
+     3.46,
+     3.62
+    ],
+    [
+     3.98,
+     4.04
+    ],
+    [
+     5.26,
+     5.32
+    ],
+    [
+     5.66,
+     5.8
+    ],
+    [
+     5.91,
+     5.99
+    ],
+    [
+     6.05,
+     6.12
+    ],
+    [
+     6.47,
+     6.65
+    ]
+   ],
+   "duration_s": 7.35
+  },
+  {
+   "id": "2094-142345-0039",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0039.wav",
+   "reference": "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done",
+   "intervals": [
+    [
+     0.26,
+     0.38
+    ],
+    [
+     0.69,
+     0.81
+    ],
+    [
+     1.14,
+     1.2
+    ],
+    [
+     1.8,
+     1.95
+    ],
+    [
+     1.95,
+     2.11
+    ],
+    [
+     2.48,
+     2.58
+    ],
+    [
+     2.99,
+     3.14
+    ],
+    [
+     3.29,
+     3.48
+    ],
+    [
+     3.48,
+     3.55
+    ],
+    [
+     4.99,
+     5.06
+    ],
+    [
+     5.39,
+     5.52
+    ],
+    [
+     5.7,
+     5.84
+    ]
+   ],
+   "duration_s": 6.28
+  },
+  {
+   "id": "2094-142345-0058",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0058.wav",
+   "reference": "by the by i've never seen your dairy i must see your dairy missus poyser",
+   "intervals": [
+    [
+     0.45,
+     0.53
+    ],
+    [
+     0.64,
+     0.96
+    ],
+    [
+     1.42,
+     1.53
+    ],
+    [
+     1.61,
+     1.68
+    ],
+    [
+     2.14,
+     2.24
+    ],
+    [
+     2.88,
+     2.94
+    ],
+    [
+     2.98,
+     3.06
+    ],
+    [
+     3.44,
+     3.52
+    ],
+    [
+     3.76,
+     3.83
+    ],
+    [
+     4.06,
+     4.22
+    ]
+   ],
+   "duration_s": 4.93
+  },
+  {
+   "id": "2094-142345-0053",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0053.wav",
+   "reference": "for if he's anywhere on the farm we can send for him in a minute",
+   "intervals": [
+    [
+     0.8,
+     0.89
+    ],
+    [
+     1.55,
+     1.65
+    ],
+    [
+     2.15,
+     2.22
+    ],
+    [
+     2.5,
+     2.56
+    ],
+    [
+     2.81,
+     2.88
+    ]
+   ],
+   "duration_s": 3.395
+  },
+  {
+   "id": "2094-142345-0047",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0047.wav",
+   "reference": "poyser is not at home is he",
+   "intervals": [
+    [
+     0.58,
+     0.75
+    ],
+    [
+     1.1,
+     1.17
+    ],
+    [
+     1.38,
+     1.53
+    ],
+    [
+     1.62,
+     1.69
+    ],
+    [
+     1.81,
+     2.03
+    ]
+   ],
+   "duration_s": 2.21
+  },
+  {
+   "id": "2094-142345-0034",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0034.wav",
+   "reference": "and there's linen in the house as i could well spare you for i've got lots o sheeting and table clothing and towelling as isn't made up",
+   "intervals": [
+    [
+     0.94,
+     1.0
+    ],
+    [
+     1.41,
+     1.66
+    ],
+    [
+     2.0,
+     2.1
+    ],
+    [
+     2.19,
+     2.3
+    ],
+    [
+     2.51,
+     2.61
+    ],
+    [
+     2.87,
+     2.99
+    ],
+    [
+     3.22,
+     3.39
+    ],
+    [
+     3.89,
+     3.97
+    ],
+    [
+     4.04,
+     4.12
+    ],
+    [
+     4.22,
+     4.33
+    ],
+    [
+     4.68,
+     4.78
+    ],
+    [
+     5.37,
+     5.44
+    ],
+    [
+     5.73,
+     5.82
+    ],
+    [
+     6.38,
+     6.54
+    ],
+    [
+     7.36,
+     7.46
+    ],
+    [
+     7.51,
+     7.68
+    ]
+   ],
+   "duration_s": 7.99
+  },
+  {
+   "id": "2094-142345-0049",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0049.wav",
+   "reference": "no sir he isn't he's gone to rosseter to see mister west the factor about the wool",
+   "intervals": [
+    [
+     0.61,
+     0.69
+    ],
+    [
+     0.82,
+     0.94
+    ],
+    [
+     1.0,
+     1.1
+    ],
+    [
+     1.1,
+     1.18
+    ],
+    [
+     2.03,
+     2.11
+    ],
+    [
+     2.25,
+     2.4
+    ],
+    [
+     3.77,
+     3.95
+    ],
+    [
+     4.45,
+     4.55
+    ],
+    [
+     5.09,
+     5.17
+    ],
+    [
+     5.38,
+     5.44
+    ]
+   ],
+   "duration_s": 6.125
+  },
+  {
+   "id": "2094-142345-0055",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0055.wav",
+   "reference": "but you know more about that than i do sir",
+   "intervals": [
+    [
+     0.75,
+     0.82
+    ],
+    [
+     0.92,
+     1.02
+    ],
+    [
+     1.18,
+     1.28
+    ],
+    [
+     1.41,
+     1.52
+    ],
+    [
+     1.7,
+     1.84
+    ],
+    [
+     1.88,
+     2.02
+    ],
+    [
+     2.17,
+     2.44
+    ]
+   ],
+   "duration_s": 2.655
+  },
+  {
+   "id": "2094-142345-0024",
+   "speaker": "2094",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\2094-142345-0024.wav",
+   "reference": "munny my iron's twite told pease put it down to warm",
+   "intervals": [
+    [
+     0.64,
+     0.76
+    ],
+    [
+     1.41,
+     1.75
+    ],
+    [
+     2.17,
+     2.29
+    ],
+    [
+     2.51,
+     2.74
+    ],
+    [
+     3.35,
+     3.49
+    ],
+    [
+     3.63,
+     3.69
+    ],
+    [
+     3.72,
+     3.79
+    ],
+    [
+     3.93,
+     4.07
+    ],
+    [
+     4.34,
+     4.42
+    ]
+   ],
+   "duration_s": 5.27
+  },
+  {
+   "id": "237-134500-0025",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134500-0025.wav",
+   "reference": "oh emil",
+   "intervals": [
+    [
+     0.51,
+     0.75
+    ],
+    [
+     1.1,
+     1.23
+    ]
+   ],
+   "duration_s": 1.63
+  },
+  {
+   "id": "237-126133-0010",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-126133-0010.wav",
+   "reference": "oh you are the dearest and best mister king i ever saw but how did you make mammy let her come",
+   "intervals": [
+    [
+     0.26,
+     0.62
+    ],
+    [
+     0.76,
+     0.87
+    ],
+    [
+     0.87,
+     0.93
+    ],
+    [
+     1.33,
+     1.48
+    ],
+    [
+     2.15,
+     2.28
+    ],
+    [
+     2.46,
+     2.52
+    ],
+    [
+     2.78,
+     2.84
+    ],
+    [
+     2.93,
+     3.04
+    ],
+    [
+     3.04,
+     3.13
+    ],
+    [
+     3.39,
+     3.71
+    ],
+    [
+     4.25,
+     4.37
+    ],
+    [
+     4.69,
+     4.77
+    ],
+    [
+     4.94,
+     5.02
+    ],
+    [
+     5.49,
+     5.66
+    ]
+   ],
+   "duration_s": 6.24
+  },
+  {
+   "id": "237-134500-0002",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134500-0002.wav",
+   "reference": "a brisk wind had come up and was driving puffy white clouds across the sky",
+   "intervals": [
+    [
+     0.52,
+     0.62
+    ],
+    [
+     0.81,
+     0.94
+    ],
+    [
+     1.09,
+     1.18
+    ],
+    [
+     1.32,
+     1.39
+    ],
+    [
+     1.47,
+     1.65
+    ],
+    [
+     1.75,
+     1.81
+    ],
+    [
+     1.96,
+     2.04
+    ],
+    [
+     2.23,
+     2.36
+    ],
+    [
+     2.66,
+     2.75
+    ],
+    [
+     3.02,
+     3.15
+    ],
+    [
+     3.38,
+     3.61
+    ],
+    [
+     3.91,
+     3.99
+    ],
+    [
+     4.34,
+     4.73
+    ]
+   ],
+   "duration_s": 5.07
+  },
+  {
+   "id": "237-134500-0019",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134500-0019.wav",
+   "reference": "he dropped a handful into her lap",
+   "intervals": [
+    [
+     0.41,
+     0.52
+    ],
+    [
+     0.69,
+     0.79
+    ],
+    [
+     1.03,
+     1.17
+    ],
+    [
+     1.71,
+     1.77
+    ],
+    [
+     1.99,
+     2.18
+    ]
+   ],
+   "duration_s": 2.86
+  },
+  {
+   "id": "237-134500-0016",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134500-0016.wav",
+   "reference": "i don't know all of them but i know lindens are",
+   "intervals": [
+    [
+     0.5,
+     0.65
+    ],
+    [
+     0.86,
+     1.01
+    ],
+    [
+     1.01,
+     1.15
+    ],
+    [
+     1.37,
+     1.46
+    ],
+    [
+     1.96,
+     2.04
+    ],
+    [
+     2.13,
+     2.23
+    ],
+    [
+     2.67,
+     2.9
+    ]
+   ],
+   "duration_s": 3.16
+  },
+  {
+   "id": "237-134500-0042",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134500-0042.wav",
+   "reference": "then all our good times are over",
+   "intervals": [
+    [
+     0.32,
+     0.45
+    ],
+    [
+     0.49,
+     0.61
+    ],
+    [
+     1.0,
+     1.17
+    ],
+    [
+     1.35,
+     1.55
+    ],
+    [
+     1.63,
+     1.79
+    ]
+   ],
+   "duration_s": 2.575
+  },
+  {
+   "id": "237-134493-0006",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134493-0006.wav",
+   "reference": "that's not much of a job for an athlete here i've been to town and back",
+   "intervals": [
+    [
+     0.23,
+     0.34
+    ],
+    [
+     0.54,
+     0.63
+    ],
+    [
+     0.81,
+     0.88
+    ],
+    [
+     1.25,
+     1.45
+    ],
+    [
+     1.81,
+     2.01
+    ],
+    [
+     2.8,
+     2.92
+    ],
+    [
+     2.96,
+     3.08
+    ],
+    [
+     3.51,
+     3.68
+    ],
+    [
+     3.92,
+     4.09
+    ]
+   ],
+   "duration_s": 4.395
+  },
+  {
+   "id": "237-126133-0008",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-126133-0008.wav",
+   "reference": "asked phronsie with her little face close to polly's own",
+   "intervals": [
+    [
+     0.17,
+     0.36
+    ],
+    [
+     1.22,
+     1.28
+    ],
+    [
+     1.37,
+     1.44
+    ],
+    [
+     1.77,
+     1.94
+    ],
+    [
+     2.27,
+     2.38
+    ],
+    [
+     2.68,
+     2.78
+    ],
+    [
+     3.05,
+     3.3
+    ]
+   ],
+   "duration_s": 3.865
+  },
+  {
+   "id": "237-126133-0021",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-126133-0021.wav",
+   "reference": "she asked impulsively i didn't believe you could persuade her father",
+   "intervals": [
+    [
+     0.27,
+     0.36
+    ],
+    [
+     0.36,
+     0.49
+    ],
+    [
+     1.69,
+     1.92
+    ],
+    [
+     2.32,
+     2.43
+    ],
+    [
+     2.63,
+     2.69
+    ],
+    [
+     3.06,
+     3.2
+    ],
+    [
+     3.48,
+     3.64
+    ]
+   ],
+   "duration_s": 4.365
+  },
+  {
+   "id": "237-126133-0017",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-126133-0017.wav",
+   "reference": "there jap you've caught it laughed percy while the others screamed at the sight of jasper's face",
+   "intervals": [
+    [
+     0.57,
+     0.72
+    ],
+    [
+     0.91,
+     1.07
+    ],
+    [
+     1.24,
+     1.31
+    ],
+    [
+     1.45,
+     1.6
+    ],
+    [
+     2.21,
+     2.33
+    ],
+    [
+     2.56,
+     2.67
+    ],
+    [
+     3.13,
+     3.24
+    ],
+    [
+     3.43,
+     3.5
+    ],
+    [
+     3.97,
+     4.13
+    ],
+    [
+     4.52,
+     4.66
+    ],
+    [
+     4.89,
+     5.01
+    ],
+    [
+     5.35,
+     5.57
+    ]
+   ],
+   "duration_s": 6.21
+  },
+  {
+   "id": "237-134500-0021",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134500-0021.wav",
+   "reference": "oh ever so much only he seems kind of staid and school teachery",
+   "intervals": [
+    [
+     0.5,
+     0.81
+    ],
+    [
+     0.85,
+     0.99
+    ],
+    [
+     1.21,
+     1.29
+    ],
+    [
+     1.36,
+     1.56
+    ],
+    [
+     2.02,
+     2.17
+    ],
+    [
+     2.37,
+     2.49
+    ],
+    [
+     2.59,
+     2.71
+    ],
+    [
+     3.2,
+     3.3
+    ],
+    [
+     3.65,
+     3.91
+    ],
+    [
+     4.23,
+     4.31
+    ]
+   ],
+   "duration_s": 5.12
+  },
+  {
+   "id": "237-134500-0023",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134500-0023.wav",
+   "reference": "it would serve you all right if she walked off with carl",
+   "intervals": [
+    [
+     0.19,
+     0.31
+    ],
+    [
+     0.64,
+     0.75
+    ],
+    [
+     0.87,
+     0.96
+    ],
+    [
+     0.96,
+     1.15
+    ],
+    [
+     1.3,
+     1.44
+    ],
+    [
+     1.48,
+     1.54
+    ],
+    [
+     1.65,
+     1.74
+    ],
+    [
+     1.81,
+     1.92
+    ],
+    [
+     2.06,
+     2.2
+    ],
+    [
+     2.49,
+     2.64
+    ]
+   ],
+   "duration_s": 3.06
+  },
+  {
+   "id": "237-134500-0010",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134500-0010.wav",
+   "reference": "it's exciting to see everything growing so fast and to get the grass cut",
+   "intervals": [
+    [
+     0.16,
+     0.28
+    ],
+    [
+     0.52,
+     0.64
+    ],
+    [
+     0.97,
+     1.04
+    ],
+    [
+     1.04,
+     1.12
+    ],
+    [
+     1.59,
+     1.67
+    ],
+    [
+     1.89,
+     1.97
+    ],
+    [
+     2.08,
+     2.35
+    ],
+    [
+     2.66,
+     2.75
+    ],
+    [
+     2.95,
+     3.02
+    ],
+    [
+     3.27,
+     3.44
+    ],
+    [
+     3.61,
+     3.74
+    ]
+   ],
+   "duration_s": 3.995
+  },
+  {
+   "id": "237-134500-0030",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134500-0030.wav",
+   "reference": "i want to be doing something on my own account",
+   "intervals": [
+    [
+     0.11,
+     0.26
+    ],
+    [
+     0.53,
+     0.61
+    ],
+    [
+     0.69,
+     0.78
+    ],
+    [
+     1.3,
+     1.37
+    ],
+    [
+     1.47,
+     1.61
+    ],
+    [
+     1.61,
+     1.72
+    ],
+    [
+     1.94,
+     2.08
+    ]
+   ],
+   "duration_s": 2.78
+  },
+  {
+   "id": "237-134500-0024",
+   "speaker": "237",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\237-134500-0024.wav",
+   "reference": "i like to talk to carl about new york and what a fellow can do there",
+   "intervals": [
+    [
+     0.27,
+     0.49
+    ],
+    [
+     0.56,
+     0.69
+    ],
+    [
+     0.95,
+     1.07
+    ],
+    [
+     1.33,
+     1.49
+    ],
+    [
+     1.74,
+     1.84
+    ],
+    [
+     2.03,
+     2.09
+    ],
+    [
+     2.17,
+     2.35
+    ],
+    [
+     2.7,
+     2.77
+    ],
+    [
+     3.0,
+     3.08
+    ],
+    [
+     3.46,
+     3.56
+    ]
+   ],
+   "duration_s": 4.41
+  },
+  {
+   "id": "2830-3980-0021",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0021.wav",
+   "reference": "and god the father who raised him from the dead",
+   "intervals": [
+    [
+     0.34,
+     0.47
+    ],
+    [
+     0.63,
+     0.74
+    ],
+    [
+     0.98,
+     1.1
+    ],
+    [
+     1.34,
+     1.41
+    ],
+    [
+     1.5,
+     1.6
+    ],
+    [
+     2.24,
+     2.38
+    ]
+   ],
+   "duration_s": 2.91
+  },
+  {
+   "id": "2830-3980-0050",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0050.wav",
+   "reference": "did not christ himself say i am the way and the truth and the life no man cometh unto the father but by me",
+   "intervals": [
+    [
+     0.74,
+     0.86
+    ],
+    [
+     1.1,
+     1.22
+    ],
+    [
+     1.98,
+     2.25
+    ],
+    [
+     2.47,
+     2.66
+    ],
+    [
+     2.66,
+     2.72
+    ],
+    [
+     2.88,
+     2.95
+    ],
+    [
+     3.07,
+     3.33
+    ],
+    [
+     3.76,
+     3.87
+    ],
+    [
+     4.29,
+     4.43
+    ],
+    [
+     4.99,
+     5.08
+    ],
+    [
+     5.17,
+     5.28
+    ],
+    [
+     5.45,
+     5.52
+    ],
+    [
+     6.16,
+     6.29
+    ],
+    [
+     6.68,
+     6.77
+    ],
+    [
+     6.87,
+     7.13
+    ]
+   ],
+   "duration_s": 7.475
+  },
+  {
+   "id": "2830-3980-0056",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0056.wav",
+   "reference": "otherwise paul should have written grace from god the father and peace from our lord jesus christ",
+   "intervals": [
+    [
+     0.35,
+     0.48
+    ],
+    [
+     0.95,
+     1.03
+    ],
+    [
+     1.49,
+     1.56
+    ],
+    [
+     2.34,
+     2.42
+    ],
+    [
+     2.73,
+     2.86
+    ],
+    [
+     3.1,
+     3.23
+    ],
+    [
+     3.6,
+     3.7
+    ],
+    [
+     4.11,
+     4.19
+    ],
+    [
+     4.36,
+     4.44
+    ],
+    [
+     4.82,
+     4.97
+    ]
+   ],
+   "duration_s": 5.35
+  },
+  {
+   "id": "2830-3980-0035",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0035.wav",
+   "reference": "they remain divine regardless of men's opinion",
+   "intervals": [
+    [
+     0.8,
+     0.93
+    ],
+    [
+     1.19,
+     1.36
+    ],
+    [
+     1.63,
+     1.71
+    ],
+    [
+     2.17,
+     2.24
+    ]
+   ],
+   "duration_s": 3.335
+  },
+  {
+   "id": "2830-3980-0037",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0037.wav",
+   "reference": "so much for the title of the epistle now follows the greeting of the apostle verse three",
+   "intervals": [
+    [
+     0.57,
+     0.63
+    ],
+    [
+     1.18,
+     1.25
+    ],
+    [
+     1.74,
+     1.81
+    ],
+    [
+     2.3,
+     2.42
+    ],
+    [
+     2.55,
+     2.65
+    ],
+    [
+     3.71,
+     3.82
+    ],
+    [
+     5.4,
+     5.51
+    ],
+    [
+     5.85,
+     6.03
+    ]
+   ],
+   "duration_s": 6.42
+  },
+  {
+   "id": "2830-3980-0016",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0016.wav",
+   "reference": "it spoils one's best work",
+   "intervals": [
+    [
+     0.78,
+     0.92
+    ],
+    [
+     1.45,
+     1.54
+    ],
+    [
+     1.77,
+     1.88
+    ]
+   ],
+   "duration_s": 2.37
+  },
+  {
+   "id": "2830-3979-0010",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3979-0010.wav",
+   "reference": "but the essence of luther's lectures is there",
+   "intervals": [
+    [
+     0.58,
+     0.64
+    ],
+    [
+     0.89,
+     1.03
+    ],
+    [
+     1.55,
+     1.61
+    ],
+    [
+     2.3,
+     2.44
+    ],
+    [
+     2.6,
+     2.66
+    ]
+   ],
+   "duration_s": 3.36
+  },
+  {
+   "id": "2830-3980-0066",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0066.wav",
+   "reference": "since christ was given for our sins it stands to reason that they cannot be put away by our own efforts",
+   "intervals": [
+    [
+     0.75,
+     0.86
+    ],
+    [
+     1.8,
+     1.9
+    ],
+    [
+     2.32,
+     2.45
+    ],
+    [
+     2.81,
+     2.88
+    ],
+    [
+     3.53,
+     3.6
+    ],
+    [
+     3.79,
+     3.9
+    ],
+    [
+     4.4,
+     4.57
+    ],
+    [
+     4.66,
+     4.76
+    ],
+    [
+     5.08,
+     5.15
+    ]
+   ],
+   "duration_s": 6.085
+  },
+  {
+   "id": "2830-3980-0026",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0026.wav",
+   "reference": "verse two",
+   "intervals": [
+    [
+     0.62,
+     0.72
+    ],
+    [
+     1.01,
+     1.27
+    ]
+   ],
+   "duration_s": 1.485
+  },
+  {
+   "id": "2830-3980-0032",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0032.wav",
+   "reference": "we look for that reward which eye hath not seen nor ear heard neither hath entered into the heart of man",
+   "intervals": [
+    [
+     0.57,
+     0.65
+    ],
+    [
+     0.94,
+     1.02
+    ],
+    [
+     1.29,
+     1.4
+    ],
+    [
+     1.81,
+     2.03
+    ],
+    [
+     2.13,
+     2.19
+    ],
+    [
+     2.35,
+     2.46
+    ],
+    [
+     2.66,
+     2.85
+    ],
+    [
+     3.49,
+     3.6
+    ],
+    [
+     3.66,
+     3.8
+    ],
+    [
+     4.01,
+     4.24
+    ],
+    [
+     4.84,
+     4.91
+    ],
+    [
+     5.15,
+     5.22
+    ],
+    [
+     5.28,
+     5.42
+    ],
+    [
+     6.1,
+     6.17
+    ],
+    [
+     6.46,
+     6.62
+    ]
+   ],
+   "duration_s": 7.22
+  },
+  {
+   "id": "2830-3980-0052",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0052.wav",
+   "reference": "we are to hear christ who has been appointed by the father as our divine teacher",
+   "intervals": [
+    [
+     0.64,
+     0.71
+    ],
+    [
+     1.06,
+     1.12
+    ],
+    [
+     1.4,
+     1.54
+    ],
+    [
+     2.33,
+     2.42
+    ],
+    [
+     2.7,
+     2.78
+    ],
+    [
+     3.01,
+     3.15
+    ],
+    [
+     3.82,
+     3.95
+    ]
+   ],
+   "duration_s": 4.88
+  },
+  {
+   "id": "2830-3980-0022",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0022.wav",
+   "reference": "the clause seems superfluous on first sight",
+   "intervals": [
+    [
+     0.79,
+     0.87
+    ],
+    [
+     1.02,
+     1.09
+    ],
+    [
+     2.25,
+     2.34
+    ],
+    [
+     2.54,
+     2.63
+    ],
+    [
+     2.83,
+     2.99
+    ]
+   ],
+   "duration_s": 3.27
+  },
+  {
+   "id": "2830-3979-0000",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3979-0000.wav",
+   "reference": "we want you to help us publish some leading work of luther's for the general american market will you do it",
+   "intervals": [
+    [
+     0.41,
+     0.48
+    ],
+    [
+     0.62,
+     0.7
+    ],
+    [
+     1.02,
+     1.08
+    ],
+    [
+     2.24,
+     2.32
+    ],
+    [
+     2.58,
+     2.67
+    ],
+    [
+     5.25,
+     5.34
+    ],
+    [
+     5.4,
+     5.51
+    ]
+   ],
+   "duration_s": 6.12
+  },
+  {
+   "id": "2830-3980-0006",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3980-0006.wav",
+   "reference": "against these boasting false apostles paul boldly defends his apostolic authority and ministry",
+   "intervals": [
+    [
+     0.96,
+     1.02
+    ],
+    [
+     1.18,
+     1.31
+    ],
+    [
+     1.91,
+     1.97
+    ],
+    [
+     2.29,
+     2.39
+    ],
+    [
+     3.52,
+     3.58
+    ],
+    [
+     4.01,
+     4.1
+    ],
+    [
+     5.13,
+     5.24
+    ],
+    [
+     5.56,
+     5.62
+    ]
+   ],
+   "duration_s": 6.41
+  },
+  {
+   "id": "2830-3979-0004",
+   "speaker": "2830",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\2830-3979-0004.wav",
+   "reference": "it was written in latin",
+   "intervals": [
+    [
+     0.46,
+     0.53
+    ],
+    [
+     1.28,
+     1.39
+    ]
+   ],
+   "duration_s": 1.945
+  },
+  {
+   "id": "3570-5695-0003",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5695-0003.wav",
+   "reference": "in the communities of the western culture this point is at present found among the lower middle class",
+   "intervals": [
+    [
+     0.28,
+     0.38
+    ],
+    [
+     1.28,
+     1.34
+    ],
+    [
+     1.69,
+     1.76
+    ],
+    [
+     2.15,
+     2.21
+    ],
+    [
+     2.41,
+     2.55
+    ],
+    [
+     2.66,
+     2.72
+    ],
+    [
+     3.3,
+     3.48
+    ],
+    [
+     3.99,
+     4.11
+    ],
+    [
+     4.56,
+     4.71
+    ]
+   ],
+   "duration_s": 5.355
+  },
+  {
+   "id": "3570-5696-0008",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5696-0008.wav",
+   "reference": "but it is on other grounds worth noting that the term waste in the language of everyday life implies deprecation of what is characterized as wasteful",
+   "intervals": [
+    [
+     0.47,
+     0.56
+    ],
+    [
+     0.75,
+     0.81
+    ],
+    [
+     1.04,
+     1.14
+    ],
+    [
+     1.4,
+     1.5
+    ],
+    [
+     1.67,
+     1.73
+    ],
+    [
+     2.3,
+     2.38
+    ],
+    [
+     2.56,
+     2.7
+    ],
+    [
+     3.09,
+     3.15
+    ],
+    [
+     3.46,
+     3.52
+    ],
+    [
+     3.71,
+     3.79
+    ],
+    [
+     3.9,
+     4.04
+    ],
+    [
+     4.43,
+     4.53
+    ],
+    [
+     4.68,
+     4.74
+    ],
+    [
+     5.42,
+     5.48
+    ],
+    [
+     6.56,
+     6.65
+    ]
+   ],
+   "duration_s": 7.26
+  },
+  {
+   "id": "3570-5694-0012",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5694-0012.wav",
+   "reference": "there is a more or less elaborate system of rank and grades",
+   "intervals": [
+    [
+     0.59,
+     0.67
+    ],
+    [
+     1.21,
+     1.27
+    ],
+    [
+     1.97,
+     2.04
+    ],
+    [
+     2.16,
+     2.22
+    ],
+    [
+     2.6,
+     2.72
+    ]
+   ],
+   "duration_s": 3.205
+  },
+  {
+   "id": "3570-5694-0004",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5694-0004.wav",
+   "reference": "in the nature of things luxuries and the comforts of life belong to the leisure class",
+   "intervals": [
+    [
+     0.42,
+     0.57
+    ],
+    [
+     0.76,
+     0.9
+    ],
+    [
+     2.43,
+     2.52
+    ],
+    [
+     2.79,
+     2.85
+    ],
+    [
+     3.34,
+     3.47
+    ],
+    [
+     4.17,
+     4.24
+    ],
+    [
+     4.55,
+     4.68
+    ]
+   ],
+   "duration_s": 5.33
+  },
+  {
+   "id": "3570-5695-0000",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5695-0000.wav",
+   "reference": "in a general way though not wholly nor consistently these two groups coincide",
+   "intervals": [
+    [
+     0.26,
+     0.34
+    ],
+    [
+     0.91,
+     1.13
+    ],
+    [
+     1.43,
+     1.5
+    ],
+    [
+     1.69,
+     1.79
+    ],
+    [
+     2.04,
+     2.11
+    ],
+    [
+     2.95,
+     3.03
+    ],
+    [
+     3.23,
+     3.3
+    ],
+    [
+     3.45,
+     3.52
+    ],
+    [
+     4.11,
+     4.29
+    ]
+   ],
+   "duration_s": 4.83
+  },
+  {
+   "id": "3570-5694-0001",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5694-0001.wav",
+   "reference": "the utility of consumption as an evidence of wealth is to be classed as a derivative growth",
+   "intervals": [
+    [
+     0.79,
+     0.88
+    ],
+    [
+     1.92,
+     2.01
+    ],
+    [
+     2.16,
+     2.23
+    ],
+    [
+     2.81,
+     2.9
+    ],
+    [
+     3.2,
+     3.29
+    ],
+    [
+     3.69,
+     3.86
+    ],
+    [
+     4.42,
+     4.48
+    ],
+    [
+     4.97,
+     5.14
+    ]
+   ],
+   "duration_s": 5.675
+  },
+  {
+   "id": "3570-5695-0002",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5695-0002.wav",
+   "reference": "but as we descend the social scale the point is presently reached where the duties of vicarious leisure and consumption devolve upon the wife alone",
+   "intervals": [
+    [
+     0.5,
+     0.57
+    ],
+    [
+     1.02,
+     1.08
+    ],
+    [
+     1.4,
+     1.48
+    ],
+    [
+     1.86,
+     2.03
+    ],
+    [
+     2.33,
+     2.47
+    ],
+    [
+     2.82,
+     2.88
+    ],
+    [
+     3.31,
+     3.45
+    ],
+    [
+     4.28,
+     4.36
+    ],
+    [
+     5.23,
+     5.3
+    ],
+    [
+     6.27,
+     6.37
+    ],
+    [
+     6.77,
+     6.83
+    ],
+    [
+     6.91,
+     7.03
+    ],
+    [
+     7.27,
+     7.39
+    ]
+   ],
+   "duration_s": 7.805
+  },
+  {
+   "id": "3570-5696-0004",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5696-0004.wav",
+   "reference": "the salient features of this development of domestic service have already been indicated",
+   "intervals": [
+    [
+     0.55,
+     0.64
+    ],
+    [
+     0.92,
+     1.01
+    ],
+    [
+     1.4,
+     1.46
+    ],
+    [
+     1.71,
+     1.78
+    ],
+    [
+     2.37,
+     2.43
+    ],
+    [
+     2.81,
+     2.89
+    ],
+    [
+     3.67,
+     3.73
+    ],
+    [
+     3.77,
+     3.83
+    ]
+   ],
+   "duration_s": 4.7
+  },
+  {
+   "id": "3570-5694-0022",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5694-0022.wav",
+   "reference": "the livery becomes obnoxious to nearly all who are required to wear it",
+   "intervals": [
+    [
+     0.6,
+     0.67
+    ],
+    [
+     1.51,
+     1.59
+    ],
+    [
+     2.1,
+     2.19
+    ],
+    [
+     2.37,
+     2.57
+    ],
+    [
+     2.74,
+     2.83
+    ],
+    [
+     2.83,
+     2.9
+    ],
+    [
+     3.18,
+     3.27
+    ],
+    [
+     3.54,
+     3.64
+    ]
+   ],
+   "duration_s": 4.295
+  },
+  {
+   "id": "3570-5695-0015",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5695-0015.wav",
+   "reference": "the result is a great mobility of the labor employed in printing perhaps greater than in any other equally well defined and considerable body of workmen",
+   "intervals": [
+    [
+     0.53,
+     0.63
+    ],
+    [
+     1.04,
+     1.11
+    ],
+    [
+     1.36,
+     1.44
+    ],
+    [
+     1.92,
+     2.05
+    ],
+    [
+     2.44,
+     2.52
+    ],
+    [
+     3.47,
+     3.55
+    ],
+    [
+     3.85,
+     3.95
+    ],
+    [
+     4.8,
+     4.95
+    ],
+    [
+     5.31,
+     5.37
+    ],
+    [
+     5.69,
+     5.81
+    ],
+    [
+     7.11,
+     7.21
+    ]
+   ],
+   "duration_s": 7.95
+  },
+  {
+   "id": "3570-5695-0008",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5695-0008.wav",
+   "reference": "the question is which of the two methods will most effectively reach the persons whose convictions it is desired to affect",
+   "intervals": [
+    [
+     0.49,
+     0.56
+    ],
+    [
+     0.81,
+     0.89
+    ],
+    [
+     1.26,
+     1.36
+    ],
+    [
+     1.79,
+     1.89
+    ],
+    [
+     1.95,
+     2.02
+    ],
+    [
+     2.57,
+     2.67
+    ],
+    [
+     3.48,
+     3.58
+    ],
+    [
+     3.95,
+     4.05
+    ],
+    [
+     4.38,
+     4.46
+    ],
+    [
+     5.23,
+     5.33
+    ],
+    [
+     5.75,
+     5.88
+    ]
+   ],
+   "duration_s": 6.845
+  },
+  {
+   "id": "3570-5694-0018",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5694-0018.wav",
+   "reference": "the wearers of uniforms and liveries may be roughly divided into two classes the free and the servile or the noble and the ignoble",
+   "intervals": [
+    [
+     0.49,
+     0.6
+    ],
+    [
+     2.19,
+     2.27
+    ],
+    [
+     2.93,
+     3.05
+    ],
+    [
+     3.52,
+     3.61
+    ],
+    [
+     3.74,
+     3.86
+    ],
+    [
+     4.73,
+     4.9
+    ],
+    [
+     5.22,
+     5.32
+    ],
+    [
+     6.19,
+     6.29
+    ],
+    [
+     6.63,
+     6.69
+    ],
+    [
+     7.15,
+     7.25
+    ]
+   ],
+   "duration_s": 7.815
+  },
+  {
+   "id": "3570-5694-0013",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5694-0013.wav",
+   "reference": "this differentiation is furthered by the inheritance of wealth and the consequent inheritance of gentility",
+   "intervals": [
+    [
+     0.28,
+     0.35
+    ],
+    [
+     0.94,
+     1.06
+    ],
+    [
+     1.48,
+     1.61
+    ],
+    [
+     1.86,
+     1.96
+    ],
+    [
+     2.21,
+     2.28
+    ],
+    [
+     2.85,
+     2.95
+    ],
+    [
+     3.15,
+     3.21
+    ]
+   ],
+   "duration_s": 5.61
+  },
+  {
+   "id": "3570-5695-0013",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5695-0013.wav",
+   "reference": "consumption becomes a larger element in the standard of living in the city than in the country",
+   "intervals": [
+    [
+     1.43,
+     1.52
+    ],
+    [
+     1.69,
+     1.85
+    ],
+    [
+     2.49,
+     2.56
+    ]
+   ],
+   "duration_s": 4.64
+  },
+  {
+   "id": "3570-5696-0006",
+   "speaker": "3570",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3570-5696-0006.wav",
+   "reference": "as used in the speech of everyday life the word carries an undertone of deprecation",
+   "intervals": [
+    [
+     0.16,
+     0.3
+    ],
+    [
+     0.99,
+     1.09
+    ],
+    [
+     1.23,
+     1.34
+    ],
+    [
+     1.53,
+     1.61
+    ],
+    [
+     1.72,
+     1.87
+    ],
+    [
+     2.11,
+     2.21
+    ]
+   ],
+   "duration_s": 4.16
+  },
+  {
+   "id": "3729-6852-0014",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0014.wav",
+   "reference": "here go and get me change for a louis i have it sir",
+   "intervals": [
+    [
+     0.6,
+     0.73
+    ],
+    [
+     1.79,
+     1.93
+    ],
+    [
+     2.08,
+     2.17
+    ],
+    [
+     2.31,
+     2.41
+    ],
+    [
+     2.58,
+     2.77
+    ],
+    [
+     3.33,
+     3.49
+    ],
+    [
+     3.96,
+     4.2
+    ],
+    [
+     4.35,
+     4.52
+    ],
+    [
+     4.94,
+     5.22
+    ]
+   ],
+   "duration_s": 5.71
+  },
+  {
+   "id": "3729-6852-0025",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0025.wav",
+   "reference": "is there not a meridian everywhere",
+   "intervals": [
+    [
+     0.5,
+     0.64
+    ],
+    [
+     0.74,
+     0.8
+    ],
+    [
+     0.92,
+     1.1
+    ],
+    [
+     1.94,
+     2.03
+    ]
+   ],
+   "duration_s": 3.0
+  },
+  {
+   "id": "3729-6852-0012",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0012.wav",
+   "reference": "i shall call you esprit",
+   "intervals": [
+    [
+     0.5,
+     0.7
+    ],
+    [
+     0.87,
+     0.94
+    ],
+    [
+     1.1,
+     1.2
+    ],
+    [
+     1.42,
+     1.54
+    ],
+    [
+     2.05,
+     2.35
+    ]
+   ],
+   "duration_s": 2.86
+  },
+  {
+   "id": "3729-6852-0026",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0026.wav",
+   "reference": "yes but the meridian of the palais royal is the most exact",
+   "intervals": [
+    [
+     0.51,
+     0.77
+    ],
+    [
+     1.16,
+     1.22
+    ],
+    [
+     2.48,
+     2.65
+    ],
+    [
+     2.74,
+     2.95
+    ],
+    [
+     3.62,
+     3.72
+    ],
+    [
+     4.05,
+     4.19
+    ]
+   ],
+   "duration_s": 4.69
+  },
+  {
+   "id": "3729-6852-0018",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0018.wav",
+   "reference": "i sit down at a small table a waiter comes immediately to enquire my wishes",
+   "intervals": [
+    [
+     0.5,
+     0.71
+    ],
+    [
+     1.11,
+     1.37
+    ],
+    [
+     1.79,
+     1.89
+    ],
+    [
+     2.12,
+     2.22
+    ],
+    [
+     3.33,
+     3.41
+    ],
+    [
+     3.67,
+     3.74
+    ],
+    [
+     4.07,
+     4.19
+    ],
+    [
+     4.63,
+     4.7
+    ],
+    [
+     4.97,
+     5.15
+    ],
+    [
+     5.29,
+     5.4
+    ],
+    [
+     5.47,
+     5.56
+    ]
+   ],
+   "duration_s": 6.21
+  },
+  {
+   "id": "3729-6852-0036",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0036.wav",
+   "reference": "when the king comes to paris everybody calls out vive le roi",
+   "intervals": [
+    [
+     0.7,
+     0.79
+    ],
+    [
+     0.97,
+     1.06
+    ],
+    [
+     1.42,
+     1.55
+    ],
+    [
+     2.03,
+     2.26
+    ],
+    [
+     2.89,
+     3.04
+    ],
+    [
+     3.16,
+     3.4
+    ],
+    [
+     3.62,
+     3.82
+    ],
+    [
+     4.4,
+     4.93
+    ]
+   ],
+   "duration_s": 5.24
+  },
+  {
+   "id": "3729-6852-0031",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0031.wav",
+   "reference": "but how did she manage to render it so fashionable",
+   "intervals": [
+    [
+     0.56,
+     0.92
+    ],
+    [
+     1.33,
+     1.51
+    ],
+    [
+     1.77,
+     1.84
+    ],
+    [
+     1.94,
+     2.04
+    ],
+    [
+     2.49,
+     2.56
+    ],
+    [
+     2.99,
+     3.1
+    ],
+    [
+     3.24,
+     3.41
+    ]
+   ],
+   "duration_s": 4.4
+  },
+  {
+   "id": "3729-6852-0010",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0010.wav",
+   "reference": "i never had any family",
+   "intervals": [
+    [
+     0.51,
+     0.7
+    ],
+    [
+     0.8,
+     0.89
+    ],
+    [
+     1.45,
+     1.53
+    ],
+    [
+     1.83,
+     1.96
+    ]
+   ],
+   "duration_s": 2.755
+  },
+  {
+   "id": "3729-6852-0030",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0030.wav",
+   "reference": "is it better than anywhere else",
+   "intervals": [
+    [
+     0.51,
+     0.63
+    ],
+    [
+     1.16,
+     1.27
+    ],
+    [
+     2.04,
+     2.14
+    ]
+   ],
+   "duration_s": 2.84
+  },
+  {
+   "id": "3729-6852-0028",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0028.wav",
+   "reference": "all these honest persons are waiting their turn to get their snuff boxes filled",
+   "intervals": [
+    [
+     0.27,
+     0.48
+    ],
+    [
+     0.6,
+     0.72
+    ],
+    [
+     0.8,
+     0.96
+    ],
+    [
+     1.28,
+     1.37
+    ],
+    [
+     1.9,
+     2.0
+    ],
+    [
+     2.5,
+     2.69
+    ],
+    [
+     3.48,
+     3.59
+    ],
+    [
+     3.84,
+     3.94
+    ],
+    [
+     4.41,
+     4.51
+    ]
+   ],
+   "duration_s": 5.265
+  },
+  {
+   "id": "3729-6852-0011",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0011.wav",
+   "reference": "i had a name i believe in my young days but i have forgotten it since i have been in service",
+   "intervals": [
+    [
+     0.32,
+     0.49
+    ],
+    [
+     0.58,
+     0.67
+    ],
+    [
+     0.89,
+     1.11
+    ],
+    [
+     1.2,
+     1.35
+    ],
+    [
+     1.6,
+     1.83
+    ],
+    [
+     2.1,
+     2.26
+    ],
+    [
+     2.34,
+     2.46
+    ],
+    [
+     2.72,
+     3.05
+    ],
+    [
+     3.92,
+     4.06
+    ],
+    [
+     4.13,
+     4.19
+    ],
+    [
+     4.49,
+     4.68
+    ],
+    [
+     4.89,
+     4.98
+    ],
+    [
+     5.46,
+     5.57
+    ],
+    [
+     5.7,
+     5.79
+    ],
+    [
+     6.0,
+     6.08
+    ],
+    [
+     6.13,
+     6.21
+    ],
+    [
+     6.49,
+     6.64
+    ]
+   ],
+   "duration_s": 7.37
+  },
+  {
+   "id": "3729-6852-0024",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0024.wav",
+   "reference": "i see a crowd in one corner of the garden everybody standing still and looking up",
+   "intervals": [
+    [
+     0.45,
+     0.64
+    ],
+    [
+     0.77,
+     0.84
+    ],
+    [
+     1.09,
+     1.27
+    ],
+    [
+     1.52,
+     1.58
+    ],
+    [
+     1.8,
+     1.86
+    ],
+    [
+     2.33,
+     2.42
+    ],
+    [
+     2.99,
+     3.22
+    ],
+    [
+     3.88,
+     3.96
+    ],
+    [
+     4.39,
+     4.5
+    ],
+    [
+     5.03,
+     5.12
+    ]
+   ],
+   "duration_s": 5.515
+  },
+  {
+   "id": "3729-6852-0015",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0015.wav",
+   "reference": "at your service sir",
+   "intervals": [
+    [
+     0.51,
+     0.69
+    ],
+    [
+     0.86,
+     0.92
+    ],
+    [
+     1.16,
+     1.29
+    ],
+    [
+     1.77,
+     2.1
+    ]
+   ],
+   "duration_s": 2.61
+  },
+  {
+   "id": "3729-6852-0021",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0021.wav",
+   "reference": "i thank him and take my leave",
+   "intervals": [
+    [
+     0.35,
+     0.51
+    ],
+    [
+     0.9,
+     1.01
+    ],
+    [
+     1.33,
+     1.43
+    ],
+    [
+     1.63,
+     1.74
+    ],
+    [
+     1.91,
+     2.05
+    ],
+    [
+     2.1,
+     2.33
+    ]
+   ],
+   "duration_s": 2.96
+  },
+  {
+   "id": "3729-6852-0037",
+   "speaker": "3729",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\3729-6852-0037.wav",
+   "reference": "she introduced me to all her guests and gave me some particulars respecting every one of them",
+   "intervals": [
+    [
+     0.45,
+     0.58
+    ],
+    [
+     0.84,
+     0.97
+    ],
+    [
+     1.17,
+     1.31
+    ],
+    [
+     1.41,
+     1.55
+    ],
+    [
+     1.55,
+     1.68
+    ],
+    [
+     2.03,
+     2.22
+    ],
+    [
+     2.75,
+     2.84
+    ],
+    [
+     2.94,
+     3.01
+    ],
+    [
+     3.44,
+     3.52
+    ],
+    [
+     4.29,
+     4.36
+    ],
+    [
+     5.0,
+     5.07
+    ]
+   ],
+   "duration_s": 5.89
+  },
+  {
+   "id": "4970-29095-0037",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29095-0037.wav",
+   "reference": "but that wise and placid woman understood the sweet rebel a great deal better than ruth understood herself",
+   "intervals": [
+    [
+     0.55,
+     0.62
+    ],
+    [
+     0.71,
+     0.8
+    ],
+    [
+     0.99,
+     1.25
+    ],
+    [
+     1.6,
+     1.7
+    ],
+    [
+     1.96,
+     2.02
+    ],
+    [
+     2.7,
+     2.78
+    ],
+    [
+     3.09,
+     3.16
+    ],
+    [
+     3.32,
+     3.38
+    ],
+    [
+     3.99,
+     4.09
+    ],
+    [
+     4.42,
+     4.5
+    ],
+    [
+     5.04,
+     5.16
+    ],
+    [
+     5.64,
+     5.74
+    ],
+    [
+     6.07,
+     6.19
+    ]
+   ],
+   "duration_s": 6.885
+  },
+  {
+   "id": "4970-29093-0015",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29093-0015.wav",
+   "reference": "you can begin by carrying a rod and putting down the figures",
+   "intervals": [
+    [
+     0.73,
+     0.81
+    ],
+    [
+     0.95,
+     1.06
+    ],
+    [
+     1.67,
+     1.89
+    ],
+    [
+     1.94,
+     2.01
+    ],
+    [
+     2.45,
+     2.52
+    ],
+    [
+     2.75,
+     2.81
+    ]
+   ],
+   "duration_s": 3.325
+  },
+  {
+   "id": "4970-29093-0021",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29093-0021.wav",
+   "reference": "i was afraid it was nearer home",
+   "intervals": [
+    [
+     0.26,
+     0.44
+    ],
+    [
+     0.82,
+     0.92
+    ],
+    [
+     1.27,
+     1.37
+    ],
+    [
+     1.6,
+     1.8
+    ]
+   ],
+   "duration_s": 2.425
+  },
+  {
+   "id": "4970-29095-0036",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29095-0036.wav",
+   "reference": "has thee consulted thy mother about a career i suppose it is a career thee wants",
+   "intervals": [
+    [
+     0.49,
+     0.63
+    ],
+    [
+     1.25,
+     1.35
+    ],
+    [
+     1.46,
+     1.55
+    ],
+    [
+     1.85,
+     1.93
+    ],
+    [
+     2.23,
+     2.39
+    ],
+    [
+     2.78,
+     2.91
+    ],
+    [
+     3.17,
+     3.31
+    ],
+    [
+     3.48,
+     3.56
+    ],
+    [
+     3.84,
+     3.96
+    ],
+    [
+     4.14,
+     4.23
+    ],
+    [
+     4.35,
+     4.49
+    ]
+   ],
+   "duration_s": 5.25
+  },
+  {
+   "id": "4970-29095-0005",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29095-0005.wav",
+   "reference": "thy ways greatly try me ruth and all thy relations",
+   "intervals": [
+    [
+     0.63,
+     0.86
+    ],
+    [
+     0.99,
+     1.13
+    ],
+    [
+     1.45,
+     1.54
+    ],
+    [
+     1.96,
+     2.11
+    ],
+    [
+     2.19,
+     2.31
+    ],
+    [
+     2.45,
+     2.65
+    ],
+    [
+     2.94,
+     3.05
+    ],
+    [
+     3.24,
+     3.45
+    ],
+    [
+     3.55,
+     3.66
+    ],
+    [
+     3.87,
+     3.99
+    ]
+   ],
+   "duration_s": 4.65
+  },
+  {
+   "id": "4970-29095-0006",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29095-0006.wav",
+   "reference": "is thy father willing thee should go away to a school of the world's people",
+   "intervals": [
+    [
+     0.31,
+     0.44
+    ],
+    [
+     0.54,
+     0.68
+    ],
+    [
+     0.83,
+     0.97
+    ],
+    [
+     1.25,
+     1.32
+    ],
+    [
+     1.62,
+     1.73
+    ],
+    [
+     1.98,
+     2.08
+    ],
+    [
+     2.22,
+     2.37
+    ],
+    [
+     2.78,
+     2.94
+    ],
+    [
+     3.3,
+     3.36
+    ],
+    [
+     3.59,
+     3.69
+    ]
+   ],
+   "duration_s": 4.47
+  },
+  {
+   "id": "4970-29093-0007",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29093-0007.wav",
+   "reference": "it is such a noble ambition that it is a pity it has usually such a shallow foundation",
+   "intervals": [
+    [
+     0.52,
+     0.6
+    ],
+    [
+     0.64,
+     0.71
+    ],
+    [
+     0.87,
+     0.96
+    ],
+    [
+     1.3,
+     1.4
+    ],
+    [
+     1.78,
+     1.85
+    ],
+    [
+     2.62,
+     2.71
+    ],
+    [
+     2.81,
+     2.91
+    ],
+    [
+     2.95,
+     3.05
+    ],
+    [
+     3.29,
+     3.35
+    ],
+    [
+     3.77,
+     3.9
+    ],
+    [
+     4.78,
+     4.85
+    ],
+    [
+     5.27,
+     5.36
+    ],
+    [
+     5.48,
+     5.56
+    ],
+    [
+     6.09,
+     6.21
+    ]
+   ],
+   "duration_s": 6.995
+  },
+  {
+   "id": "4970-29095-0032",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29095-0032.wav",
+   "reference": "but philip is honest and he has talent enough if he will stop scribbling to make his way",
+   "intervals": [
+    [
+     0.42,
+     0.53
+    ],
+    [
+     0.7,
+     0.77
+    ],
+    [
+     1.09,
+     1.27
+    ],
+    [
+     1.75,
+     1.83
+    ],
+    [
+     2.11,
+     2.21
+    ],
+    [
+     2.38,
+     2.48
+    ],
+    [
+     2.76,
+     3.0
+    ],
+    [
+     3.32,
+     3.5
+    ],
+    [
+     3.67,
+     3.73
+    ],
+    [
+     4.03,
+     4.11
+    ],
+    [
+     5.59,
+     5.69
+    ],
+    [
+     6.02,
+     6.36
+    ]
+   ],
+   "duration_s": 6.61
+  },
+  {
+   "id": "4970-29093-0000",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29093-0000.wav",
+   "reference": "you'll never dig it out of the astor library",
+   "intervals": [
+    [
+     0.52,
+     0.59
+    ],
+    [
+     0.83,
+     0.89
+    ],
+    [
+     1.04,
+     1.18
+    ],
+    [
+     1.46,
+     1.57
+    ],
+    [
+     1.94,
+     2.08
+    ]
+   ],
+   "duration_s": 3.03
+  },
+  {
+   "id": "4970-29095-0014",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29095-0014.wav",
+   "reference": "where thee and thy family are known",
+   "intervals": [
+    [
+     0.61,
+     0.68
+    ],
+    [
+     0.87,
+     1.12
+    ],
+    [
+     1.12,
+     1.19
+    ],
+    [
+     1.34,
+     1.46
+    ],
+    [
+     1.61,
+     1.74
+    ],
+    [
+     2.08,
+     2.2
+    ],
+    [
+     2.58,
+     2.81
+    ]
+   ],
+   "duration_s": 3.26
+  },
+  {
+   "id": "4970-29095-0016",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29095-0016.wav",
+   "reference": "ruth sat quite still for a time with face intent and flushed it was out now",
+   "intervals": [
+    [
+     0.66,
+     0.8
+    ],
+    [
+     1.0,
+     1.12
+    ],
+    [
+     1.35,
+     1.44
+    ],
+    [
+     1.73,
+     1.82
+    ],
+    [
+     2.36,
+     2.6
+    ],
+    [
+     3.4,
+     3.56
+    ],
+    [
+     3.92,
+     4.02
+    ],
+    [
+     4.19,
+     4.27
+    ],
+    [
+     4.55,
+     4.69
+    ],
+    [
+     5.78,
+     5.88
+    ],
+    [
+     6.11,
+     6.28
+    ],
+    [
+     6.43,
+     6.8
+    ]
+   ],
+   "duration_s": 6.945
+  },
+  {
+   "id": "4970-29093-0016",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29093-0016.wav",
+   "reference": "no its not too soon",
+   "intervals": [
+    [
+     0.72,
+     0.97
+    ],
+    [
+     1.13,
+     1.22
+    ],
+    [
+     1.32,
+     1.42
+    ],
+    [
+     1.55,
+     1.79
+    ]
+   ],
+   "duration_s": 2.23
+  },
+  {
+   "id": "4970-29093-0020",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29093-0020.wav",
+   "reference": "why it's in missouri somewhere on the frontier i think we'll get a map",
+   "intervals": [
+    [
+     0.65,
+     0.9
+    ],
+    [
+     1.39,
+     1.45
+    ],
+    [
+     1.76,
+     1.83
+    ],
+    [
+     2.37,
+     2.47
+    ],
+    [
+     2.96,
+     3.1
+    ],
+    [
+     3.14,
+     3.29
+    ],
+    [
+     3.38,
+     3.47
+    ],
+    [
+     4.64,
+     4.77
+    ],
+    [
+     4.87,
+     5.06
+    ]
+   ],
+   "duration_s": 5.58
+  },
+  {
+   "id": "4970-29093-0004",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29093-0004.wav",
+   "reference": "he was unable to decide exactly what it should be",
+   "intervals": [
+    [
+     0.71,
+     0.78
+    ],
+    [
+     1.0,
+     1.14
+    ],
+    [
+     1.64,
+     1.83
+    ],
+    [
+     2.08,
+     2.16
+    ],
+    [
+     2.97,
+     3.25
+    ]
+   ],
+   "duration_s": 3.75
+  },
+  {
+   "id": "4970-29095-0030",
+   "speaker": "4970",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4970-29095-0030.wav",
+   "reference": "father thee's unjust to philip he's going into business",
+   "intervals": [
+    [
+     0.69,
+     0.85
+    ],
+    [
+     1.17,
+     1.33
+    ],
+    [
+     1.72,
+     1.81
+    ],
+    [
+     2.15,
+     2.21
+    ],
+    [
+     3.31,
+     3.41
+    ],
+    [
+     3.79,
+     3.88
+    ]
+   ],
+   "duration_s": 4.67
+  },
+  {
+   "id": "4992-23283-0019",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-23283-0019.wav",
+   "reference": "i will make no unjust use of what i know he replied with firmness i believe you my lord",
+   "intervals": [
+    [
+     0.26,
+     0.44
+    ],
+    [
+     0.69,
+     0.82
+    ],
+    [
+     1.06,
+     1.2
+    ],
+    [
+     1.39,
+     1.52
+    ],
+    [
+     1.91,
+     2.01
+    ],
+    [
+     2.42,
+     2.49
+    ],
+    [
+     2.53,
+     2.67
+    ],
+    [
+     2.8,
+     3.07
+    ],
+    [
+     3.13,
+     3.2
+    ],
+    [
+     3.51,
+     3.59
+    ],
+    [
+     3.9,
+     4.01
+    ],
+    [
+     4.84,
+     5.07
+    ],
+    [
+     5.29,
+     5.4
+    ],
+    [
+     5.7,
+     5.84
+    ],
+    [
+     5.9,
+     6.02
+    ]
+   ],
+   "duration_s": 6.585
+  },
+  {
+   "id": "4992-41797-0011",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-41797-0011.wav",
+   "reference": "whatever appealed to her sense of beauty was straightway transferred to paper or canvas",
+   "intervals": [
+    [
+     0.55,
+     0.65
+    ],
+    [
+     1.12,
+     1.25
+    ],
+    [
+     2.9,
+     3.0
+    ],
+    [
+     3.69,
+     3.85
+    ],
+    [
+     4.14,
+     4.26
+    ],
+    [
+     4.64,
+     4.75
+    ]
+   ],
+   "duration_s": 5.445
+  },
+  {
+   "id": "4992-23283-0018",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-23283-0018.wav",
+   "reference": "to relieve her from both he laid his hand with force upon his heart and said do you believe me",
+   "intervals": [
+    [
+     0.37,
+     0.43
+    ],
+    [
+     0.62,
+     0.72
+    ],
+    [
+     1.2,
+     1.46
+    ],
+    [
+     1.61,
+     1.74
+    ],
+    [
+     1.82,
+     1.95
+    ],
+    [
+     2.01,
+     2.08
+    ],
+    [
+     2.22,
+     2.43
+    ],
+    [
+     2.83,
+     2.93
+    ],
+    [
+     3.33,
+     3.42
+    ],
+    [
+     3.67,
+     3.75
+    ],
+    [
+     5.01,
+     5.11
+    ],
+    [
+     5.28,
+     5.35
+    ],
+    [
+     5.55,
+     5.67
+    ],
+    [
+     5.87,
+     6.11
+    ]
+   ],
+   "duration_s": 6.575
+  },
+  {
+   "id": "4992-41806-0004",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-41806-0004.wav",
+   "reference": "burn fire burn flicker flicker flame",
+   "intervals": [
+    [
+     0.61,
+     0.88
+    ],
+    [
+     1.09,
+     1.29
+    ],
+    [
+     1.49,
+     1.78
+    ],
+    [
+     3.06,
+     3.3
+    ]
+   ],
+   "duration_s": 3.7
+  },
+  {
+   "id": "4992-23283-0001",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-23283-0001.wav",
+   "reference": "miss milner's health is not good",
+   "intervals": [
+    [
+     0.67,
+     0.76
+    ],
+    [
+     0.97,
+     1.03
+    ],
+    [
+     1.42,
+     1.53
+    ],
+    [
+     1.9,
+     2.02
+    ],
+    [
+     2.2,
+     2.45
+    ]
+   ],
+   "duration_s": 2.71
+  },
+  {
+   "id": "4992-41797-0003",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-41797-0003.wav",
+   "reference": "mister popham laid down his brush",
+   "intervals": [
+    [
+     0.63,
+     0.7
+    ],
+    [
+     1.05,
+     1.19
+    ],
+    [
+     1.51,
+     1.61
+    ],
+    [
+     1.73,
+     1.82
+    ],
+    [
+     2.19,
+     2.34
+    ]
+   ],
+   "duration_s": 2.835
+  },
+  {
+   "id": "4992-23283-0007",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-23283-0007.wav",
+   "reference": "to ask any more questions of you i believe would be unfair",
+   "intervals": [
+    [
+     0.47,
+     0.56
+    ],
+    [
+     0.56,
+     0.78
+    ],
+    [
+     0.99,
+     1.07
+    ],
+    [
+     1.53,
+     1.64
+    ],
+    [
+     2.25,
+     2.36
+    ],
+    [
+     2.36,
+     2.46
+    ],
+    [
+     2.65,
+     2.72
+    ],
+    [
+     3.37,
+     3.57
+    ]
+   ],
+   "duration_s": 4.045
+  },
+  {
+   "id": "4992-23283-0006",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-23283-0006.wav",
+   "reference": "perhaps i am mistaken answered she",
+   "intervals": [
+    [
+     0.73,
+     0.85
+    ],
+    [
+     1.07,
+     1.16
+    ],
+    [
+     1.54,
+     1.69
+    ],
+    [
+     1.93,
+     2.09
+    ],
+    [
+     2.5,
+     2.68
+    ]
+   ],
+   "duration_s": 2.965
+  },
+  {
+   "id": "4992-23283-0000",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-23283-0000.wav",
+   "reference": "but the more forgetfulness had then prevailed the more powerful was the force of remembrance when she awoke",
+   "intervals": [
+    [
+     0.43,
+     0.62
+    ],
+    [
+     1.06,
+     1.18
+    ],
+    [
+     1.42,
+     1.53
+    ],
+    [
+     2.19,
+     2.3
+    ],
+    [
+     2.63,
+     2.85
+    ],
+    [
+     3.17,
+     3.24
+    ],
+    [
+     3.48,
+     3.64
+    ],
+    [
+     4.93,
+     5.02
+    ],
+    [
+     5.64,
+     5.72
+    ],
+    [
+     5.89,
+     6.05
+    ]
+   ],
+   "duration_s": 6.645
+  },
+  {
+   "id": "4992-41806-0009",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-41806-0009.wav",
+   "reference": "exclaimed bill harmon to his wife as they went through the lighted hall",
+   "intervals": [
+    [
+     0.71,
+     0.8
+    ],
+    [
+     0.97,
+     1.05
+    ],
+    [
+     1.17,
+     1.25
+    ],
+    [
+     1.94,
+     2.12
+    ],
+    [
+     2.19,
+     2.28
+    ],
+    [
+     2.43,
+     2.51
+    ],
+    [
+     2.6,
+     2.69
+    ],
+    [
+     3.15,
+     3.27
+    ]
+   ],
+   "duration_s": 4.355
+  },
+  {
+   "id": "4992-41797-0010",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-41797-0010.wav",
+   "reference": "always irritable cold indifferent he had grown rapidly more so as years went on",
+   "intervals": [
+    [
+     0.46,
+     0.63
+    ],
+    [
+     0.97,
+     1.05
+    ],
+    [
+     1.72,
+     1.92
+    ],
+    [
+     2.44,
+     2.53
+    ],
+    [
+     3.37,
+     3.46
+    ],
+    [
+     3.8,
+     3.87
+    ],
+    [
+     4.1,
+     4.24
+    ],
+    [
+     4.73,
+     4.85
+    ],
+    [
+     5.14,
+     5.4
+    ],
+    [
+     5.4,
+     5.55
+    ],
+    [
+     6.02,
+     6.11
+    ],
+    [
+     6.18,
+     6.42
+    ]
+   ],
+   "duration_s": 6.82
+  },
+  {
+   "id": "4992-41806-0010",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-41806-0010.wav",
+   "reference": "ain't they the greatest",
+   "intervals": [
+    [
+     0.42,
+     0.64
+    ],
+    [
+     0.83,
+     1.0
+    ],
+    [
+     1.41,
+     1.55
+    ]
+   ],
+   "duration_s": 2.14
+  },
+  {
+   "id": "4992-41797-0019",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-41797-0019.wav",
+   "reference": "olive's mournful black eyes met nancy's sparkling brown ones",
+   "intervals": [
+    [
+     0.54,
+     0.86
+    ],
+    [
+     1.27,
+     1.34
+    ],
+    [
+     1.79,
+     1.89
+    ],
+    [
+     2.01,
+     2.24
+    ],
+    [
+     2.44,
+     2.52
+    ],
+    [
+     2.68,
+     2.81
+    ],
+    [
+     3.32,
+     3.38
+    ],
+    [
+     3.85,
+     3.99
+    ],
+    [
+     4.14,
+     4.26
+    ]
+   ],
+   "duration_s": 4.755
+  },
+  {
+   "id": "4992-23283-0008",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-23283-0008.wav",
+   "reference": "he seemed to wait for her reply but as she made none he proceeded",
+   "intervals": [
+    [
+     0.52,
+     0.62
+    ],
+    [
+     0.81,
+     0.94
+    ],
+    [
+     1.44,
+     1.59
+    ],
+    [
+     2.19,
+     2.41
+    ],
+    [
+     2.49,
+     2.58
+    ],
+    [
+     2.63,
+     2.8
+    ],
+    [
+     2.94,
+     3.02
+    ],
+    [
+     3.12,
+     3.28
+    ],
+    [
+     3.38,
+     3.57
+    ],
+    [
+     3.72,
+     3.8
+    ],
+    [
+     4.13,
+     4.24
+    ]
+   ],
+   "duration_s": 4.91
+  },
+  {
+   "id": "4992-41797-0012",
+   "speaker": "4992",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\4992-41797-0012.wav",
+   "reference": "she is wild to know how to do things",
+   "intervals": [
+    [
+     0.39,
+     0.51
+    ],
+    [
+     0.51,
+     0.6
+    ],
+    [
+     0.92,
+     1.16
+    ],
+    [
+     1.51,
+     1.6
+    ],
+    [
+     1.69,
+     1.77
+    ],
+    [
+     1.96,
+     2.07
+    ],
+    [
+     2.19,
+     2.3
+    ]
+   ],
+   "duration_s": 2.705
+  },
+  {
+   "id": "5105-28233-0006",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28233-0006.wav",
+   "reference": "no cathedral not even burgos itself could vie with the church at montmartre",
+   "intervals": [
+    [
+     0.41,
+     0.48
+    ],
+    [
+     0.79,
+     0.89
+    ],
+    [
+     1.37,
+     1.44
+    ],
+    [
+     1.49,
+     1.55
+    ],
+    [
+     1.87,
+     1.99
+    ],
+    [
+     2.54,
+     2.66
+    ],
+    [
+     3.52,
+     3.74
+    ],
+    [
+     4.14,
+     4.25
+    ],
+    [
+     4.72,
+     4.8
+    ]
+   ],
+   "duration_s": 5.505
+  },
+  {
+   "id": "5105-28241-0016",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28241-0016.wav",
+   "reference": "you must see lieutenant i should think that we are not so near the coast of algeria as you imagined",
+   "intervals": [
+    [
+     0.78,
+     0.88
+    ],
+    [
+     1.12,
+     1.29
+    ],
+    [
+     1.96,
+     2.11
+    ],
+    [
+     2.4,
+     2.5
+    ],
+    [
+     2.85,
+     2.95
+    ],
+    [
+     3.09,
+     3.2
+    ],
+    [
+     3.42,
+     3.5
+    ],
+    [
+     3.58,
+     3.68
+    ],
+    [
+     3.94,
+     4.05
+    ],
+    [
+     4.54,
+     4.63
+    ],
+    [
+     4.97,
+     5.09
+    ],
+    [
+     5.39,
+     5.51
+    ]
+   ],
+   "duration_s": 6.285
+  },
+  {
+   "id": "5105-28240-0004",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28240-0004.wav",
+   "reference": "if the count were on board a strange fatality was bringing him to the presence of his rival",
+   "intervals": [
+    [
+     0.33,
+     0.52
+    ],
+    [
+     0.76,
+     0.89
+    ],
+    [
+     1.12,
+     1.2
+    ],
+    [
+     1.35,
+     1.57
+    ],
+    [
+     2.27,
+     2.4
+    ],
+    [
+     3.83,
+     3.96
+    ],
+    [
+     4.46,
+     4.55
+    ],
+    [
+     5.27,
+     5.4
+    ]
+   ],
+   "duration_s": 6.015
+  },
+  {
+   "id": "5105-28240-0013",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28240-0013.wav",
+   "reference": "nothing more than you know yourself",
+   "intervals": [
+    [
+     0.65,
+     0.73
+    ],
+    [
+     1.0,
+     1.11
+    ],
+    [
+     1.42,
+     1.49
+    ],
+    [
+     1.61,
+     1.76
+    ],
+    [
+     2.07,
+     2.18
+    ]
+   ],
+   "duration_s": 2.96
+  },
+  {
+   "id": "5105-28233-0004",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28233-0004.wav",
+   "reference": "once in action he was leading a detachment of infantry through an intrenchment",
+   "intervals": [
+    [
+     0.41,
+     0.52
+    ],
+    [
+     0.87,
+     0.97
+    ],
+    [
+     1.03,
+     1.2
+    ],
+    [
+     1.84,
+     1.91
+    ],
+    [
+     2.45,
+     2.55
+    ],
+    [
+     2.9,
+     3.0
+    ]
+   ],
+   "duration_s": 4.735
+  },
+  {
+   "id": "5105-28240-0005",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28240-0005.wav",
+   "reference": "he reckoned therefore not only upon ascertaining the extent of the late catastrophe but upon learning its cause",
+   "intervals": [
+    [
+     0.99,
+     1.05
+    ],
+    [
+     1.48,
+     1.59
+    ],
+    [
+     1.63,
+     1.75
+    ],
+    [
+     2.1,
+     2.17
+    ],
+    [
+     2.67,
+     2.75
+    ],
+    [
+     3.45,
+     3.54
+    ],
+    [
+     3.66,
+     3.73
+    ],
+    [
+     3.81,
+     3.88
+    ],
+    [
+     3.99,
+     4.07
+    ],
+    [
+     4.35,
+     4.51
+    ],
+    [
+     5.64,
+     5.72
+    ],
+    [
+     5.93,
+     6.0
+    ],
+    [
+     6.16,
+     6.23
+    ],
+    [
+     6.67,
+     6.96
+    ]
+   ],
+   "duration_s": 7.4
+  },
+  {
+   "id": "5105-28241-0003",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28241-0003.wav",
+   "reference": "steam up and canvas spread the schooner started eastwards",
+   "intervals": [
+    [
+     0.7,
+     0.83
+    ],
+    [
+     0.9,
+     1.07
+    ],
+    [
+     1.42,
+     1.53
+    ],
+    [
+     1.99,
+     2.1
+    ],
+    [
+     2.44,
+     2.54
+    ],
+    [
+     3.16,
+     3.25
+    ]
+   ],
+   "duration_s": 3.98
+  },
+  {
+   "id": "5105-28241-0014",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28241-0014.wav",
+   "reference": "another circumstance was most remarkable",
+   "intervals": [
+    [
+     0.66,
+     0.74
+    ],
+    [
+     0.96,
+     1.03
+    ],
+    [
+     1.93,
+     2.03
+    ],
+    [
+     2.31,
+     2.38
+    ]
+   ],
+   "duration_s": 2.995
+  },
+  {
+   "id": "5105-28241-0013",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28241-0013.wav",
+   "reference": "would not the loftiest eminences of the city at least be visible",
+   "intervals": [
+    [
+     0.75,
+     0.86
+    ],
+    [
+     1.02,
+     1.08
+    ],
+    [
+     1.29,
+     1.43
+    ],
+    [
+     2.01,
+     2.17
+    ],
+    [
+     2.8,
+     2.9
+    ],
+    [
+     3.51,
+     3.57
+    ],
+    [
+     3.7,
+     3.77
+    ],
+    [
+     4.08,
+     4.17
+    ]
+   ],
+   "duration_s": 4.82
+  },
+  {
+   "id": "5105-28241-0006",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28241-0006.wav",
+   "reference": "the log and the compass therefore were able to be called upon to do the work of the sextant which had become utterly useless",
+   "intervals": [
+    [
+     0.45,
+     0.52
+    ],
+    [
+     0.61,
+     0.78
+    ],
+    [
+     1.13,
+     1.19
+    ],
+    [
+     1.58,
+     1.65
+    ],
+    [
+     2.52,
+     2.68
+    ],
+    [
+     3.16,
+     3.25
+    ],
+    [
+     3.51,
+     3.62
+    ],
+    [
+     3.94,
+     4.02
+    ],
+    [
+     4.25,
+     4.34
+    ],
+    [
+     5.35,
+     5.41
+    ],
+    [
+     5.84,
+     5.91
+    ],
+    [
+     5.97,
+     6.15
+    ],
+    [
+     6.57,
+     6.67
+    ]
+   ],
+   "duration_s": 7.55
+  },
+  {
+   "id": "5105-28240-0012",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28240-0012.wav",
+   "reference": "never mind now interposed the captain we will talk of that by and by",
+   "intervals": [
+    [
+     0.96,
+     1.09
+    ],
+    [
+     1.27,
+     1.59
+    ],
+    [
+     1.97,
+     2.1
+    ],
+    [
+     2.4,
+     2.5
+    ],
+    [
+     3.51,
+     3.58
+    ],
+    [
+     3.8,
+     3.9
+    ],
+    [
+     4.02,
+     4.18
+    ],
+    [
+     4.4,
+     4.66
+    ]
+   ],
+   "duration_s": 4.73
+  },
+  {
+   "id": "5105-28240-0019",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28240-0019.wav",
+   "reference": "my yacht is at your service sir even should you require to make a tour round the world",
+   "intervals": [
+    [
+     0.77,
+     0.84
+    ],
+    [
+     0.94,
+     1.11
+    ],
+    [
+     1.38,
+     1.49
+    ],
+    [
+     1.88,
+     2.02
+    ],
+    [
+     2.43,
+     2.63
+    ],
+    [
+     3.09,
+     3.3
+    ],
+    [
+     3.61,
+     3.68
+    ],
+    [
+     3.78,
+     3.85
+    ],
+    [
+     4.11,
+     4.22
+    ],
+    [
+     4.72,
+     4.84
+    ],
+    [
+     5.02,
+     5.09
+    ],
+    [
+     5.36,
+     5.5
+    ]
+   ],
+   "duration_s": 6.2400625
+  },
+  {
+   "id": "5105-28233-0001",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28233-0001.wav",
+   "reference": "he seemed born to please without being conscious of the power he possessed",
+   "intervals": [
+    [
+     0.95,
+     1.13
+    ],
+    [
+     1.6,
+     1.76
+    ],
+    [
+     1.99,
+     2.09
+    ],
+    [
+     2.49,
+     2.57
+    ],
+    [
+     3.2,
+     3.35
+    ],
+    [
+     3.5,
+     3.56
+    ],
+    [
+     3.85,
+     4.03
+    ]
+   ],
+   "duration_s": 4.49
+  },
+  {
+   "id": "5105-28240-0010",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28240-0010.wav",
+   "reference": "captain servadac hastened towards him",
+   "intervals": [
+    [
+     0.45,
+     0.54
+    ],
+    [
+     1.48,
+     1.59
+    ],
+    [
+     2.12,
+     2.18
+    ],
+    [
+     2.34,
+     2.45
+    ]
+   ],
+   "duration_s": 2.935
+  },
+  {
+   "id": "5105-28240-0022",
+   "speaker": "5105",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\5105-28240-0022.wav",
+   "reference": "it was on the last day of january that the repairs of the schooner were completed",
+   "intervals": [
+    [
+     0.49,
+     0.6
+    ],
+    [
+     0.72,
+     0.81
+    ],
+    [
+     1.21,
+     1.37
+    ],
+    [
+     1.54,
+     1.62
+    ],
+    [
+     1.84,
+     1.94
+    ],
+    [
+     2.81,
+     2.89
+    ],
+    [
+     3.42,
+     3.53
+    ]
+   ],
+   "duration_s": 4.725
+  },
+  {
+   "id": "5142-33396-0057",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-33396-0057.wav",
+   "reference": "we sunk his ship and men but him we brought to you",
+   "intervals": [
+    [
+     0.24,
+     0.3
+    ],
+    [
+     0.43,
+     0.49
+    ],
+    [
+     0.85,
+     0.93
+    ],
+    [
+     1.21,
+     1.42
+    ],
+    [
+     1.8,
+     1.91
+    ],
+    [
+     2.04,
+     2.12
+    ],
+    [
+     2.25,
+     2.33
+    ],
+    [
+     2.65,
+     2.91
+    ]
+   ],
+   "duration_s": 3.075
+  },
+  {
+   "id": "5142-33396-0034",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-33396-0034.wav",
+   "reference": "then i drank half of the hornful and sent the rest across the fire to the farmer he took it and smiled saying",
+   "intervals": [
+    [
+     0.34,
+     0.44
+    ],
+    [
+     0.58,
+     0.66
+    ],
+    [
+     0.82,
+     0.95
+    ],
+    [
+     1.15,
+     1.22
+    ],
+    [
+     2.18,
+     2.24
+    ],
+    [
+     2.74,
+     2.88
+    ],
+    [
+     3.31,
+     3.41
+    ],
+    [
+     3.69,
+     3.86
+    ],
+    [
+     4.24,
+     4.34
+    ],
+    [
+     5.07,
+     5.14
+    ],
+    [
+     5.36,
+     5.43
+    ],
+    [
+     5.73,
+     5.94
+    ],
+    [
+     6.15,
+     6.23
+    ]
+   ],
+   "duration_s": 6.615
+  },
+  {
+   "id": "5142-36377-0018",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-36377-0018.wav",
+   "reference": "he looked up at naomi doubtingly from his plate and looked down again slowly with a frown",
+   "intervals": [
+    [
+     0.44,
+     0.5
+    ],
+    [
+     1.02,
+     1.13
+    ],
+    [
+     1.36,
+     1.47
+    ],
+    [
+     2.2,
+     2.32
+    ],
+    [
+     2.88,
+     2.94
+    ],
+    [
+     3.1,
+     3.21
+    ],
+    [
+     3.38,
+     3.44
+    ],
+    [
+     3.78,
+     3.86
+    ],
+    [
+     4.45,
+     4.66
+    ]
+   ],
+   "duration_s": 4.97
+  },
+  {
+   "id": "5142-33396-0004",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-33396-0004.wav",
+   "reference": "these he gave to three of my brothers",
+   "intervals": [
+    [
+     0.24,
+     0.41
+    ],
+    [
+     0.48,
+     0.55
+    ],
+    [
+     0.63,
+     0.74
+    ],
+    [
+     1.1,
+     1.17
+    ],
+    [
+     1.32,
+     1.4
+    ],
+    [
+     1.57,
+     1.65
+    ]
+   ],
+   "duration_s": 2.215
+  },
+  {
+   "id": "5142-36377-0024",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-36377-0024.wav",
+   "reference": "naomi shook her forefinger reproachfully at them as if the two sturdy young farmers had been two children",
+   "intervals": [
+    [
+     0.27,
+     0.38
+    ],
+    [
+     0.73,
+     0.79
+    ],
+    [
+     0.9,
+     0.97
+    ],
+    [
+     1.61,
+     1.72
+    ],
+    [
+     2.12,
+     2.18
+    ],
+    [
+     2.3,
+     2.45
+    ],
+    [
+     2.86,
+     2.94
+    ],
+    [
+     3.38,
+     3.55
+    ],
+    [
+     3.74,
+     3.83
+    ],
+    [
+     3.98,
+     4.06
+    ],
+    [
+     5.0,
+     5.1
+    ]
+   ],
+   "duration_s": 5.78
+  },
+  {
+   "id": "5142-33396-0012",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-33396-0012.wav",
+   "reference": "then i will get me a farm and will winter in that land now who will follow me",
+   "intervals": [
+    [
+     0.37,
+     0.45
+    ],
+    [
+     0.71,
+     0.79
+    ],
+    [
+     0.91,
+     1.0
+    ],
+    [
+     1.2,
+     1.33
+    ],
+    [
+     1.81,
+     1.87
+    ],
+    [
+     2.17,
+     2.29
+    ],
+    [
+     2.42,
+     2.7
+    ],
+    [
+     3.22,
+     3.34
+    ],
+    [
+     3.4,
+     3.52
+    ],
+    [
+     3.75,
+     3.92
+    ],
+    [
+     4.12,
+     4.31
+    ]
+   ],
+   "duration_s": 4.59
+  },
+  {
+   "id": "5142-36586-0001",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-36586-0001.wav",
+   "reference": "so it is with the lower animals",
+   "intervals": [
+    [
+     0.37,
+     0.46
+    ],
+    [
+     0.55,
+     0.75
+    ],
+    [
+     1.19,
+     1.27
+    ],
+    [
+     1.41,
+     1.59
+    ]
+   ],
+   "duration_s": 2.215
+  },
+  {
+   "id": "5142-33396-0068",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-33396-0068.wav",
+   "reference": "so i lived and now am your tooth thrall well it is the luck of war",
+   "intervals": [
+    [
+     0.39,
+     0.58
+    ],
+    [
+     0.65,
+     0.96
+    ],
+    [
+     1.27,
+     1.42
+    ],
+    [
+     1.73,
+     1.85
+    ],
+    [
+     2.15,
+     2.21
+    ],
+    [
+     2.81,
+     2.98
+    ],
+    [
+     3.85,
+     3.97
+    ]
+   ],
+   "duration_s": 4.235
+  },
+  {
+   "id": "5142-33396-0047",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-33396-0047.wav",
+   "reference": "my men pounded the table with their fists",
+   "intervals": [
+    [
+     0.27,
+     0.36
+    ],
+    [
+     0.47,
+     0.6
+    ],
+    [
+     0.81,
+     0.93
+    ],
+    [
+     1.26,
+     1.36
+    ],
+    [
+     1.9,
+     2.09
+    ]
+   ],
+   "duration_s": 2.535
+  },
+  {
+   "id": "5142-33396-0024",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-33396-0024.wav",
+   "reference": "i stood with my back to the wall for i wanted no sword reaching out of the dark for me",
+   "intervals": [
+    [
+     0.32,
+     0.48
+    ],
+    [
+     0.66,
+     0.73
+    ],
+    [
+     0.99,
+     1.06
+    ],
+    [
+     1.16,
+     1.28
+    ],
+    [
+     1.62,
+     1.77
+    ],
+    [
+     2.56,
+     2.63
+    ],
+    [
+     2.75,
+     2.81
+    ],
+    [
+     3.06,
+     3.16
+    ],
+    [
+     3.29,
+     3.38
+    ],
+    [
+     3.88,
+     3.95
+    ],
+    [
+     4.23,
+     4.32
+    ],
+    [
+     4.67,
+     4.85
+    ]
+   ],
+   "duration_s": 5.345
+  },
+  {
+   "id": "5142-36377-0011",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-36377-0011.wav",
+   "reference": "mister jago is an american philip",
+   "intervals": [
+    [
+     0.59,
+     0.7
+    ],
+    [
+     1.17,
+     1.27
+    ],
+    [
+     1.68,
+     1.75
+    ]
+   ],
+   "duration_s": 2.1650625
+  },
+  {
+   "id": "5142-36377-0009",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-36377-0009.wav",
+   "reference": "philip lefrank this is my overlooker mister jago said the old man formally presenting us",
+   "intervals": [
+    [
+     0.16,
+     0.27
+    ],
+    [
+     1.1,
+     1.17
+    ],
+    [
+     1.43,
+     1.56
+    ],
+    [
+     1.56,
+     1.68
+    ],
+    [
+     2.54,
+     2.71
+    ],
+    [
+     3.13,
+     3.19
+    ],
+    [
+     3.62,
+     3.78
+    ],
+    [
+     3.98,
+     4.04
+    ],
+    [
+     4.72,
+     4.82
+    ]
+   ],
+   "duration_s": 5.14
+  },
+  {
+   "id": "5142-33396-0019",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-33396-0019.wav",
+   "reference": "oh it is better to live on the sea and let other men raise your crops and cook your meals",
+   "intervals": [
+    [
+     0.23,
+     0.6
+    ],
+    [
+     0.75,
+     0.89
+    ],
+    [
+     1.09,
+     1.19
+    ],
+    [
+     1.52,
+     1.59
+    ],
+    [
+     1.67,
+     1.73
+    ],
+    [
+     2.07,
+     2.25
+    ],
+    [
+     2.38,
+     2.46
+    ],
+    [
+     2.52,
+     2.59
+    ],
+    [
+     2.8,
+     2.88
+    ],
+    [
+     3.05,
+     3.16
+    ],
+    [
+     3.55,
+     3.67
+    ],
+    [
+     4.03,
+     4.1
+    ],
+    [
+     4.44,
+     4.63
+    ]
+   ],
+   "duration_s": 4.985
+  },
+  {
+   "id": "5142-33396-0064",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-33396-0064.wav",
+   "reference": "your father thought a moment then looked at your mother and smiled",
+   "intervals": [
+    [
+     0.6,
+     0.71
+    ],
+    [
+     0.95,
+     1.08
+    ],
+    [
+     1.26,
+     1.35
+    ],
+    [
+     2.12,
+     2.19
+    ],
+    [
+     2.59,
+     2.84
+    ]
+   ],
+   "duration_s": 3.3
+  },
+  {
+   "id": "5142-33396-0010",
+   "speaker": "5142",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5142-33396-0010.wav",
+   "reference": "in the stern i curved the tail up almost as high as the head",
+   "intervals": [
+    [
+     0.14,
+     0.23
+    ],
+    [
+     0.58,
+     0.76
+    ],
+    [
+     0.8,
+     0.9
+    ],
+    [
+     1.07,
+     1.17
+    ],
+    [
+     1.46,
+     1.58
+    ],
+    [
+     1.68,
+     1.76
+    ],
+    [
+     1.82,
+     1.9
+    ],
+    [
+     2.42,
+     2.55
+    ],
+    [
+     2.55,
+     2.61
+    ],
+    [
+     2.91,
+     3.13
+    ]
+   ],
+   "duration_s": 3.455
+  },
+  {
+   "id": "5683-32879-0010",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32879-0010.wav",
+   "reference": "poor rachel her nature recoiled from deceit and she told at all events as much of the truth as she dared",
+   "intervals": [
+    [
+     0.61,
+     0.83
+    ],
+    [
+     1.01,
+     1.12
+    ],
+    [
+     1.94,
+     2.06
+    ],
+    [
+     2.53,
+     2.75
+    ],
+    [
+     3.37,
+     3.51
+    ],
+    [
+     3.79,
+     3.91
+    ],
+    [
+     4.08,
+     4.15
+    ],
+    [
+     4.28,
+     4.47
+    ],
+    [
+     4.58,
+     4.67
+    ],
+    [
+     4.72,
+     4.86
+    ],
+    [
+     5.07,
+     5.17
+    ],
+    [
+     5.49,
+     5.66
+    ],
+    [
+     5.89,
+     5.97
+    ],
+    [
+     6.44,
+     6.55
+    ],
+    [
+     6.61,
+     6.7
+    ],
+    [
+     6.85,
+     6.92
+    ],
+    [
+     7.04,
+     7.21
+    ]
+   ],
+   "duration_s": 7.75
+  },
+  {
+   "id": "5683-32879-0018",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32879-0018.wav",
+   "reference": "it is an antipathy an antipathy i cannot get over dear dorcas you may think it a madness but don't blame me",
+   "intervals": [
+    [
+     0.51,
+     0.63
+    ],
+    [
+     0.68,
+     0.75
+    ],
+    [
+     1.13,
+     1.19
+    ],
+    [
+     1.75,
+     1.9
+    ],
+    [
+     2.17,
+     2.24
+    ],
+    [
+     2.51,
+     2.63
+    ],
+    [
+     2.82,
+     2.91
+    ],
+    [
+     3.14,
+     3.3
+    ],
+    [
+     3.57,
+     3.63
+    ],
+    [
+     4.78,
+     4.87
+    ],
+    [
+     5.18,
+     5.25
+    ],
+    [
+     5.58,
+     5.71
+    ],
+    [
+     6.44,
+     6.51
+    ],
+    [
+     6.77,
+     6.91
+    ],
+    [
+     7.04,
+     7.29
+    ]
+   ],
+   "duration_s": 7.44
+  },
+  {
+   "id": "5683-32866-0020",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32866-0020.wav",
+   "reference": "the floor more than anything else showed the great age of the room",
+   "intervals": [
+    [
+     0.82,
+     0.94
+    ],
+    [
+     1.36,
+     1.45
+    ],
+    [
+     1.82,
+     1.92
+    ],
+    [
+     2.3,
+     2.45
+    ],
+    [
+     2.74,
+     2.84
+    ],
+    [
+     2.89,
+     3.12
+    ],
+    [
+     3.52,
+     3.61
+    ]
+   ],
+   "duration_s": 3.93
+  },
+  {
+   "id": "5683-32865-0017",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32865-0017.wav",
+   "reference": "all the time he was talking to me his angry little eyes were following lake",
+   "intervals": [
+    [
+     0.36,
+     0.63
+    ],
+    [
+     0.95,
+     1.07
+    ],
+    [
+     1.46,
+     1.56
+    ],
+    [
+     1.97,
+     2.43
+    ],
+    [
+     3.38,
+     3.7
+    ],
+    [
+     4.12,
+     4.22
+    ],
+    [
+     4.59,
+     4.7
+    ]
+   ],
+   "duration_s": 5.455
+  },
+  {
+   "id": "5683-32865-0014",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32865-0014.wav",
+   "reference": "he's not a man for country quarters",
+   "intervals": [
+    [
+     0.62,
+     0.78
+    ],
+    [
+     0.9,
+     0.99
+    ],
+    [
+     1.03,
+     1.09
+    ],
+    [
+     1.17,
+     1.29
+    ]
+   ],
+   "duration_s": 2.615
+  },
+  {
+   "id": "5683-32865-0011",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32865-0011.wav",
+   "reference": "whereupon lake laughed quietly still looking on the ace of hearts with his sly eyes",
+   "intervals": [
+    [
+     0.41,
+     0.49
+    ],
+    [
+     0.71,
+     0.88
+    ],
+    [
+     1.06,
+     1.19
+    ],
+    [
+     1.46,
+     1.57
+    ],
+    [
+     1.85,
+     1.98
+    ],
+    [
+     2.96,
+     3.05
+    ],
+    [
+     3.13,
+     3.25
+    ],
+    [
+     3.44,
+     3.51
+    ],
+    [
+     3.72,
+     3.89
+    ],
+    [
+     4.16,
+     4.24
+    ],
+    [
+     5.05,
+     5.34
+    ],
+    [
+     5.37,
+     5.81
+    ]
+   ],
+   "duration_s": 6.355
+  },
+  {
+   "id": "5683-32866-0026",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32866-0026.wav",
+   "reference": "i boldly lighted my cheroot",
+   "intervals": [
+    [
+     0.13,
+     0.5
+    ],
+    [
+     1.11,
+     1.19
+    ],
+    [
+     1.42,
+     1.58
+    ]
+   ],
+   "duration_s": 2.34
+  },
+  {
+   "id": "5683-32865-0007",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32865-0007.wav",
+   "reference": "i'm glad you like it says wylder chuckling benignantly on it over his shoulder",
+   "intervals": [
+    [
+     0.49,
+     0.66
+    ],
+    [
+     0.89,
+     0.99
+    ],
+    [
+     1.11,
+     1.22
+    ],
+    [
+     1.31,
+     1.42
+    ],
+    [
+     1.82,
+     1.94
+    ],
+    [
+     2.12,
+     2.29
+    ],
+    [
+     3.17,
+     3.24
+    ],
+    [
+     4.37,
+     4.48
+    ],
+    [
+     4.76,
+     4.93
+    ],
+    [
+     5.36,
+     5.43
+    ]
+   ],
+   "duration_s": 6.065
+  },
+  {
+   "id": "5683-32866-0018",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32866-0018.wav",
+   "reference": "to my mind there has always been something inexpressibly awful in family feuds",
+   "intervals": [
+    [
+     0.73,
+     0.83
+    ],
+    [
+     0.93,
+     1.13
+    ],
+    [
+     1.58,
+     1.66
+    ],
+    [
+     3.13,
+     3.21
+    ],
+    [
+     3.6,
+     3.84
+    ],
+    [
+     4.13,
+     4.2
+    ],
+    [
+     4.38,
+     4.51
+    ],
+    [
+     4.89,
+     5.03
+    ]
+   ],
+   "duration_s": 5.455
+  },
+  {
+   "id": "5683-32866-0029",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32866-0029.wav",
+   "reference": "somehow i had grown nervous",
+   "intervals": [
+    [
+     0.45,
+     0.52
+    ],
+    [
+     0.83,
+     0.94
+    ],
+    [
+     1.23,
+     1.3
+    ],
+    [
+     1.44,
+     1.6
+    ]
+   ],
+   "duration_s": 2.275
+  },
+  {
+   "id": "5683-32865-0016",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32865-0016.wav",
+   "reference": "oh i know that's lorne brandon",
+   "intervals": [
+    [
+     0.38,
+     0.6
+    ],
+    [
+     0.6,
+     0.84
+    ],
+    [
+     0.95,
+     1.26
+    ],
+    [
+     1.44,
+     1.56
+    ],
+    [
+     1.82,
+     2.0
+    ],
+    [
+     2.32,
+     2.47
+    ]
+   ],
+   "duration_s": 3.06
+  },
+  {
+   "id": "5683-32866-0030",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32866-0030.wav",
+   "reference": "a little bit of plaster tumbled down the chimney and startled me confoundedly",
+   "intervals": [
+    [
+     1.01,
+     1.12
+    ],
+    [
+     1.78,
+     1.84
+    ],
+    [
+     2.79,
+     2.9
+    ],
+    [
+     3.11,
+     3.19
+    ],
+    [
+     3.45,
+     3.58
+    ],
+    [
+     3.81,
+     3.91
+    ]
+   ],
+   "duration_s": 4.845
+  },
+  {
+   "id": "5683-32865-0013",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32865-0013.wav",
+   "reference": "do you know lake oh i really can't tell but he'll soon tire of country life",
+   "intervals": [
+    [
+     0.24,
+     0.31
+    ],
+    [
+     0.45,
+     0.53
+    ],
+    [
+     0.63,
+     0.91
+    ],
+    [
+     2.31,
+     2.49
+    ],
+    [
+     3.21,
+     3.55
+    ],
+    [
+     3.6,
+     3.75
+    ],
+    [
+     3.84,
+     3.92
+    ],
+    [
+     4.17,
+     4.27
+    ],
+    [
+     4.47,
+     4.6
+    ],
+    [
+     5.09,
+     5.16
+    ],
+    [
+     5.41,
+     5.52
+    ],
+    [
+     5.71,
+     5.9
+    ],
+    [
+     6.58,
+     6.73
+    ]
+   ],
+   "duration_s": 7.095
+  },
+  {
+   "id": "5683-32865-0006",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32865-0006.wav",
+   "reference": "at dinner lake was easy and amusing",
+   "intervals": [
+    [
+     0.5,
+     0.66
+    ],
+    [
+     0.81,
+     0.91
+    ],
+    [
+     1.43,
+     1.54
+    ],
+    [
+     1.89,
+     2.13
+    ],
+    [
+     2.63,
+     2.71
+    ]
+   ],
+   "duration_s": 3.35
+  },
+  {
+   "id": "5683-32865-0010",
+   "speaker": "5683",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\5683-32865-0010.wav",
+   "reference": "i was thinking it's very like the ace of hearts answered the captain softly smiling on",
+   "intervals": [
+    [
+     0.45,
+     0.64
+    ],
+    [
+     1.25,
+     1.35
+    ],
+    [
+     1.56,
+     1.66
+    ],
+    [
+     1.93,
+     2.04
+    ],
+    [
+     2.35,
+     2.52
+    ],
+    [
+     2.79,
+     2.93
+    ],
+    [
+     3.63,
+     3.79
+    ],
+    [
+     4.22,
+     4.3
+    ],
+    [
+     4.65,
+     4.77
+    ],
+    [
+     5.36,
+     5.51
+    ],
+    [
+     5.7,
+     5.91
+    ]
+   ],
+   "duration_s": 6.335
+  },
+  {
+   "id": "61-70970-0020",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0020.wav",
+   "reference": "will whispered robin opening his door as he spoke are you ready",
+   "intervals": [
+    [
+     0.56,
+     0.68
+    ],
+    [
+     1.81,
+     1.88
+    ],
+    [
+     2.07,
+     2.21
+    ],
+    [
+     2.68,
+     2.75
+    ],
+    [
+     3.17,
+     3.29
+    ],
+    [
+     3.99,
+     4.06
+    ],
+    [
+     4.16,
+     4.23
+    ]
+   ],
+   "duration_s": 5.025
+  },
+  {
+   "id": "61-70970-0040",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0040.wav",
+   "reference": "they regained their apartment apparently without disturbing the household of gamewell",
+   "intervals": [
+    [
+     0.42,
+     0.49
+    ],
+    [
+     0.73,
+     0.82
+    ],
+    [
+     1.19,
+     1.27
+    ],
+    [
+     2.22,
+     2.33
+    ],
+    [
+     2.62,
+     2.69
+    ],
+    [
+     3.01,
+     3.11
+    ]
+   ],
+   "duration_s": 4.165
+  },
+  {
+   "id": "61-70970-0025",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0025.wav",
+   "reference": "they were upon the verge of an open trap in the far corner of the hut and stuteley had tripped over the edge of the reversed flap mouth of this pit",
+   "intervals": [
+    [
+     0.29,
+     0.36
+    ],
+    [
+     0.66,
+     0.73
+    ],
+    [
+     1.0,
+     1.11
+    ],
+    [
+     1.38,
+     1.49
+    ],
+    [
+     1.83,
+     1.97
+    ],
+    [
+     2.04,
+     2.15
+    ],
+    [
+     2.39,
+     2.46
+    ],
+    [
+     2.66,
+     2.73
+    ],
+    [
+     3.04,
+     3.1
+    ],
+    [
+     3.2,
+     3.32
+    ],
+    [
+     3.57,
+     3.74
+    ],
+    [
+     4.63,
+     4.7
+    ],
+    [
+     4.95,
+     5.1
+    ],
+    [
+     5.6,
+     5.7
+    ],
+    [
+     5.99,
+     6.07
+    ],
+    [
+     6.23,
+     6.34
+    ],
+    [
+     6.83,
+     6.96
+    ]
+   ],
+   "duration_s": 7.435
+  },
+  {
+   "id": "61-70968-0014",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70968-0014.wav",
+   "reference": "what is the tumult and rioting cried out the squire authoritatively and he blew twice on a silver whistle which hung at his belt",
+   "intervals": [
+    [
+     1.79,
+     1.87
+    ],
+    [
+     2.53,
+     2.6
+    ],
+    [
+     2.66,
+     2.76
+    ],
+    [
+     3.14,
+     3.22
+    ],
+    [
+     3.77,
+     3.85
+    ],
+    [
+     4.31,
+     4.43
+    ],
+    [
+     4.76,
+     4.86
+    ],
+    [
+     5.04,
+     5.13
+    ],
+    [
+     6.31,
+     6.37
+    ],
+    [
+     6.79,
+     6.87
+    ]
+   ],
+   "duration_s": 7.485
+  },
+  {
+   "id": "61-70968-0047",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70968-0047.wav",
+   "reference": "master monceux the sheriff of nottingham was mightily put about when told of the rioting",
+   "intervals": [
+    [
+     0.52,
+     0.62
+    ],
+    [
+     1.98,
+     2.08
+    ],
+    [
+     2.7,
+     2.8
+    ],
+    [
+     3.36,
+     3.5
+    ],
+    [
+     3.79,
+     3.85
+    ],
+    [
+     4.27,
+     4.36
+    ]
+   ],
+   "duration_s": 4.775
+  },
+  {
+   "id": "61-70970-0014",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0014.wav",
+   "reference": "presently he crossed the floor of his room with decided step",
+   "intervals": [
+    [
+     1.02,
+     1.08
+    ],
+    [
+     1.38,
+     1.44
+    ],
+    [
+     1.87,
+     1.95
+    ],
+    [
+     2.38,
+     2.51
+    ],
+    [
+     2.85,
+     2.97
+    ]
+   ],
+   "duration_s": 3.405
+  },
+  {
+   "id": "61-70970-0022",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0022.wav",
+   "reference": "robin entered the hut dragging the unwilling esquire after him",
+   "intervals": [
+    [
+     0.51,
+     0.59
+    ],
+    [
+     0.78,
+     0.86
+    ],
+    [
+     1.3,
+     1.42
+    ],
+    [
+     1.63,
+     1.7
+    ],
+    [
+     2.54,
+     2.63
+    ],
+    [
+     3.06,
+     3.18
+    ],
+    [
+     3.46,
+     3.52
+    ]
+   ],
+   "duration_s": 3.97
+  },
+  {
+   "id": "61-70968-0030",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70968-0030.wav",
+   "reference": "now be silent on your lives he began but the captured apprentice set up an instant shout",
+   "intervals": [
+    [
+     0.41,
+     0.66
+    ],
+    [
+     0.74,
+     0.85
+    ],
+    [
+     1.07,
+     1.21
+    ],
+    [
+     1.4,
+     1.55
+    ],
+    [
+     1.67,
+     1.8
+    ],
+    [
+     2.04,
+     2.32
+    ],
+    [
+     2.57,
+     2.67
+    ],
+    [
+     2.92,
+     3.06
+    ],
+    [
+     3.51,
+     3.57
+    ],
+    [
+     4.35,
+     4.41
+    ],
+    [
+     4.47,
+     4.53
+    ],
+    [
+     4.72,
+     4.84
+    ],
+    [
+     5.26,
+     5.43
+    ]
+   ],
+   "duration_s": 5.685
+  },
+  {
+   "id": "61-70970-0039",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0039.wav",
+   "reference": "he implores us to be discreet as the grave in this matter for in sooth his life is in the hollow of our hands",
+   "intervals": [
+    [
+     2.2,
+     2.35
+    ],
+    [
+     2.83,
+     2.91
+    ],
+    [
+     4.4,
+     4.49
+    ],
+    [
+     5.03,
+     5.12
+    ],
+    [
+     5.76,
+     5.92
+    ]
+   ],
+   "duration_s": 6.665
+  },
+  {
+   "id": "61-70970-0002",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0002.wav",
+   "reference": "most of all robin thought of his father what would he counsel",
+   "intervals": [
+    [
+     0.91,
+     1.0
+    ],
+    [
+     1.19,
+     1.25
+    ],
+    [
+     1.49,
+     1.59
+    ],
+    [
+     1.95,
+     2.08
+    ],
+    [
+     3.17,
+     3.25
+    ],
+    [
+     3.39,
+     3.47
+    ]
+   ],
+   "duration_s": 4.165
+  },
+  {
+   "id": "61-70968-0032",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70968-0032.wav",
+   "reference": "he felt for and found the wizard's black cloth the squire was quite out of breath",
+   "intervals": [
+    [
+     0.91,
+     1.02
+    ],
+    [
+     1.69,
+     1.77
+    ],
+    [
+     1.98,
+     2.12
+    ],
+    [
+     3.01,
+     3.07
+    ],
+    [
+     3.49,
+     3.56
+    ],
+    [
+     3.62,
+     3.68
+    ],
+    [
+     3.96,
+     4.04
+    ]
+   ],
+   "duration_s": 4.28
+  },
+  {
+   "id": "61-70970-0019",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0019.wav",
+   "reference": "at last all was quiet and black in the courtyard of gamewell",
+   "intervals": [
+    [
+     0.3,
+     0.43
+    ],
+    [
+     0.62,
+     0.77
+    ],
+    [
+     0.91,
+     1.07
+    ],
+    [
+     1.47,
+     1.6
+    ],
+    [
+     1.98,
+     2.05
+    ]
+   ],
+   "duration_s": 3.78
+  },
+  {
+   "id": "61-70970-0012",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0012.wav",
+   "reference": "yet he will teach you a few tricks when morning is come",
+   "intervals": [
+    [
+     0.52,
+     0.6
+    ],
+    [
+     0.87,
+     0.97
+    ],
+    [
+     1.09,
+     1.2
+    ],
+    [
+     1.39,
+     1.51
+    ],
+    [
+     2.04,
+     2.11
+    ],
+    [
+     2.57,
+     2.7
+    ]
+   ],
+   "duration_s": 3.135
+  },
+  {
+   "id": "61-70970-0037",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0037.wav",
+   "reference": "his tones rang pleasantly on warrenton's ears and forthwith a good fellowship was heralded between them",
+   "intervals": [
+    [
+     0.82,
+     0.93
+    ],
+    [
+     2.43,
+     2.59
+    ],
+    [
+     3.09,
+     3.2
+    ],
+    [
+     3.66,
+     3.73
+    ],
+    [
+     5.42,
+     5.5
+    ]
+   ],
+   "duration_s": 5.98
+  },
+  {
+   "id": "61-70970-0034",
+   "speaker": "61",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\61-70970-0034.wav",
+   "reference": "nay nay lording answered warrenton with a half laugh",
+   "intervals": [
+    [
+     0.55,
+     0.98
+    ],
+    [
+     1.18,
+     1.45
+    ],
+    [
+     1.67,
+     1.8
+    ],
+    [
+     2.43,
+     2.54
+    ],
+    [
+     3.67,
+     3.77
+    ],
+    [
+     3.97,
+     4.14
+    ]
+   ],
+   "duration_s": 4.485
+  },
+  {
+   "id": "672-122797-0049",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0049.wav",
+   "reference": "squeak squeak",
+   "intervals": [
+    [
+     0.76,
+     0.85
+    ],
+    [
+     1.5,
+     1.57
+    ]
+   ],
+   "duration_s": 2.02
+  },
+  {
+   "id": "672-122797-0069",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0069.wav",
+   "reference": "it was in a corner that he lay among weeds and nettles",
+   "intervals": [
+    [
+     1.16,
+     1.26
+    ],
+    [
+     1.74,
+     1.8
+    ],
+    [
+     1.94,
+     2.16
+    ],
+    [
+     3.03,
+     3.1
+    ],
+    [
+     3.3,
+     3.57
+    ],
+    [
+     4.0,
+     4.09
+    ]
+   ],
+   "duration_s": 5.01
+  },
+  {
+   "id": "672-122797-0024",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0024.wav",
+   "reference": "the departure was not at all agreeable",
+   "intervals": [
+    [
+     0.82,
+     0.89
+    ],
+    [
+     2.11,
+     2.26
+    ],
+    [
+     2.34,
+     2.44
+    ],
+    [
+     2.59,
+     2.7
+    ]
+   ],
+   "duration_s": 4.13
+  },
+  {
+   "id": "672-122797-0031",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0031.wav",
+   "reference": "it blazed up famously help help",
+   "intervals": [
+    [
+     0.26,
+     0.38
+    ],
+    [
+     0.73,
+     0.94
+    ],
+    [
+     1.11,
+     1.27
+    ],
+    [
+     1.68,
+     1.83
+    ],
+    [
+     3.02,
+     3.11
+    ],
+    [
+     3.54,
+     3.6
+    ]
+   ],
+   "duration_s": 3.98
+  },
+  {
+   "id": "672-122797-0014",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0014.wav",
+   "reference": "were i but already on the cart",
+   "intervals": [
+    [
+     0.48,
+     0.57
+    ],
+    [
+     0.64,
+     0.72
+    ],
+    [
+     1.24,
+     1.35
+    ],
+    [
+     1.54,
+     1.6
+    ],
+    [
+     1.9,
+     2.02
+    ]
+   ],
+   "duration_s": 2.555
+  },
+  {
+   "id": "672-122797-0046",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0046.wav",
+   "reference": "tis now winter out of doors thought the tree",
+   "intervals": [
+    [
+     0.6,
+     0.73
+    ],
+    [
+     0.93,
+     1.14
+    ],
+    [
+     1.3,
+     1.37
+    ],
+    [
+     1.95,
+     2.2
+    ],
+    [
+     2.49,
+     2.82
+    ],
+    [
+     3.54,
+     3.64
+    ],
+    [
+     4.06,
+     4.29
+    ]
+   ],
+   "duration_s": 4.715
+  },
+  {
+   "id": "672-122797-0019",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0019.wav",
+   "reference": "rejoice in thy own fresh youth",
+   "intervals": [
+    [
+     0.66,
+     0.99
+    ],
+    [
+     1.28,
+     1.36
+    ],
+    [
+     1.53,
+     1.79
+    ],
+    [
+     1.82,
+     2.1
+    ],
+    [
+     2.59,
+     2.71
+    ],
+    [
+     3.09,
+     3.31
+    ]
+   ],
+   "duration_s": 4.11
+  },
+  {
+   "id": "672-122797-0066",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0066.wav",
+   "reference": "why one morning there came a quantity of people and set to work in the loft",
+   "intervals": [
+    [
+     0.61,
+     0.7
+    ],
+    [
+     0.85,
+     0.92
+    ],
+    [
+     1.04,
+     1.15
+    ],
+    [
+     1.56,
+     1.67
+    ],
+    [
+     1.97,
+     2.04
+    ],
+    [
+     2.51,
+     2.61
+    ],
+    [
+     3.09,
+     3.17
+    ],
+    [
+     3.41,
+     3.47
+    ],
+    [
+     3.61,
+     3.7
+    ],
+    [
+     3.92,
+     3.98
+    ],
+    [
+     4.09,
+     4.26
+    ]
+   ],
+   "duration_s": 4.815
+  },
+  {
+   "id": "672-122797-0036",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0036.wav",
+   "reference": "humpy dumpy fell downstairs and yet he married the princess",
+   "intervals": [
+    [
+     1.06,
+     1.14
+    ],
+    [
+     1.44,
+     1.57
+    ],
+    [
+     1.71,
+     1.82
+    ],
+    [
+     2.06,
+     2.28
+    ],
+    [
+     3.02,
+     3.29
+    ],
+    [
+     3.62,
+     3.7
+    ],
+    [
+     3.78,
+     3.85
+    ],
+    [
+     4.28,
+     4.36
+    ]
+   ],
+   "duration_s": 5.365
+  },
+  {
+   "id": "672-122797-0007",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0007.wav",
+   "reference": "in autumn the wood cutters always came and felled some of the largest trees",
+   "intervals": [
+    [
+     0.51,
+     0.59
+    ],
+    [
+     0.65,
+     0.84
+    ],
+    [
+     2.23,
+     2.32
+    ],
+    [
+     2.61,
+     2.7
+    ],
+    [
+     3.41,
+     3.59
+    ],
+    [
+     4.0,
+     4.12
+    ],
+    [
+     4.67,
+     4.73
+    ],
+    [
+     4.88,
+     4.97
+    ],
+    [
+     5.55,
+     5.75
+    ]
+   ],
+   "duration_s": 6.42
+  },
+  {
+   "id": "672-122797-0021",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0021.wav",
+   "reference": "and towards christmas he was one of the first that was cut down",
+   "intervals": [
+    [
+     0.62,
+     0.69
+    ],
+    [
+     1.44,
+     1.54
+    ],
+    [
+     1.64,
+     1.72
+    ],
+    [
+     1.96,
+     2.02
+    ],
+    [
+     2.36,
+     2.54
+    ],
+    [
+     3.05,
+     3.13
+    ],
+    [
+     3.28,
+     3.47
+    ]
+   ],
+   "duration_s": 4.15
+  },
+  {
+   "id": "672-122797-0043",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0043.wav",
+   "reference": "what's the meaning of this thought the tree",
+   "intervals": [
+    [
+     0.7,
+     0.81
+    ],
+    [
+     1.03,
+     1.09
+    ],
+    [
+     1.21,
+     1.36
+    ],
+    [
+     1.59,
+     1.7
+    ],
+    [
+     1.82,
+     2.07
+    ],
+    [
+     2.62,
+     2.74
+    ],
+    [
+     3.17,
+     3.38
+    ]
+   ],
+   "duration_s": 3.78
+  },
+  {
+   "id": "672-122797-0003",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0003.wav",
+   "reference": "but this was what the tree could not bear to hear",
+   "intervals": [
+    [
+     1.93,
+     2.0
+    ],
+    [
+     2.6,
+     2.73
+    ],
+    [
+     2.87,
+     2.94
+    ],
+    [
+     3.08,
+     3.19
+    ],
+    [
+     3.39,
+     3.51
+    ],
+    [
+     3.96,
+     4.04
+    ]
+   ],
+   "duration_s": 4.76
+  },
+  {
+   "id": "672-122797-0057",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0057.wav",
+   "reference": "yes in reality those were happy times",
+   "intervals": [
+    [
+     0.6,
+     0.85
+    ],
+    [
+     1.89,
+     2.03
+    ],
+    [
+     2.28,
+     2.4
+    ],
+    [
+     3.76,
+     4.0
+    ],
+    [
+     4.27,
+     4.51
+    ],
+    [
+     4.64,
+     4.76
+    ],
+    [
+     5.14,
+     5.46
+    ]
+   ],
+   "duration_s": 6.56
+  },
+  {
+   "id": "672-122797-0051",
+   "speaker": "672",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\672-122797-0051.wav",
+   "reference": "i am by no means old said the fir tree",
+   "intervals": [
+    [
+     0.51,
+     0.96
+    ],
+    [
+     0.96,
+     1.06
+    ],
+    [
+     1.06,
+     1.14
+    ],
+    [
+     1.3,
+     1.5
+    ],
+    [
+     1.64,
+     1.88
+    ],
+    [
+     1.99,
+     2.2
+    ],
+    [
+     2.49,
+     2.79
+    ],
+    [
+     3.73,
+     3.89
+    ],
+    [
+     4.13,
+     4.35
+    ]
+   ],
+   "duration_s": 4.665
+  },
+  {
+   "id": "7176-92135-0039",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0039.wav",
+   "reference": "tea please matthews butler impassively",
+   "intervals": [
+    [
+     0.35,
+     0.61
+    ],
+    [
+     0.78,
+     0.9
+    ],
+    [
+     1.04,
+     1.14
+    ],
+    [
+     2.56,
+     2.65
+    ]
+   ],
+   "duration_s": 3.125
+  },
+  {
+   "id": "7176-88083-0010",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-88083-0010.wav",
+   "reference": "the cat growled softly picked up the prize in her jaws and trotted into the bushes to devour it",
+   "intervals": [
+    [
+     0.45,
+     0.57
+    ],
+    [
+     0.86,
+     0.94
+    ],
+    [
+     1.24,
+     1.35
+    ],
+    [
+     2.34,
+     2.45
+    ],
+    [
+     2.81,
+     3.01
+    ],
+    [
+     3.42,
+     3.73
+    ],
+    [
+     3.84,
+     3.94
+    ],
+    [
+     4.22,
+     4.32
+    ],
+    [
+     4.51,
+     4.6
+    ],
+    [
+     5.67,
+     5.84
+    ]
+   ],
+   "duration_s": 6.74
+  },
+  {
+   "id": "7176-88083-0017",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-88083-0017.wav",
+   "reference": "but at this point in the rapids it was impossible for him to stay down",
+   "intervals": [
+    [
+     0.18,
+     0.24
+    ],
+    [
+     0.43,
+     0.5
+    ],
+    [
+     0.67,
+     0.82
+    ],
+    [
+     1.18,
+     1.28
+    ],
+    [
+     1.49,
+     1.56
+    ],
+    [
+     1.99,
+     2.09
+    ],
+    [
+     2.95,
+     3.05
+    ],
+    [
+     3.14,
+     3.35
+    ]
+   ],
+   "duration_s": 3.66
+  },
+  {
+   "id": "7176-92135-0001",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0001.wav",
+   "reference": "in short he becomes a prominent figure in london society and if he is not careful somebody will say so",
+   "intervals": [
+    [
+     0.25,
+     0.4
+    ],
+    [
+     1.11,
+     1.21
+    ],
+    [
+     1.55,
+     1.69
+    ],
+    [
+     1.86,
+     1.94
+    ],
+    [
+     3.34,
+     3.46
+    ],
+    [
+     4.14,
+     4.36
+    ],
+    [
+     4.56,
+     4.69
+    ],
+    [
+     4.82,
+     4.9
+    ],
+    [
+     5.09,
+     5.18
+    ],
+    [
+     6.72,
+     6.84
+    ],
+    [
+     6.95,
+     7.16
+    ]
+   ],
+   "duration_s": 7.56
+  },
+  {
+   "id": "7176-92135-0024",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0024.wav",
+   "reference": "to be or not to be that is the question whether tis nobler",
+   "intervals": [
+    [
+     0.38,
+     0.75
+    ],
+    [
+     0.83,
+     0.94
+    ],
+    [
+     1.08,
+     1.21
+    ],
+    [
+     1.45,
+     1.63
+    ],
+    [
+     1.74,
+     1.83
+    ],
+    [
+     2.18,
+     2.26
+    ],
+    [
+     2.82,
+     2.88
+    ],
+    [
+     3.11,
+     3.2
+    ],
+    [
+     3.34,
+     3.42
+    ]
+   ],
+   "duration_s": 4.1
+  },
+  {
+   "id": "7176-92135-0029",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0029.wav",
+   "reference": "i want to get away from it all swoons",
+   "intervals": [
+    [
+     0.05,
+     0.32
+    ],
+    [
+     0.92,
+     1.07
+    ],
+    [
+     1.35,
+     1.6
+    ]
+   ],
+   "duration_s": 2.985
+  },
+  {
+   "id": "7176-92135-0009",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0009.wav",
+   "reference": "and i should begin with a short homily on soliloquy",
+   "intervals": [
+    [
+     0.29,
+     0.36
+    ],
+    [
+     0.44,
+     0.54
+    ],
+    [
+     0.9,
+     1.02
+    ],
+    [
+     1.37,
+     1.47
+    ],
+    [
+     1.58,
+     1.65
+    ],
+    [
+     1.82,
+     1.9
+    ],
+    [
+     2.18,
+     2.36
+    ]
+   ],
+   "duration_s": 4.38
+  },
+  {
+   "id": "7176-88083-0003",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-88083-0003.wav",
+   "reference": "but here he was at a terrible disadvantage as compared with the owls hawks and eagles he had no rending claws",
+   "intervals": [
+    [
+     0.56,
+     0.68
+    ],
+    [
+     1.02,
+     1.11
+    ],
+    [
+     2.12,
+     2.22
+    ],
+    [
+     2.49,
+     2.66
+    ],
+    [
+     3.01,
+     3.11
+    ],
+    [
+     3.62,
+     3.85
+    ],
+    [
+     4.44,
+     4.56
+    ],
+    [
+     4.8,
+     4.94
+    ],
+    [
+     5.11,
+     5.28
+    ],
+    [
+     6.07,
+     6.15
+    ],
+    [
+     6.26,
+     6.35
+    ],
+    [
+     6.49,
+     6.61
+    ],
+    [
+     7.19,
+     7.38
+    ]
+   ],
+   "duration_s": 7.6
+  },
+  {
+   "id": "7176-92135-0020",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0020.wav",
+   "reference": "double nine two three elsinore double nine yes hallo is that you horatio hamlet speaking",
+   "intervals": [
+    [
+     0.38,
+     0.46
+    ],
+    [
+     0.83,
+     1.02
+    ],
+    [
+     1.29,
+     1.56
+    ],
+    [
+     1.74,
+     1.98
+    ],
+    [
+     1.98,
+     2.05
+    ],
+    [
+     3.4,
+     3.46
+    ],
+    [
+     3.68,
+     3.78
+    ],
+    [
+     4.03,
+     4.19
+    ],
+    [
+     5.56,
+     5.63
+    ],
+    [
+     5.79,
+     5.88
+    ],
+    [
+     6.38,
+     6.45
+    ],
+    [
+     6.71,
+     6.78
+    ]
+   ],
+   "duration_s": 7.165
+  },
+  {
+   "id": "7176-92135-0035",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0035.wav",
+   "reference": "then lord tuppeny well what about auction",
+   "intervals": [
+    [
+     0.33,
+     0.44
+    ],
+    [
+     0.84,
+     0.9
+    ],
+    [
+     2.29,
+     2.37
+    ],
+    [
+     2.41,
+     2.58
+    ]
+   ],
+   "duration_s": 3.38
+  },
+  {
+   "id": "7176-88083-0008",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-88083-0008.wav",
+   "reference": "in despair he hurled himself downward too soon",
+   "intervals": [
+    [
+     0.1,
+     0.28
+    ],
+    [
+     0.62,
+     0.76
+    ],
+    [
+     1.22,
+     1.29
+    ],
+    [
+     1.94,
+     2.07
+    ],
+    [
+     2.49,
+     2.62
+    ],
+    [
+     2.8,
+     2.95
+    ]
+   ],
+   "duration_s": 3.28
+  },
+  {
+   "id": "7176-92135-0011",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0011.wav",
+   "reference": "now the object of this soliloquy is plain",
+   "intervals": [
+    [
+     0.31,
+     0.41
+    ],
+    [
+     0.71,
+     0.82
+    ],
+    [
+     2.46,
+     2.53
+    ]
+   ],
+   "duration_s": 2.885
+  },
+  {
+   "id": "7176-92135-0041",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0041.wav",
+   "reference": "re enter butler and three footmen who remove the tea things hostess to guest",
+   "intervals": [
+    [
+     0.3,
+     0.39
+    ],
+    [
+     1.03,
+     1.16
+    ],
+    [
+     1.52,
+     1.65
+    ],
+    [
+     1.73,
+     1.8
+    ],
+    [
+     2.67,
+     2.76
+    ],
+    [
+     3.01,
+     3.12
+    ],
+    [
+     3.2,
+     3.3
+    ],
+    [
+     4.47,
+     4.53
+    ],
+    [
+     4.6,
+     4.71
+    ]
+   ],
+   "duration_s": 4.94
+  },
+  {
+   "id": "7176-92135-0004",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0004.wav",
+   "reference": "frankly i cannot always say",
+   "intervals": [
+    [
+     0.69,
+     0.79
+    ],
+    [
+     1.18,
+     1.35
+    ],
+    [
+     1.82,
+     2.07
+    ]
+   ],
+   "duration_s": 2.425
+  },
+  {
+   "id": "7176-92135-0013",
+   "speaker": "7176",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7176-92135-0013.wav",
+   "reference": "we moderns however see the absurdity of it",
+   "intervals": [
+    [
+     0.21,
+     0.33
+    ],
+    [
+     0.47,
+     0.6
+    ],
+    [
+     1.05,
+     1.15
+    ],
+    [
+     1.73,
+     1.81
+    ],
+    [
+     2.34,
+     2.44
+    ],
+    [
+     2.72,
+     2.84
+    ]
+   ],
+   "duration_s": 3.15
+  },
+  {
+   "id": "7729-102255-0013",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0013.wav",
+   "reference": "it was in fact the best weapon of its day",
+   "intervals": [
+    [
+     0.16,
+     0.24
+    ],
+    [
+     0.42,
+     0.54
+    ],
+    [
+     0.84,
+     0.95
+    ],
+    [
+     1.21,
+     1.31
+    ],
+    [
+     1.52,
+     1.6
+    ],
+    [
+     1.84,
+     1.94
+    ],
+    [
+     2.3,
+     2.62
+    ]
+   ],
+   "duration_s": 2.675
+  },
+  {
+   "id": "7729-102255-0036",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0036.wav",
+   "reference": "he planted a company before the hotel and demanded a surrender of the arms belonging to the free state military companies",
+   "intervals": [
+    [
+     0.3,
+     0.37
+    ],
+    [
+     0.54,
+     0.62
+    ],
+    [
+     0.78,
+     0.87
+    ],
+    [
+     1.65,
+     1.72
+    ],
+    [
+     2.17,
+     2.3
+    ],
+    [
+     2.42,
+     2.51
+    ],
+    [
+     2.77,
+     2.89
+    ],
+    [
+     3.12,
+     3.3
+    ],
+    [
+     3.62,
+     3.71
+    ],
+    [
+     4.07,
+     4.2
+    ],
+    [
+     4.43,
+     4.63
+    ],
+    [
+     5.1,
+     5.2
+    ],
+    [
+     6.08,
+     6.19
+    ],
+    [
+     6.89,
+     6.95
+    ]
+   ],
+   "duration_s": 7.705
+  },
+  {
+   "id": "7729-102255-0030",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0030.wav",
+   "reference": "he summoned half a dozen citizens to join his posse who followed obeyed and assisted him",
+   "intervals": [
+    [
+     0.43,
+     0.5
+    ],
+    [
+     0.64,
+     0.72
+    ],
+    [
+     1.02,
+     1.14
+    ],
+    [
+     1.24,
+     1.3
+    ],
+    [
+     1.38,
+     1.5
+    ],
+    [
+     1.81,
+     1.89
+    ],
+    [
+     3.11,
+     3.26
+    ],
+    [
+     3.67,
+     3.83
+    ],
+    [
+     4.46,
+     4.57
+    ],
+    [
+     4.71,
+     4.86
+    ],
+    [
+     5.69,
+     5.97
+    ],
+    [
+     6.17,
+     6.24
+    ],
+    [
+     6.86,
+     6.99
+    ]
+   ],
+   "duration_s": 7.25
+  },
+  {
+   "id": "7729-102255-0029",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0029.wav",
+   "reference": "ten days were consumed in these negotiations but the spirit of vengeance refused to yield",
+   "intervals": [
+    [
+     0.67,
+     0.75
+    ],
+    [
+     0.92,
+     1.09
+    ],
+    [
+     1.7,
+     1.85
+    ],
+    [
+     1.95,
+     2.11
+    ],
+    [
+     2.24,
+     2.34
+    ],
+    [
+     2.96,
+     3.08
+    ],
+    [
+     4.59,
+     4.65
+    ],
+    [
+     5.24,
+     5.33
+    ],
+    [
+     6.11,
+     6.19
+    ],
+    [
+     6.35,
+     6.42
+    ],
+    [
+     6.58,
+     6.68
+    ]
+   ],
+   "duration_s": 7.06
+  },
+  {
+   "id": "7729-102255-0025",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0025.wav",
+   "reference": "their assumed character changed with their changing opportunities or necessities",
+   "intervals": [
+    [
+     0.36,
+     0.42
+    ],
+    [
+     0.72,
+     0.82
+    ],
+    [
+     1.08,
+     1.15
+    ],
+    [
+     1.72,
+     1.93
+    ],
+    [
+     2.48,
+     2.55
+    ],
+    [
+     2.68,
+     2.75
+    ],
+    [
+     2.93,
+     3.04
+    ],
+    [
+     3.71,
+     3.8
+    ],
+    [
+     4.28,
+     4.39
+    ],
+    [
+     4.66,
+     4.75
+    ]
+   ],
+   "duration_s": 5.485
+  },
+  {
+   "id": "7729-102255-0031",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0031.wav",
+   "reference": "he continued his pretended search and to give color to his errand made two arrests",
+   "intervals": [
+    [
+     0.32,
+     0.39
+    ],
+    [
+     0.71,
+     0.77
+    ],
+    [
+     1.06,
+     1.15
+    ],
+    [
+     1.52,
+     1.58
+    ],
+    [
+     1.98,
+     2.21
+    ],
+    [
+     2.39,
+     2.55
+    ],
+    [
+     2.87,
+     3.01
+    ],
+    [
+     3.59,
+     3.67
+    ],
+    [
+     4.44,
+     4.66
+    ],
+    [
+     5.39,
+     5.51
+    ],
+    [
+     5.68,
+     5.8
+    ],
+    [
+     5.97,
+     6.13
+    ]
+   ],
+   "duration_s": 6.75
+  },
+  {
+   "id": "7729-102255-0021",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0021.wav",
+   "reference": "but the affair was magnified as a crowning proof that the free state men were insurrectionists and outlaws",
+   "intervals": [
+    [
+     0.29,
+     0.35
+    ],
+    [
+     0.79,
+     0.95
+    ],
+    [
+     1.48,
+     1.57
+    ],
+    [
+     2.45,
+     2.59
+    ],
+    [
+     2.68,
+     2.77
+    ],
+    [
+     2.96,
+     3.05
+    ],
+    [
+     3.47,
+     3.59
+    ],
+    [
+     4.37,
+     4.45
+    ],
+    [
+     4.63,
+     4.76
+    ],
+    [
+     4.93,
+     5.09
+    ],
+    [
+     6.04,
+     6.12
+    ],
+    [
+     6.59,
+     6.69
+    ],
+    [
+     6.81,
+     6.98
+    ]
+   ],
+   "duration_s": 7.93
+  },
+  {
+   "id": "7729-102255-0012",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0012.wav",
+   "reference": "several hundred free state men promptly responded to the summons",
+   "intervals": [
+    [
+     0.41,
+     0.47
+    ],
+    [
+     0.73,
+     0.81
+    ],
+    [
+     1.19,
+     1.27
+    ],
+    [
+     1.43,
+     1.54
+    ],
+    [
+     1.69,
+     1.8
+    ],
+    [
+     2.71,
+     2.85
+    ],
+    [
+     3.44,
+     3.53
+    ]
+   ],
+   "duration_s": 4.075
+  },
+  {
+   "id": "7729-102255-0014",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0014.wav",
+   "reference": "the leaders of the conspiracy became distrustful of their power to crush the town",
+   "intervals": [
+    [
+     0.48,
+     0.57
+    ],
+    [
+     0.91,
+     1.03
+    ],
+    [
+     1.51,
+     1.57
+    ],
+    [
+     2.25,
+     2.35
+    ],
+    [
+     2.81,
+     2.88
+    ],
+    [
+     3.37,
+     3.43
+    ],
+    [
+     3.67,
+     3.9
+    ],
+    [
+     4.32,
+     4.45
+    ],
+    [
+     4.85,
+     5.07
+    ]
+   ],
+   "duration_s": 5.295
+  },
+  {
+   "id": "7729-102255-0038",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0038.wav",
+   "reference": "atchison who had been haranguing the mob planted his two guns before the building and trained them upon it",
+   "intervals": [
+    [
+     0.52,
+     0.74
+    ],
+    [
+     1.53,
+     1.59
+    ],
+    [
+     1.67,
+     1.76
+    ],
+    [
+     1.86,
+     1.99
+    ],
+    [
+     2.72,
+     2.99
+    ],
+    [
+     4.05,
+     4.13
+    ],
+    [
+     4.32,
+     4.41
+    ],
+    [
+     4.5,
+     4.65
+    ],
+    [
+     5.34,
+     5.41
+    ],
+    [
+     6.07,
+     6.22
+    ],
+    [
+     6.53,
+     6.65
+    ],
+    [
+     6.82,
+     6.9
+    ],
+    [
+     7.18,
+     7.31
+    ]
+   ],
+   "duration_s": 7.92
+  },
+  {
+   "id": "7729-102255-0033",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0033.wav",
+   "reference": "as he had promised to protect the hotel the reassured citizens began to laugh at their own fears",
+   "intervals": [
+    [
+     0.39,
+     0.52
+    ],
+    [
+     0.65,
+     0.75
+    ],
+    [
+     1.05,
+     1.14
+    ],
+    [
+     1.43,
+     1.51
+    ],
+    [
+     1.75,
+     1.86
+    ],
+    [
+     1.98,
+     2.04
+    ],
+    [
+     2.35,
+     2.45
+    ],
+    [
+     3.55,
+     3.64
+    ],
+    [
+     3.91,
+     3.97
+    ],
+    [
+     4.64,
+     4.81
+    ],
+    [
+     5.19,
+     5.38
+    ],
+    [
+     5.47,
+     5.55
+    ],
+    [
+     5.78,
+     5.91
+    ],
+    [
+     6.12,
+     6.25
+    ]
+   ],
+   "duration_s": 6.775
+  },
+  {
+   "id": "7729-102255-0034",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0034.wav",
+   "reference": "to their sorrow they were soon undeceived",
+   "intervals": [
+    [
+     0.4,
+     0.47
+    ],
+    [
+     0.65,
+     0.75
+    ],
+    [
+     1.05,
+     1.16
+    ],
+    [
+     1.54,
+     1.69
+    ],
+    [
+     2.23,
+     2.4
+    ]
+   ],
+   "duration_s": 2.71
+  },
+  {
+   "id": "7729-102255-0000",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0000.wav",
+   "reference": "the bogus legislature numbered thirty six members",
+   "intervals": [
+    [
+     0.38,
+     0.49
+    ],
+    [
+     1.52,
+     1.6
+    ],
+    [
+     2.31,
+     2.38
+    ],
+    [
+     2.62,
+     2.69
+    ]
+   ],
+   "duration_s": 3.285
+  },
+  {
+   "id": "7729-102255-0045",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0045.wav",
+   "reference": "captain martin said i shall give you a pistol to help protect yourself if worse comes to worst",
+   "intervals": [
+    [
+     0.34,
+     0.45
+    ],
+    [
+     0.79,
+     0.87
+    ],
+    [
+     1.27,
+     1.43
+    ],
+    [
+     1.95,
+     2.15
+    ],
+    [
+     2.48,
+     2.54
+    ],
+    [
+     2.66,
+     2.77
+    ],
+    [
+     3.0,
+     3.09
+    ],
+    [
+     3.6,
+     3.67
+    ],
+    [
+     4.03,
+     4.12
+    ],
+    [
+     4.53,
+     4.61
+    ],
+    [
+     5.48,
+     5.55
+    ],
+    [
+     5.74,
+     5.83
+    ],
+    [
+     6.21,
+     6.34
+    ]
+   ],
+   "duration_s": 6.805
+  },
+  {
+   "id": "7729-102255-0005",
+   "speaker": "7729",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\7729-102255-0005.wav",
+   "reference": "this was a formidable array of advantages slavery was playing with loaded dice",
+   "intervals": [
+    [
+     0.57,
+     0.68
+    ],
+    [
+     0.85,
+     0.92
+    ],
+    [
+     1.53,
+     1.71
+    ],
+    [
+     1.99,
+     2.09
+    ],
+    [
+     3.08,
+     3.16
+    ],
+    [
+     3.78,
+     3.87
+    ],
+    [
+     4.56,
+     4.77
+    ]
+   ],
+   "duration_s": 5.18
+  },
+  {
+   "id": "8455-210777-0028",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0028.wav",
+   "reference": "jack would become eva's happy husband and would remain amidst the hurried duties of the eager world",
+   "intervals": [
+    [
+     0.65,
+     0.8
+    ],
+    [
+     1.24,
+     1.34
+    ],
+    [
+     1.42,
+     1.57
+    ],
+    [
+     1.93,
+     2.02
+    ],
+    [
+     2.25,
+     2.34
+    ],
+    [
+     4.16,
+     4.35
+    ],
+    [
+     4.66,
+     4.76
+    ],
+    [
+     5.62,
+     5.72
+    ],
+    [
+     5.97,
+     6.05
+    ],
+    [
+     6.31,
+     6.4
+    ],
+    [
+     6.58,
+     6.76
+    ],
+    [
+     7.05,
+     7.19
+    ]
+   ],
+   "duration_s": 7.735
+  },
+  {
+   "id": "8455-210777-0002",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0002.wav",
+   "reference": "on arriving at home at my own residence i found that our salon was filled with a brilliant company",
+   "intervals": [
+    [
+     0.55,
+     0.65
+    ],
+    [
+     0.87,
+     0.94
+    ],
+    [
+     1.11,
+     1.21
+    ],
+    [
+     1.32,
+     1.5
+    ],
+    [
+     1.62,
+     1.7
+    ],
+    [
+     1.81,
+     1.92
+    ],
+    [
+     1.92,
+     2.11
+    ],
+    [
+     2.26,
+     2.33
+    ],
+    [
+     3.17,
+     3.27
+    ],
+    [
+     3.4,
+     3.54
+    ],
+    [
+     3.7,
+     3.78
+    ],
+    [
+     4.05,
+     4.17
+    ]
+   ],
+   "duration_s": 6.24
+  },
+  {
+   "id": "8455-210777-0063",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0063.wav",
+   "reference": "to day i shouted",
+   "intervals": [
+    [
+     0.59,
+     1.01
+    ],
+    [
+     1.11,
+     1.26
+    ],
+    [
+     1.4,
+     1.54
+    ]
+   ],
+   "duration_s": 2.26
+  },
+  {
+   "id": "8455-210777-0064",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0064.wav",
+   "reference": "and i have no one ready to whom i can give up the archives of the government",
+   "intervals": [
+    [
+     0.57,
+     0.65
+    ],
+    [
+     0.87,
+     0.95
+    ],
+    [
+     1.57,
+     1.65
+    ],
+    [
+     1.71,
+     1.78
+    ],
+    [
+     2.01,
+     2.07
+    ],
+    [
+     2.42,
+     2.52
+    ],
+    [
+     3.15,
+     3.21
+    ]
+   ],
+   "duration_s": 3.835
+  },
+  {
+   "id": "8455-210777-0065",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0065.wav",
+   "reference": "i shall be happy to take charge of them said sir ferdinando",
+   "intervals": [
+    [
+     0.42,
+     0.59
+    ],
+    [
+     0.73,
+     0.82
+    ],
+    [
+     1.12,
+     1.22
+    ],
+    [
+     1.54,
+     1.6
+    ],
+    [
+     1.76,
+     1.85
+    ],
+    [
+     2.58,
+     2.7
+    ],
+    [
+     3.05,
+     3.16
+    ]
+   ],
+   "duration_s": 3.915
+  },
+  {
+   "id": "8455-210777-0052",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0052.wav",
+   "reference": "you will allow me to suggest said he that that is a matter of opinion",
+   "intervals": [
+    [
+     0.61,
+     0.68
+    ],
+    [
+     0.99,
+     1.12
+    ],
+    [
+     1.2,
+     1.26
+    ],
+    [
+     1.7,
+     1.79
+    ],
+    [
+     2.13,
+     2.3
+    ],
+    [
+     3.32,
+     3.55
+    ],
+    [
+     3.88,
+     3.98
+    ],
+    [
+     4.35,
+     4.42
+    ]
+   ],
+   "duration_s": 4.94
+  },
+  {
+   "id": "8455-210777-0043",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0043.wav",
+   "reference": "but what is the delicate mission i asked",
+   "intervals": [
+    [
+     1.12,
+     1.19
+    ],
+    [
+     1.56,
+     1.63
+    ],
+    [
+     2.02,
+     2.23
+    ],
+    [
+     2.23,
+     2.46
+    ]
+   ],
+   "duration_s": 3.145
+  },
+  {
+   "id": "8455-210777-0031",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0031.wav",
+   "reference": "you have received us with all that courtesy and hospitality for which your character in england stands so high",
+   "intervals": [
+    [
+     1.19,
+     1.26
+    ],
+    [
+     1.4,
+     1.53
+    ],
+    [
+     1.78,
+     2.05
+    ],
+    [
+     2.17,
+     2.27
+    ],
+    [
+     2.44,
+     2.56
+    ],
+    [
+     3.28,
+     3.4
+    ],
+    [
+     4.69,
+     4.76
+    ],
+    [
+     5.29,
+     5.41
+    ],
+    [
+     6.28,
+     6.42
+    ],
+    [
+     6.61,
+     6.69
+    ],
+    [
+     6.83,
+     7.2
+    ]
+   ],
+   "duration_s": 7.67
+  },
+  {
+   "id": "8455-210777-0056",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0056.wav",
+   "reference": "the peculiar circumstances of the colony are within your excellency's knowledge",
+   "intervals": [
+    [
+     1.01,
+     1.16
+    ],
+    [
+     2.95,
+     3.07
+    ],
+    [
+     3.27,
+     3.35
+    ],
+    [
+     3.6,
+     3.67
+    ],
+    [
+     3.91,
+     3.99
+    ],
+    [
+     4.66,
+     4.82
+    ]
+   ],
+   "duration_s": 5.545
+  },
+  {
+   "id": "8455-210777-0059",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0059.wav",
+   "reference": "but it is surmised that you will find difficulties in the way of your entering at once upon your government",
+   "intervals": [
+    [
+     1.12,
+     1.38
+    ],
+    [
+     1.9,
+     2.01
+    ],
+    [
+     2.84,
+     2.9
+    ],
+    [
+     3.01,
+     3.11
+    ],
+    [
+     3.25,
+     3.31
+    ],
+    [
+     3.41,
+     3.49
+    ],
+    [
+     4.49,
+     4.59
+    ],
+    [
+     4.85,
+     4.92
+    ]
+   ],
+   "duration_s": 5.535
+  },
+  {
+   "id": "8455-210777-0013",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0013.wav",
+   "reference": "jack had been standing in the far corner of the room talking to eva and was now reduced to silence by his praises",
+   "intervals": [
+    [
+     0.69,
+     0.82
+    ],
+    [
+     1.31,
+     1.42
+    ],
+    [
+     1.87,
+     2.01
+    ],
+    [
+     2.72,
+     2.8
+    ],
+    [
+     2.98,
+     3.08
+    ],
+    [
+     3.41,
+     3.53
+    ],
+    [
+     4.61,
+     4.73
+    ],
+    [
+     4.94,
+     5.08
+    ],
+    [
+     5.4,
+     5.53
+    ],
+    [
+     5.93,
+     6.03
+    ],
+    [
+     6.38,
+     6.47
+    ]
+   ],
+   "duration_s": 7.41
+  },
+  {
+   "id": "8455-210777-0012",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0012.wav",
+   "reference": "missus neverbend you must indeed be proud of your son",
+   "intervals": [
+    [
+     0.85,
+     0.92
+    ],
+    [
+     1.53,
+     1.59
+    ],
+    [
+     1.86,
+     2.03
+    ],
+    [
+     2.35,
+     2.44
+    ],
+    [
+     2.82,
+     2.94
+    ]
+   ],
+   "duration_s": 3.525
+  },
+  {
+   "id": "8455-210777-0037",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0037.wav",
+   "reference": "you have come to us threatening us with absolute destruction",
+   "intervals": [
+    [
+     0.81,
+     0.88
+    ],
+    [
+     1.06,
+     1.21
+    ],
+    [
+     1.48,
+     1.55
+    ],
+    [
+     1.78,
+     1.93
+    ],
+    [
+     3.02,
+     3.21
+    ]
+   ],
+   "duration_s": 4.735
+  },
+  {
+   "id": "8455-210777-0066",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0066.wav",
+   "reference": "they of course must all be altered",
+   "intervals": [
+    [
+     0.53,
+     0.64
+    ],
+    [
+     0.87,
+     0.95
+    ],
+    [
+     1.68,
+     1.87
+    ],
+    [
+     2.08,
+     2.21
+    ]
+   ],
+   "duration_s": 2.76
+  },
+  {
+   "id": "8455-210777-0011",
+   "speaker": "8455",
+   "sex": "M",
+   "path": "C:\\phon\\libri\\wav\\8455-210777-0011.wav",
+   "reference": "i did not mean said captain battleax to touch upon public subjects at such a moment as this",
+   "intervals": [
+    [
+     0.48,
+     0.57
+    ],
+    [
+     0.79,
+     0.88
+    ],
+    [
+     1.02,
+     1.21
+    ],
+    [
+     1.8,
+     1.89
+    ],
+    [
+     3.3,
+     3.38
+    ],
+    [
+     3.6,
+     3.71
+    ],
+    [
+     3.88,
+     3.94
+    ],
+    [
+     4.24,
+     4.31
+    ],
+    [
+     4.72,
+     4.81
+    ],
+    [
+     5.19,
+     5.27
+    ],
+    [
+     5.51,
+     5.58
+    ]
+   ],
+   "duration_s": 6.63
+  },
+  {
+   "id": "8555-284447-0005",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284447-0005.wav",
+   "reference": "the room of the great knife was high and big and around it ran rows of benches for the spectators to sit upon",
+   "intervals": [
+    [
+     0.51,
+     0.6
+    ],
+    [
+     0.96,
+     1.07
+    ],
+    [
+     1.15,
+     1.36
+    ],
+    [
+     1.74,
+     2.0
+    ],
+    [
+     2.0,
+     2.07
+    ],
+    [
+     2.21,
+     2.45
+    ],
+    [
+     2.88,
+     2.95
+    ],
+    [
+     3.18,
+     3.32
+    ],
+    [
+     3.63,
+     3.76
+    ],
+    [
+     4.0,
+     4.21
+    ],
+    [
+     4.51,
+     4.6
+    ],
+    [
+     6.18,
+     6.34
+    ]
+   ],
+   "duration_s": 6.83
+  },
+  {
+   "id": "8555-284447-0022",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284447-0022.wav",
+   "reference": "i had a notion it was you mate as saved me from the knife",
+   "intervals": [
+    [
+     0.17,
+     0.37
+    ],
+    [
+     0.7,
+     0.8
+    ],
+    [
+     1.21,
+     1.29
+    ],
+    [
+     1.47,
+     1.58
+    ],
+    [
+     1.69,
+     1.84
+    ],
+    [
+     1.95,
+     2.04
+    ],
+    [
+     2.22,
+     2.31
+    ],
+    [
+     2.4,
+     2.5
+    ],
+    [
+     2.95,
+     3.17
+    ]
+   ],
+   "duration_s": 3.56
+  },
+  {
+   "id": "8555-284449-0009",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284449-0009.wav",
+   "reference": "you are mate replied the sailor",
+   "intervals": [
+    [
+     0.33,
+     0.39
+    ],
+    [
+     0.39,
+     0.66
+    ],
+    [
+     0.83,
+     1.01
+    ],
+    [
+     1.99,
+     2.11
+    ],
+    [
+     2.38,
+     2.51
+    ]
+   ],
+   "duration_s": 3.27
+  },
+  {
+   "id": "8555-284449-0016",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284449-0016.wav",
+   "reference": "as a private citizen i shall be a model of deportment because it would be dangerous to be otherwise",
+   "intervals": [
+    [
+     0.23,
+     0.47
+    ],
+    [
+     0.72,
+     0.8
+    ],
+    [
+     1.43,
+     1.57
+    ],
+    [
+     1.7,
+     1.81
+    ],
+    [
+     1.91,
+     1.99
+    ],
+    [
+     2.14,
+     2.23
+    ],
+    [
+     2.68,
+     2.74
+    ],
+    [
+     3.7,
+     3.79
+    ],
+    [
+     4.29,
+     4.41
+    ]
+   ],
+   "duration_s": 5.895
+  },
+  {
+   "id": "8555-292519-0004",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-292519-0004.wav",
+   "reference": "the pity that we must come and go",
+   "intervals": [
+    [
+     0.8,
+     0.9
+    ],
+    [
+     1.25,
+     1.32
+    ],
+    [
+     1.42,
+     1.52
+    ],
+    [
+     1.6,
+     1.69
+    ],
+    [
+     1.92,
+     2.02
+    ],
+    [
+     2.15,
+     2.3
+    ],
+    [
+     2.51,
+     2.94
+    ]
+   ],
+   "duration_s": 3.245
+  },
+  {
+   "id": "8555-284449-0010",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284449-0010.wav",
+   "reference": "it will be such a satisfaction",
+   "intervals": [
+    [
+     0.21,
+     0.31
+    ],
+    [
+     0.56,
+     0.72
+    ],
+    [
+     0.91,
+     1.02
+    ],
+    [
+     1.68,
+     1.82
+    ]
+   ],
+   "duration_s": 2.51
+  },
+  {
+   "id": "8555-284447-0004",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284447-0004.wav",
+   "reference": "as soon as they entered the room of the great knife the boolooroo gave a yell of disappointment",
+   "intervals": [
+    [
+     0.49,
+     0.61
+    ],
+    [
+     1.02,
+     1.16
+    ],
+    [
+     1.16,
+     1.23
+    ],
+    [
+     1.69,
+     1.78
+    ],
+    [
+     2.17,
+     2.28
+    ],
+    [
+     2.38,
+     2.65
+    ],
+    [
+     3.25,
+     3.45
+    ],
+    [
+     3.75,
+     3.81
+    ],
+    [
+     3.85,
+     3.93
+    ],
+    [
+     4.05,
+     4.15
+    ],
+    [
+     4.64,
+     4.75
+    ]
+   ],
+   "duration_s": 5.485
+  },
+  {
+   "id": "8555-292519-0010",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-292519-0010.wav",
+   "reference": "old dances are simplified of their yearning bleached by time",
+   "intervals": [
+    [
+     0.53,
+     0.74
+    ],
+    [
+     1.25,
+     1.39
+    ],
+    [
+     3.0,
+     3.08
+    ],
+    [
+     3.31,
+     3.42
+    ],
+    [
+     4.16,
+     4.3
+    ],
+    [
+     4.61,
+     4.72
+    ],
+    [
+     4.88,
+     5.18
+    ]
+   ],
+   "duration_s": 5.77
+  },
+  {
+   "id": "8555-284447-0012",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284447-0012.wav",
+   "reference": "the captain shook his head",
+   "intervals": [
+    [
+     0.66,
+     0.76
+    ],
+    [
+     1.5,
+     1.7
+    ]
+   ],
+   "duration_s": 2.275
+  },
+  {
+   "id": "8555-292519-0008",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-292519-0008.wav",
+   "reference": "over the track lined city street the young men the grinning men pass",
+   "intervals": [
+    [
+     0.39,
+     0.53
+    ],
+    [
+     1.02,
+     1.12
+    ],
+    [
+     1.31,
+     1.5
+    ],
+    [
+     2.28,
+     2.39
+    ],
+    [
+     2.64,
+     2.74
+    ],
+    [
+     2.95,
+     3.16
+    ],
+    [
+     3.83,
+     3.92
+    ],
+    [
+     4.21,
+     4.43
+    ],
+    [
+     4.99,
+     5.28
+    ]
+   ],
+   "duration_s": 6.025
+  },
+  {
+   "id": "8555-284449-0014",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284449-0014.wav",
+   "reference": "the former boolooroo groaned",
+   "intervals": [
+    [
+     0.66,
+     0.73
+    ],
+    [
+     1.65,
+     1.86
+    ]
+   ],
+   "duration_s": 2.155
+  },
+  {
+   "id": "8555-284447-0023",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284447-0023.wav",
+   "reference": "i couldn't shiver much bein bound so tight but when i'm loose i mean to have jus one good shiver to relieve my feelin's",
+   "intervals": [
+    [
+     0.12,
+     0.42
+    ],
+    [
+     0.48,
+     0.55
+    ],
+    [
+     0.86,
+     0.92
+    ],
+    [
+     1.11,
+     1.19
+    ],
+    [
+     1.43,
+     1.58
+    ],
+    [
+     1.72,
+     1.9
+    ],
+    [
+     2.08,
+     2.15
+    ],
+    [
+     2.26,
+     2.42
+    ],
+    [
+     3.02,
+     3.12
+    ],
+    [
+     3.15,
+     3.24
+    ],
+    [
+     3.37,
+     3.54
+    ],
+    [
+     3.65,
+     3.76
+    ],
+    [
+     3.84,
+     3.93
+    ],
+    [
+     4.13,
+     4.22
+    ],
+    [
+     4.45,
+     4.54
+    ],
+    [
+     4.8,
+     4.87
+    ],
+    [
+     5.02,
+     5.08
+    ],
+    [
+     5.85,
+     5.95
+    ],
+    [
+     6.07,
+     6.18
+    ],
+    [
+     6.29,
+     6.42
+    ]
+   ],
+   "duration_s": 7.155
+  },
+  {
+   "id": "8555-292519-0012",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-292519-0012.wav",
+   "reference": "through the black night rain he sang to her window bars",
+   "intervals": [
+    [
+     0.69,
+     0.82
+    ],
+    [
+     1.15,
+     1.32
+    ],
+    [
+     1.63,
+     1.79
+    ],
+    [
+     1.97,
+     2.24
+    ],
+    [
+     2.85,
+     2.95
+    ],
+    [
+     3.1,
+     3.18
+    ],
+    [
+     3.79,
+     3.85
+    ],
+    [
+     4.19,
+     4.39
+    ]
+   ],
+   "duration_s": 5.17
+  },
+  {
+   "id": "8555-284449-0013",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284449-0013.wav",
+   "reference": "scuse me said trot i neglected to tell you that you're not the boolooroo any more",
+   "intervals": [
+    [
+     0.54,
+     0.73
+    ],
+    [
+     0.87,
+     1.2
+    ],
+    [
+     1.54,
+     1.61
+    ],
+    [
+     1.82,
+     1.97
+    ],
+    [
+     2.38,
+     2.52
+    ],
+    [
+     2.75,
+     2.86
+    ],
+    [
+     3.3,
+     3.38
+    ],
+    [
+     3.72,
+     3.8
+    ],
+    [
+     4.15,
+     4.31
+    ],
+    [
+     5.31,
+     5.41
+    ]
+   ],
+   "duration_s": 5.775
+  },
+  {
+   "id": "8555-284447-0018",
+   "speaker": "8555",
+   "sex": "F",
+   "path": "C:\\phon\\libri\\wav\\8555-284447-0018.wav",
+   "reference": "at once the goat gave a leap escaped from the soldiers and with bowed head rushed upon the boolooroo",
+   "intervals": [
+    [
+     0.27,
+     0.38
+    ],
+    [
+     0.53,
+     0.64
+    ],
+    [
+     0.98,
+     1.12
+    ],
+    [
+     1.52,
+     1.68
+    ],
+    [
+     2.14,
+     2.24
+    ],
+    [
+     2.64,
+     2.7
+    ],
+    [
+     3.04,
+     3.13
+    ],
+    [
+     3.45,
+     3.66
+    ],
+    [
+     3.83,
+     4.0
+    ],
+    [
+     4.22,
+     4.29
+    ],
+    [
+     4.52,
+     4.58
+    ],
+    [
+     4.66,
+     4.73
+    ]
+   ],
+   "duration_s": 5.46
+  }
+ ]
+}

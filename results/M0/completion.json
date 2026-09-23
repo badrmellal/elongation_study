@@ -1,0 +1,16 @@
+{
+  "finished_utc": "2026-09-20T12:54:42.245771+00:00",
+  "reciters": [
+    "AbdulBasit",
+    "Husary",
+    "Minshawy",
+    "Alafasy",
+    "Sudais",
+    "Shuraym",
+    "Dussary",
+    "Rifai"
+  ],
+  "terminal_verses": 320,
+  "conditions": 5436,
+  "manifest_sha256": "7d34d0dd3e8f875318d812b44782dd2867bda12d18964a7e9d845e1824ea75f9"
+}

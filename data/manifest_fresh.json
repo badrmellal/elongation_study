@@ -1,0 +1,1565 @@
+{
+ "created_utc": "2026-09-21T13:18:00.429620+00:00",
+ "seed": 20260921,
+ "protocol_sha256": "783d29181989b50677e6e9eed4c1598f5a01f2c97c262058551554c893c90c54",
+ "index_sha256": "6d474cd484453919a2f7edfe36875ad4f901d0bf94414faabe6c2810efdd035a",
+ "candidate_pool": [
+  "1:1",
+  "1:2",
+  "1:3",
+  "1:4",
+  "1:5",
+  "1:6",
+  "36:1",
+  "36:2",
+  "36:3",
+  "36:4",
+  "36:5",
+  "36:17",
+  "36:58",
+  "36:59",
+  "67:14",
+  "78:1",
+  "78:2",
+  "78:3",
+  "78:4",
+  "78:5",
+  "78:6",
+  "78:7",
+  "78:8",
+  "78:9",
+  "78:10",
+  "78:11",
+  "78:12",
+  "78:13",
+  "78:15",
+  "78:16",
+  "78:17",
+  "78:18",
+  "78:19",
+  "78:20",
+  "78:21",
+  "78:22",
+  "78:23",
+  "78:24",
+  "78:25",
+  "78:26",
+  "78:27",
+  "78:28",
+  "78:29",
+  "78:30",
+  "78:31",
+  "78:32",
+  "78:33",
+  "78:34",
+  "78:35",
+  "87:1",
+  "87:2",
+  "87:3",
+  "87:4",
+  "87:5",
+  "87:6",
+  "87:8",
+  "87:9",
+  "87:10",
+  "87:11",
+  "87:12",
+  "87:13",
+  "87:14",
+  "87:15",
+  "87:16",
+  "87:17",
+  "87:18",
+  "87:19",
+  "88:1",
+  "88:2",
+  "88:3",
+  "88:4",
+  "88:5",
+  "88:6",
+  "88:7",
+  "88:8",
+  "88:9",
+  "88:10",
+  "88:11",
+  "88:12",
+  "88:13",
+  "88:14",
+  "88:15",
+  "88:16",
+  "88:17",
+  "88:18",
+  "88:19",
+  "88:20",
+  "88:21",
+  "88:22",
+  "88:23",
+  "88:25",
+  "88:26",
+  "91:1",
+  "91:2",
+  "91:3",
+  "91:4",
+  "91:5",
+  "91:6",
+  "91:7",
+  "91:8",
+  "91:9",
+  "91:10",
+  "91:11",
+  "91:12",
+  "91:13",
+  "91:15",
+  "93:1",
+  "93:2",
+  "93:3",
+  "93:4",
+  "93:5",
+  "93:6",
+  "93:7",
+  "93:8",
+  "93:9",
+  "93:10",
+  "93:11",
+  "94:1",
+  "94:2",
+  "94:3",
+  "94:4",
+  "94:5",
+  "94:6",
+  "94:7",
+  "94:8",
+  "97:1",
+  "97:2",
+  "97:3",
+  "97:5",
+  "98:2",
+  "98:3",
+  "99:1",
+  "99:2",
+  "99:3",
+  "99:5",
+  "99:7",
+  "100:1",
+  "100:2",
+  "100:3",
+  "100:4",
+  "100:5",
+  "100:6",
+  "100:7",
+  "100:8",
+  "100:9",
+  "100:10",
+  "101:1",
+  "101:2",
+  "101:3",
+  "101:4",
+  "101:5",
+  "101:6",
+  "101:7",
+  "101:8",
+  "101:9",
+  "101:10",
+  "101:11",
+  "102:1",
+  "102:2",
+  "102:3",
+  "102:4",
+  "102:5",
+  "102:6",
+  "102:7",
+  "103:1",
+  "103:2",
+  "104:1",
+  "104:2",
+  "104:3",
+  "104:4",
+  "104:5",
+  "104:6",
+  "104:7",
+  "104:8",
+  "104:9",
+  "105:1",
+  "105:2",
+  "105:3",
+  "106:1",
+  "106:3",
+  "107:1",
+  "107:2",
+  "107:3",
+  "107:4",
+  "107:5",
+  "107:6",
+  "107:7",
+  "108:1",
+  "108:2",
+  "108:3",
+  "109:1",
+  "109:2",
+  "109:4",
+  "109:6",
+  "110:1",
+  "111:1",
+  "111:2",
+  "111:3",
+  "111:4",
+  "111:5",
+  "112:1",
+  "112:2",
+  "112:3",
+  "112:4",
+  "113:1",
+  "113:2",
+  "113:3",
+  "113:4",
+  "113:5",
+  "114:1",
+  "114:2",
+  "114:3",
+  "114:4",
+  "114:5"
+ ],
+ "confirmation_verses": [
+  "88:8",
+  "88:25",
+  "100:9",
+  "94:8",
+  "104:5",
+  "101:4",
+  "101:5",
+  "88:5",
+  "78:13",
+  "78:15",
+  "88:22",
+  "91:3",
+  "91:6",
+  "114:1",
+  "112:4",
+  "109:1",
+  "87:19",
+  "88:17",
+  "102:2",
+  "102:6",
+  "111:3",
+  "102:4",
+  "104:4",
+  "102:1",
+  "91:8",
+  "112:2",
+  "104:2",
+  "91:12",
+  "103:1",
+  "78:2",
+  "104:6",
+  "78:10",
+  "94:6",
+  "105:2",
+  "78:24",
+  "107:1",
+  "36:58",
+  "102:3",
+  "107:6",
+  "87:18",
+  "78:21",
+  "109:2",
+  "1:2",
+  "101:7",
+  "108:2",
+  "78:28",
+  "1:1",
+  "110:1",
+  "78:22",
+  "78:25",
+  "87:13",
+  "98:3",
+  "91:15",
+  "78:11",
+  "106:1",
+  "78:30",
+  "87:3",
+  "107:2",
+  "113:3",
+  "94:2"
+ ],
+ "source": "tarteel-ai/everyayah revision 6ea5108 (train split)",
+ "reciters": {
+  "SahlYassin": {
+   "folder": "Sahl_Yassin_EA",
+   "role": "fresh_confirmatory",
+   "files": [
+    {
+     "verse": "88:8",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/088008.wav",
+     "sha256": "495ed1a619000ba856242fcaf258cf96d0c9c7f30c7145d3224e4cb41fa8fd77",
+     "duration_s": 3.9989375,
+     "reference": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ"
+    },
+    {
+     "verse": "88:25",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/088025.wav",
+     "sha256": "0db3ded89b4e0006148c880049e9ec6fe0b8dc3d0599401452d059a56750cb37",
+     "duration_s": 3.3175625,
+     "reference": "إِنَّ إِلَيْنَا إِيَابَهُمْ"
+    },
+    {
+     "verse": "100:9",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/100009.wav",
+     "sha256": "8a2ede934205a0435ce4f5c36cbff46848779f7f8f1e61c6df13fd157bdb18c5",
+     "duration_s": 5.38125,
+     "reference": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ"
+    },
+    {
+     "verse": "94:8",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/094008.wav",
+     "sha256": "9ec38545dde9e49116440508a3b9512246a074afb0f15fb4717d9b0a2019daf0",
+     "duration_s": 3.2914375,
+     "reference": "وَإِلَىٰ رَبِّكَ فَارْغَب"
+    },
+    {
+     "verse": "104:5",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/104005.wav",
+     "sha256": "35cb35516d0cb7d706b53338f5e8006e6374daed04171e4445cbbb27bc1c6bee",
+     "duration_s": 3.1869375,
+     "reference": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ"
+    },
+    {
+     "verse": "101:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/101004.wav",
+     "sha256": "b41f93fc7fb43a59fbc4932843252e1c2e7f24d5abd574fb80ae87e71e56c947",
+     "duration_s": 5.6424375,
+     "reference": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ"
+    },
+    {
+     "verse": "101:5",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/101005.wav",
+     "sha256": "a4382705c3437e5ce0d35e060b80881e57128c976656e32912efacbb34f0b737",
+     "duration_s": 5.407375,
+     "reference": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ"
+    },
+    {
+     "verse": "88:5",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/088005.wav",
+     "sha256": "3ba2908592f8b47403bfad4d8effb2614d68f467c566ef774260f9e22f8d63b9",
+     "duration_s": 3.68325,
+     "reference": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ"
+    },
+    {
+     "verse": "78:13",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078013.wav",
+     "sha256": "fbdc4e3894cf1b141de24387b7ff2adbce831f320a5f6a38934ca79d518b963f",
+     "duration_s": 4.7281875,
+     "reference": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا"
+    },
+    {
+     "verse": "78:15",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078015.wav",
+     "sha256": "de520d3272ddbc4da5d9bea4429b19f56cb037a9c892db4826004d60ceb34332",
+     "duration_s": 4.7804375,
+     "reference": "لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا"
+    },
+    {
+     "verse": "88:22",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/088022.wav",
+     "sha256": "50cd9f953cfde9dadff809ef3728883cea83b34c8918a0c26b06ae46d2148301",
+     "duration_s": 3.68325,
+     "reference": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ"
+    },
+    {
+     "verse": "91:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/091003.wav",
+     "sha256": "94136ce94332dd35fd0f0329ea2dba87610affca18377272dafbb11f4de7cb88",
+     "duration_s": 3.68325,
+     "reference": "وَالنَّهَارِ إِذَا جَلَّاهَا"
+    },
+    {
+     "verse": "91:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/091006.wav",
+     "sha256": "cb817ffa7f8e7a12bfcc836b6b810c991a45613df7761322356a046957f80563",
+     "duration_s": 2.9518125,
+     "reference": "وَالْأَرْضِ وَمَا طَحَاهَا"
+    },
+    {
+     "verse": "114:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/114001.wav",
+     "sha256": "473478b37ea5d5fad7bd830c456e3d503aaf1e6e458cdacfb0d6fda798a3b58e",
+     "duration_s": 4.7804375,
+     "reference": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ"
+    },
+    {
+     "verse": "112:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/112004.wav",
+     "sha256": "995913840912115645ba42f8a4f2eed86b6babbbc79267e627fcd132718b0db7",
+     "duration_s": 3.84,
+     "reference": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ"
+    },
+    {
+     "verse": "109:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/109001.wav",
+     "sha256": "69ebf2517f7b49658af69d43ae4f3e2a152fa5a96fb2b41bbb44145ff5075e0f",
+     "duration_s": 3.7109375,
+     "reference": "قُلْ يَا أَيُّهَا الْكَافِرُونَ"
+    },
+    {
+     "verse": "87:19",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/087019.wav",
+     "sha256": "59f278652718f85cd3458118efac038783e220f8030f7a43c58ec5c2459a46fc",
+     "duration_s": 3.3436875,
+     "reference": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ"
+    },
+    {
+     "verse": "88:17",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/088017.wav",
+     "sha256": "bfe335deffed2346f40fe058c11f9141a66cf7e510a237d40eaa9666ed029f13",
+     "duration_s": 5.198375,
+     "reference": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ"
+    },
+    {
+     "verse": "102:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/102002.wav",
+     "sha256": "0e1fd2c2d865195c49eaf0184c2713f3072977649e149c318ef3ce2f4dbdc5c9",
+     "duration_s": 3.1869375,
+     "reference": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ"
+    },
+    {
+     "verse": "102:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/102006.wav",
+     "sha256": "57cec3fa101c9b6a52d159efc665bec29ccd6de4015bab445a88576965aaf1c2",
+     "duration_s": 2.9779375,
+     "reference": "لَتَرَوُنَّ الْجَحِيمَ"
+    },
+    {
+     "verse": "111:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/111003.wav",
+     "sha256": "95869c6e0ce01c56c4f3f5eb6492d914ef454a3cb2b87f7e190e5e97367e9a48",
+     "duration_s": 3.657125,
+     "reference": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ"
+    },
+    {
+     "verse": "102:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/102004.wav",
+     "sha256": "6b9be18cd344703a771a098e29fbcea6aed3ca7efd0a54e1df94a2fac09fb569",
+     "duration_s": 3.9445,
+     "reference": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+     "verse": "104:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/104004.wav",
+     "sha256": "38cecf907442f2b0cafef39ab4898ceb92fb44e7d3f094d5f190ea7c962b0eac",
+     "duration_s": 4.3885625,
+     "reference": "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ"
+    },
+    {
+     "verse": "102:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/102001.wav",
+     "sha256": "cc0fbefff7b52239ff3096bf5e5c76a67464509b5df040eb90a794f58d28927d",
+     "duration_s": 2.769,
+     "reference": "أَلْهَاكُمُ التَّكَاثُرُ"
+    },
+    {
+     "verse": "91:8",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/091008.wav",
+     "sha256": "d936b43a4ad252a191316bc2d2d673aa09058cc9333cc684dffaa03590db3233",
+     "duration_s": 4.2579375,
+     "reference": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا"
+    },
+    {
+     "verse": "112:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/112002.wav",
+     "sha256": "2103405323d5d99f8f3ff44890688cf73f0f045d2ee32e1bbccd8340b82f8f96",
+     "duration_s": 2.1943125,
+     "reference": "اللَّهُ الصَّمَدُ"
+    },
+    {
+     "verse": "104:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/104002.wav",
+     "sha256": "02e46afe3af056f66d794d075c01c816e95ed3bbf7a8da7783f5228c840edc89",
+     "duration_s": 4.10125,
+     "reference": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ"
+    },
+    {
+     "verse": "91:12",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/091012.wav",
+     "sha256": "3b53c6c4f3b72aded1bb354e71093c629bb928e99a9e863816c0344558704cb8",
+     "duration_s": 3.0824375,
+     "reference": "إِذِ انبَعَثَ أَشْقَاهَا"
+    },
+    {
+     "verse": "103:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/103001.wav",
+     "sha256": "aa0166222d5bbeb2cde487cc95325d95e2945fc3e23a3325b5e0c948b4d42388",
+     "duration_s": 1.201625,
+     "reference": "وَالْعَصْرِ"
+    },
+    {
+     "verse": "78:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078002.wav",
+     "sha256": "ef12004b1d9bfbe6925dcda081d92517b5d9e87d9e201dca88e0988b8577e261",
+     "duration_s": 2.6669375,
+     "reference": "عَنِ النَّبَإِ الْعَظِيمِ"
+    },
+    {
+     "verse": "104:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/104006.wav",
+     "sha256": "b877d4a012fcc075928fbc040bf21daa151fd2d150668922fb5a655b0ff71b12",
+     "duration_s": 2.9518125,
+     "reference": "نَارُ اللَّهِ الْمُوقَدَةُ"
+    },
+    {
+     "verse": "78:10",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078010.wav",
+     "sha256": "e82f57af1d3d672f37d56b9270fa9c2d7a6d60360e627b26301a1c3773551ab7",
+     "duration_s": 3.604875,
+     "reference": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا"
+    },
+    {
+     "verse": "94:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/094006.wav",
+     "sha256": "d17ae251d4f589eca6529b56b73bea0d60995ede80774871844af241a077d7f9",
+     "duration_s": 3.3698125,
+     "reference": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+    },
+    {
+     "verse": "105:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/105002.wav",
+     "sha256": "61bf396cb092e2d717a43b956562e61d24395a38ce0bf5200c04d0b8385071d8",
+     "duration_s": 4.5191875,
+     "reference": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ"
+    },
+    {
+     "verse": "78:24",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078024.wav",
+     "sha256": "ca7d60be833451655d650ddddd284d1cd2ae318b8f86a874e80ca058b46634af",
+     "duration_s": 6.34775,
+     "reference": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا"
+    },
+    {
+     "verse": "107:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/107001.wav",
+     "sha256": "5594626f60d056123a7aee60e80fb24b3f621ac7975c12ab974335b4a134349e",
+     "duration_s": 4.2056875,
+     "reference": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ"
+    },
+    {
+     "verse": "36:58",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/036058.wav",
+     "sha256": "41a5004221b9482ebe56b07e5bf1540f2f38fd7b145c2bcf94fbd2a109a40385",
+     "duration_s": 6.0604375,
+     "reference": "سَلَامٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ"
+    },
+    {
+     "verse": "102:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/102003.wav",
+     "sha256": "aed6303161580a61cc638773a41af45c21feec393d47b2edc4fa50e65b3ee991",
+     "duration_s": 2.9779375,
+     "reference": "كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+     "verse": "107:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/107006.wav",
+     "sha256": "15d851e71d453dfd165280914ed7ce6ea2d4587450e872e352694ffc17d5abb1",
+     "duration_s": 3.813875,
+     "reference": "الَّذِينَ هُمْ يُرَاءُونَ"
+    },
+    {
+     "verse": "87:18",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/087018.wav",
+     "sha256": "52cf5351d7a8267ed4a7cee6e3d511e3d2edab66da3dd88c0c986a66a12652c0",
+     "duration_s": 3.84,
+     "reference": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ"
+    },
+    {
+     "verse": "78:21",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078021.wav",
+     "sha256": "73358de79360bf859530d6c0afb499af05b76ed95edba4be718d602e5f48f640",
+     "duration_s": 4.989375,
+     "reference": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا"
+    },
+    {
+     "verse": "109:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/109002.wav",
+     "sha256": "3aa7cfec3078ff8209db813a62c03c6771d7219a35aa1ec091d15a6337cca86b",
+     "duration_s": 3.5265,
+     "reference": "لَا أَعْبُدُ مَا تَعْبُدُونَ"
+    },
+    {
+     "verse": "1:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/001002.wav",
+     "sha256": "43391d9e49a773a1228fe4a1da93ffdffda9fb6bc374f0158563b181167d1007",
+     "duration_s": 3.631,
+     "reference": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
+    },
+    {
+     "verse": "101:7",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/101007.wav",
+     "sha256": "463b4e60670b44494cbcbad0fb3e0d6b15a441e95faedfd77565c2770fedb40b",
+     "duration_s": 4.1535,
+     "reference": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ"
+    },
+    {
+     "verse": "108:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/108002.wav",
+     "sha256": "d7bba514e6cf1025006d9fbb0e1b5b676b40bc8f8ff9fe1119c7ee511c692919",
+     "duration_s": 2.9518125,
+     "reference": "فَصَلِّ لِرَبِّكَ وَانْحَرْ"
+    },
+    {
+     "verse": "78:28",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078028.wav",
+     "sha256": "3e94cd4994185ed08a21f21c40468cc9f4bf64b9012c789697635d30bc225f1a",
+     "duration_s": 5.06775,
+     "reference": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا"
+    },
+    {
+     "verse": "1:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/001001.wav",
+     "sha256": "f23a91ef2f53cfd7e4949617ae8200fb4f61b946c9f52d86005bd25681121a00",
+     "duration_s": 3.3698125,
+     "reference": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
+    },
+    {
+     "verse": "110:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/110001.wav",
+     "sha256": "db0b2e7fec24e4f670dd4dda8684eac03ff65becda4a51e3a87b7bdf3cbffec4",
+     "duration_s": 4.5191875,
+     "reference": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ"
+    },
+    {
+     "verse": "78:22",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078022.wav",
+     "sha256": "6e50e75b75ccdcc1d6d7131295a3ead309780f67a321da61df3d301a0574bb95",
+     "duration_s": 3.1608125,
+     "reference": "لِّلطَّاغِينَ مَآبًا"
+    },
+    {
+     "verse": "78:25",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078025.wav",
+     "sha256": "c2c395fe3c19cbd7bc0896f60abcf7ce0e2f31bed901f0877f96cc4c4e9525c7",
+     "duration_s": 5.06775,
+     "reference": "إِلَّا حَمِيمًا وَغَسَّاقًا"
+    },
+    {
+     "verse": "87:13",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/087013.wav",
+     "sha256": "c0324aaed14fb6b5b8a198dcd644ff68afa98d7bb16bea7aa80262b893fed8e6",
+     "duration_s": 4.7020625,
+     "reference": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ"
+    },
+    {
+     "verse": "98:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/098003.wav",
+     "sha256": "804b7eb0db91c7cb6b67dacc90e58d0d8752dc3b30c42c782943508a44066ca7",
+     "duration_s": 3.3436875,
+     "reference": "فِيهَا كُتُبٌ قَيِّمَةٌ"
+    },
+    {
+     "verse": "91:15",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/091015.wav",
+     "sha256": "648d2138e04ae29be0e0c02966af85226551c80f87108d8f4f30b30551e13012",
+     "duration_s": 3.2914375,
+     "reference": "وَلَا يَخَافُ عُقْبَاهَا"
+    },
+    {
+     "verse": "78:11",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078011.wav",
+     "sha256": "cda1aee17b550e23d48c50597f8fedc9f91d37190451d531765f0109f7919dbb",
+     "duration_s": 4.2056875,
+     "reference": "وَجَعَلْنَا النَّهَارَ مَعَاشًا"
+    },
+    {
+     "verse": "106:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/106001.wav",
+     "sha256": "d442acb116de2fed2d40d917432e4c93229fd83afa322a083eca9d61a8b4eeaf",
+     "duration_s": 2.690625,
+     "reference": "لِإِيلَافِ قُرَيْشٍ"
+    },
+    {
+     "verse": "78:30",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/078030.wav",
+     "sha256": "37d59576d86d8187532cb23b39252363c65dc9137c91ecbaf7253360169b23f6",
+     "duration_s": 6.7135,
+     "reference": "فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا"
+    },
+    {
+     "verse": "87:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/087003.wav",
+     "sha256": "0a0e1d4b7fab07b303900a64477c3a33cd127539d612f44252f2ee7f7d34bfcb",
+     "duration_s": 2.481625,
+     "reference": "وَالَّذِي قَدَّرَ فَهَدَىٰ"
+    },
+    {
+     "verse": "107:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/107002.wav",
+     "sha256": "1d2af83bd0324d791e069e844bd62d59582c25ee5339bc629444b875b21a42bc",
+     "duration_s": 4.5714375,
+     "reference": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ"
+    },
+    {
+     "verse": "113:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/113003.wav",
+     "sha256": "f49d4c25b31b09033b670bc984fc002b25edb0921eba26893a75a67e4d5f3516",
+     "duration_s": 4.5191875,
+     "reference": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+    },
+    {
+     "verse": "94:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Sahl_Yassin_EA/094002.wav",
+     "sha256": "8cde5a3a963c378d68b7230df2a5afd7c1a155a96cd270cb0925cf849bfaa9ac",
+     "duration_s": 2.638375,
+     "reference": "وَوَضَعْنَا عَنكَ وِزْرَكَ"
+    }
+   ]
+  },
+  "AkramAlalaqimy": {
+   "folder": "Akram_AlAlaqimy_EA",
+   "role": "fresh_confirmatory",
+   "files": [
+    {
+     "verse": "88:8",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/088008.wav",
+     "sha256": "8f763e4bdb34665db80a487e40a48b47afc5702432e37cf6213b14cb8e47319d",
+     "duration_s": 5.06775,
+     "reference": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ"
+    },
+    {
+     "verse": "88:25",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/088025.wav",
+     "sha256": "8bb942fd808c337c20b6a992c88e1279c585f38d230a71802160fe4ad7fcb59c",
+     "duration_s": 5.8514375,
+     "reference": "إِنَّ إِلَيْنَا إِيَابَهُمْ"
+    },
+    {
+     "verse": "100:9",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/100009.wav",
+     "sha256": "8b20d3338b3a5e9c67c68c45cebf3f43bff1895d4959c7f0f853fdc18b8e9f41",
+     "duration_s": 7.444875,
+     "reference": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ"
+    },
+    {
+     "verse": "94:8",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/094008.wav",
+     "sha256": "56abc1ace9cb50c0c10b78afb01ee26138a1d37fb0200befa27809830e5c846f",
+     "duration_s": 3.552625,
+     "reference": "وَإِلَىٰ رَبِّكَ فَارْغَب"
+    },
+    {
+     "verse": "104:5",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/104005.wav",
+     "sha256": "191050b7495d4190f4e33aed1047f8bdb1f865235c87986cfbc2871fc58aece6",
+     "duration_s": 5.38125,
+     "reference": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ"
+    },
+    {
+     "verse": "101:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/101004.wav",
+     "sha256": "482dbf9c4c6ae3c8dbb00f1c033e12665a6b088a0bddfc9ddee6bc9f3f66f851",
+     "duration_s": 7.758375,
+     "reference": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ"
+    },
+    {
+     "verse": "101:5",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/101005.wav",
+     "sha256": "a3cac74a0628e3d514b3b6127e18b03e0c744aa302d07d3fd3f397bf49955c98",
+     "duration_s": 7.0791875,
+     "reference": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ"
+    },
+    {
+     "verse": "88:5",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/088005.wav",
+     "sha256": "719090d126a36e2d6ae88ca9d1a3771680a391d158388d5cb858403618a76d82",
+     "duration_s": 4.3363125,
+     "reference": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ"
+    },
+    {
+     "verse": "78:13",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078013.wav",
+     "sha256": "be122d6bc437cedd9d68c4f1102d0d9614a157ae04596b2ef237583045e3f53f",
+     "duration_s": 6.0343125,
+     "reference": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا"
+    },
+    {
+     "verse": "78:15",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078015.wav",
+     "sha256": "9a140078c12334bf64a8607995a54eed257d3178930201a335586f190702f696",
+     "duration_s": 5.9298125,
+     "reference": "لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا"
+    },
+    {
+     "verse": "88:22",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/088022.wav",
+     "sha256": "727436577e30d0e378d1ccfe12900de19b7a731452e903d875ddc6585d8c92c3",
+     "duration_s": 4.911,
+     "reference": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ"
+    },
+    {
+     "verse": "91:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/091003.wav",
+     "sha256": "9f4cba6444979a01268d98ad95b1b213c6e5b060436d8a85ecb2bb0e01e38451",
+     "duration_s": 4.6759375,
+     "reference": "وَالنَّهَارِ إِذَا جَلَّاهَا"
+    },
+    {
+     "verse": "91:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/091006.wav",
+     "sha256": "ece82b0bcf3eb8d2c2b6d805cf715bb58739eef29bc0972fb75081f4467c8ddb",
+     "duration_s": 3.9445,
+     "reference": "وَالْأَرْضِ وَمَا طَحَاهَا"
+    },
+    {
+     "verse": "114:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/114001.wav",
+     "sha256": "7bff83461e48fa28c822ca9f0f9bb6ed62497a03be4e1cf94691dd267a784c90",
+     "duration_s": 6.164875,
+     "reference": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ"
+    },
+    {
+     "verse": "112:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/112004.wav",
+     "sha256": "4b8cdc0d82421fb3e07f7be0f061838c6281cd6c67e6bb6d89c4bd83da5d5a87",
+     "duration_s": 4.5191875,
+     "reference": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ"
+    },
+    {
+     "verse": "109:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/109001.wav",
+     "sha256": "2c3554403bc75804d35ca4478f8f9edbf17fbb48629639dc7ff6376bfa09c6af",
+     "duration_s": 6.8440625,
+     "reference": "قُلْ يَا أَيُّهَا الْكَافِرُونَ"
+    },
+    {
+     "verse": "87:19",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/087019.wav",
+     "sha256": "1e3b2b857395f90f4f0cb56361c8a8b82f720425faabc552e16d508847cb16a6",
+     "duration_s": 4.4408125,
+     "reference": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ"
+    },
+    {
+     "verse": "88:17",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/088017.wav",
+     "sha256": "9d3c3c1c870c4565058a1a49a87b16d69c4d2cbff29932f24e4030027901ece2",
+     "duration_s": 6.9509375,
+     "reference": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ"
+    },
+    {
+     "verse": "102:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/102002.wav",
+     "sha256": "a945cd1a62c728a635552c0a263cbdcd5a94d3b427dbe5b4fc1eb024d6e0a983",
+     "duration_s": 3.813875,
+     "reference": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ"
+    },
+    {
+     "verse": "102:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/102006.wav",
+     "sha256": "a6c0670e210c4b40a353b647780fce0525563c714d1d878547c82c3916f90d49",
+     "duration_s": 4.3624375,
+     "reference": "لَتَرَوُنَّ الْجَحِيمَ"
+    },
+    {
+     "verse": "111:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/111003.wav",
+     "sha256": "348371fe0c990ae819055430e6e9265aaa173e83c88b5de4a543adf8b74c84dd",
+     "duration_s": 5.06775,
+     "reference": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ"
+    },
+    {
+     "verse": "102:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/102004.wav",
+     "sha256": "c02e6fa40540c5cf14671b82314926c2243c03db13badbd28ead0df67ed724de",
+     "duration_s": 5.3309375,
+     "reference": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+     "verse": "104:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/104004.wav",
+     "sha256": "6113f4efa2b9a4c961669f5223fafb9ac5aec91e124e7574327bd9dbff1110f8",
+     "duration_s": 5.6424375,
+     "reference": "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ"
+    },
+    {
+     "verse": "102:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/102001.wav",
+     "sha256": "b1177340e54508cab14c5f06420353208ac460f6e549e19e49e589fc40f50211",
+     "duration_s": 3.3698125,
+     "reference": "أَلْهَاكُمُ التَّكَاثُرُ"
+    },
+    {
+     "verse": "91:8",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/091008.wav",
+     "sha256": "9029c6dbdc4b36f6591436e37c73931882e05b4ae364d9458e7fa8397d13b389",
+     "duration_s": 5.6685625,
+     "reference": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا"
+    },
+    {
+     "verse": "112:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/112002.wav",
+     "sha256": "77d5529c9eae48cc13fcaac3290fe1442f3f40bcc9751209b6e99e75a983fffe",
+     "duration_s": 2.6669375,
+     "reference": "اللَّهُ الصَّمَدُ"
+    },
+    {
+     "verse": "104:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/104002.wav",
+     "sha256": "5efce67659e5788e1f22498aa68453747951095df9221d70cf4e4e3487048306",
+     "duration_s": 5.3309375,
+     "reference": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ"
+    },
+    {
+     "verse": "91:12",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/091012.wav",
+     "sha256": "73fdfce94ab0e2f7200cf4c9f0077d4c190ea847ab45cbc6a06c43e2a50e34c8",
+     "duration_s": 4.4146875,
+     "reference": "إِذِ انبَعَثَ أَشْقَاهَا"
+    },
+    {
+     "verse": "103:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/103001.wav",
+     "sha256": "e50a7be8bc8b9e6378ec5fc46dc3b13874824acfe416a06d0907cf81ac5fb107",
+     "duration_s": 1.6456875,
+     "reference": "وَالْعَصْرِ"
+    },
+    {
+     "verse": "78:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078002.wav",
+     "sha256": "cd840a13b1c738a71623a1de244fcb9e967ac625d01453484b252078965f274f",
+     "duration_s": 5.0429375,
+     "reference": "عَنِ النَّبَإِ الْعَظِيمِ"
+    },
+    {
+     "verse": "104:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/104006.wav",
+     "sha256": "ee2f3e5eba145ac495652eb5433a145bf71591929b02f4d222adc1cea33e24ce",
+     "duration_s": 3.68325,
+     "reference": "نَارُ اللَّهِ الْمُوقَدَةُ"
+    },
+    {
+     "verse": "78:10",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078010.wav",
+     "sha256": "56117b75c5aef945677f03762be8a94aae71f02137385e97b9cb12e852a4281a",
+     "duration_s": 4.1535,
+     "reference": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا"
+    },
+    {
+     "verse": "94:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/094006.wav",
+     "sha256": "14ad34868c11dfde64fd5ed9537c99acafe6c29bad6f1ac19380fc4b471029cf",
+     "duration_s": 4.3885625,
+     "reference": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+    },
+    {
+     "verse": "105:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/105002.wav",
+     "sha256": "8efc50f32d85b7cc0c9b31f1930c3126d945d6965c6d9a7d3dd428084dd668ca",
+     "duration_s": 5.9559375,
+     "reference": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ"
+    },
+    {
+     "verse": "78:24",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078024.wav",
+     "sha256": "f7e38b484cd1b0058184d46042423a58b723a53116c45d29e17d093b259ddbc6",
+     "duration_s": 7.915125,
+     "reference": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا"
+    },
+    {
+     "verse": "107:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/107001.wav",
+     "sha256": "16505ca1c5aa71eb13b441c19d08b24ec075d90c6b652e844fe026a03a79dbe6",
+     "duration_s": 6.45225,
+     "reference": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ"
+    },
+    {
+     "verse": "36:58",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/036058.wav",
+     "sha256": "e7d6b07eec5a325d156cce949969a850d266b264602ddcfe192bfcc9eaf084bc",
+     "duration_s": 6.24325,
+     "reference": "سَلَامٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ"
+    },
+    {
+     "verse": "102:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/102003.wav",
+     "sha256": "737eccb3c0d5ceca1655a0dace3cd1bc7861aab080e890350d58747c9f583bf3",
+     "duration_s": 4.10125,
+     "reference": "كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+     "verse": "107:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/107006.wav",
+     "sha256": "87e847b076fa31c9a5767e2af87ae1b1b4acfdd1080e7dfe4990ab904b77c00c",
+     "duration_s": 5.5379375,
+     "reference": "الَّذِينَ هُمْ يُرَاءُونَ"
+    },
+    {
+     "verse": "87:18",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/087018.wav",
+     "sha256": "d47bab6a0eef94f333b74e76c835379919f941be7fcbfea44795096ffa58839d",
+     "duration_s": 5.5379375,
+     "reference": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ"
+    },
+    {
+     "verse": "78:21",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078021.wav",
+     "sha256": "26e1cdbc7bedbddc37c506aceb04c583718fc86dc2713170cd0dcfc7bb98d285",
+     "duration_s": 6.8179375,
+     "reference": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا"
+    },
+    {
+     "verse": "109:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/109002.wav",
+     "sha256": "71e93a5942d1903b687de49dedd9e9f8cf982ebfe4efdf96a23616bc2813b6a1",
+     "duration_s": 5.9559375,
+     "reference": "لَا أَعْبُدُ مَا تَعْبُدُونَ"
+    },
+    {
+     "verse": "1:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/001002.wav",
+     "sha256": "9e6364e81b239e27a2fe8d0b65b73888a692d45a0fa867a8a5b04bcbe3a9c3a4",
+     "duration_s": 6.191,
+     "reference": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
+    },
+    {
+     "verse": "101:7",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/101007.wav",
+     "sha256": "5071dd9b4b39114afd33c54d7b5f211f39113b019e75ae92889b203451c50416",
+     "duration_s": 4.937125,
+     "reference": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ"
+    },
+    {
+     "verse": "108:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/108002.wav",
+     "sha256": "1c012320e4ab4d947ded2808614fcb2bfdd9b9ce6a562aa6be7f42666c8229fb",
+     "duration_s": 3.7355,
+     "reference": "فَصَلِّ لِرَبِّكَ وَانْحَرْ"
+    },
+    {
+     "verse": "78:28",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078028.wav",
+     "sha256": "07fe58beb68df2019ebadcec80c93dc2466ea5f5829d99a0f8be3f8afb17b6e1",
+     "duration_s": 6.112625,
+     "reference": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا"
+    },
+    {
+     "verse": "1:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/001001.wav",
+     "sha256": "5ce58a6829e2c4d32d0e527efa32083b17174248c2beebee4ee2c07106dbdcfa",
+     "duration_s": 3.3698125,
+     "reference": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
+    },
+    {
+     "verse": "110:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/110001.wav",
+     "sha256": "86a898a180bae36f030f26bcc9fddc053f67527602fd38ebd8aed5dcfd37e4d7",
+     "duration_s": 5.9298125,
+     "reference": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ"
+    },
+    {
+     "verse": "78:22",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078022.wav",
+     "sha256": "35e7f74bddc47abd499a19d9ff61e0147612d3140af0ed4b9bb5738ce658a894",
+     "duration_s": 4.3363125,
+     "reference": "لِّلطَّاغِينَ مَآبًا"
+    },
+    {
+     "verse": "78:25",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078025.wav",
+     "sha256": "400173fcc07dc8cd1c9961057aed796f85424b78b5b045786aff2963f1dd2f09",
+     "duration_s": 5.6685625,
+     "reference": "إِلَّا حَمِيمًا وَغَسَّاقًا"
+    },
+    {
+     "verse": "87:13",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/087013.wav",
+     "sha256": "4102c600164f334ff30928fae59606a33aab4d1dca7fefcd460dec52e7364905",
+     "duration_s": 6.0343125,
+     "reference": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ"
+    },
+    {
+     "verse": "98:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/098003.wav",
+     "sha256": "b0054eef45bbdf9fd2974e6a1b54d64314b8f57681e3f963660c37ff395016f0",
+     "duration_s": 3.970625,
+     "reference": "فِيهَا كُتُبٌ قَيِّمَةٌ"
+    },
+    {
+     "verse": "91:15",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/091015.wav",
+     "sha256": "d275256ed3262b9bec938875b05c7ba20d4911fc7e620f7507990a3a54414e48",
+     "duration_s": 4.1535,
+     "reference": "وَلَا يَخَافُ عُقْبَاهَا"
+    },
+    {
+     "verse": "78:11",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078011.wav",
+     "sha256": "cabbf60fc3fc3fa4855bd9ebf926aec5c4ca93985a8a1e7784d5952781fb2ccf",
+     "duration_s": 5.38125,
+     "reference": "وَجَعَلْنَا النَّهَارَ مَعَاشًا"
+    },
+    {
+     "verse": "106:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/106001.wav",
+     "sha256": "96bd427fcc68a792a2f012ee0997210c2a93525cce23a5e60f6465bf5ac0dd6d",
+     "duration_s": 3.9445,
+     "reference": "لِإِيلَافِ قُرَيْشٍ"
+    },
+    {
+     "verse": "78:30",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/078030.wav",
+     "sha256": "2cef69da8d146ba1144686f458ea5b663dd680a5718118cd0cee12ca7ca59180",
+     "duration_s": 7.5755,
+     "reference": "فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا"
+    },
+    {
+     "verse": "87:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/087003.wav",
+     "sha256": "1d68bb3452debfae8f0f0ed907036a25c2e6ce348caa27f2de26c0305480b4ac",
+     "duration_s": 3.813875,
+     "reference": "وَالَّذِي قَدَّرَ فَهَدَىٰ"
+    },
+    {
+     "verse": "107:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/107002.wav",
+     "sha256": "6d08c0c47d7581e5fad4c7259bcd8c043cf99b47598f16fe3c1a3a63c461ef77",
+     "duration_s": 5.3309375,
+     "reference": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ"
+    },
+    {
+     "verse": "113:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/113003.wav",
+     "sha256": "f36d864d6f7707b25a2ebb2691b556a997204c3318f8931afc43391a6a8bac81",
+     "duration_s": 5.6685625,
+     "reference": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+    },
+    {
+     "verse": "94:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Akram_AlAlaqimy_EA/094002.wav",
+     "sha256": "1f6044cbffedf9c867f558756e586fc08dd2098933869f8d79d0c4aa366aa631",
+     "duration_s": 4.3624375,
+     "reference": "وَوَضَعْنَا عَنكَ وِزْرَكَ"
+    }
+   ]
+  },
+  "MuhsinAlQasim": {
+   "folder": "Muhsin_AlQasim_EA",
+   "role": "fresh_confirmatory",
+   "files": [
+    {
+     "verse": "88:8",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/088008.wav",
+     "sha256": "607fdebad62541bb86eab901bcfe504cf23519fbee4788eb0a3d2d5a5b706606",
+     "duration_s": 3.866125,
+     "reference": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ"
+    },
+    {
+     "verse": "88:25",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/088025.wav",
+     "sha256": "430da3226b905345d49296da9f421e2a0a0b573ca5052f1938dd13a09eadf112",
+     "duration_s": 3.631,
+     "reference": "إِنَّ إِلَيْنَا إِيَابَهُمْ"
+    },
+    {
+     "verse": "100:9",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/100009.wav",
+     "sha256": "28177d094cb23888068338eafd2058e687649ae91ae5db2ff2964d1ad995f793",
+     "duration_s": 4.6759375,
+     "reference": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ"
+    },
+    {
+     "verse": "94:8",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/094008.wav",
+     "sha256": "c8cb382c3c09e017883f77ec3808cab6114700e25983cd3cfcc315285606d6a7",
+     "duration_s": 3.0563125,
+     "reference": "وَإِلَىٰ رَبِّكَ فَارْغَب"
+    },
+    {
+     "verse": "104:5",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/104005.wav",
+     "sha256": "12b26efa7e5e92fa79a07d5d2a40032ac73b7e3c7bc96ce71bab3fde998f7869",
+     "duration_s": 3.813875,
+     "reference": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ"
+    },
+    {
+     "verse": "101:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/101004.wav",
+     "sha256": "1a8ff472c102757877068f117f1b299ae4e10003c606d7cead913f3ede1f6dc9",
+     "duration_s": 5.06775,
+     "reference": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ"
+    },
+    {
+     "verse": "101:5",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/101005.wav",
+     "sha256": "f35404ade45c01c90cbde0c2f3fbd147a4aae1ac06ed89dc68d42d4e8e368612",
+     "duration_s": 5.146125,
+     "reference": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ"
+    },
+    {
+     "verse": "88:5",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/088005.wav",
+     "sha256": "ad905980d8f7a910a28b14b392a9c4901685ec892da01bf6138c5aa5cb266293",
+     "duration_s": 2.8995625,
+     "reference": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ"
+    },
+    {
+     "verse": "78:13",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078013.wav",
+     "sha256": "9f60858f0b97b8827df3b5c88ce5c4adf00573ce05f7adc5c9cdefe6614bfa8d",
+     "duration_s": 3.813875,
+     "reference": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا"
+    },
+    {
+     "verse": "78:15",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078015.wav",
+     "sha256": "df71b1b5d92cdc6d51283a082433a1a26ddeadfa51ba573e0079cb7332aa03d2",
+     "duration_s": 3.604875,
+     "reference": "لِّنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا"
+    },
+    {
+     "verse": "88:22",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/088022.wav",
+     "sha256": "d02aeef9bd62632b70eff6a5878a9d838ec9d3f04a4751aa2c5989f3c62b07ca",
+     "duration_s": 3.2391875,
+     "reference": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ"
+    },
+    {
+     "verse": "91:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/091003.wav",
+     "sha256": "801962289fdad7ab367482c693487729b2813039fc741797fd2cabf7043ef4e6",
+     "duration_s": 3.2653125,
+     "reference": "وَالنَّهَارِ إِذَا جَلَّاهَا"
+    },
+    {
+     "verse": "91:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/091006.wav",
+     "sha256": "fb6ada22aa9725bd1196927c64205d9d696877d4c5ef6d6afadb806cdda193b6",
+     "duration_s": 2.742875,
+     "reference": "وَالْأَرْضِ وَمَا طَحَاهَا"
+    },
+    {
+     "verse": "114:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/114001.wav",
+     "sha256": "246217361149b4cf26c8a292d773ec079d7cd864f24f47f2d20c8a01e4d1151e",
+     "duration_s": 3.1869375,
+     "reference": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ"
+    },
+    {
+     "verse": "112:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/112004.wav",
+     "sha256": "976b2c85443e8f4abbc56e081fc8bc9488506b7c481b5ad61c84ca28195ea76e",
+     "duration_s": 3.918375,
+     "reference": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ"
+    },
+    {
+     "verse": "109:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/109001.wav",
+     "sha256": "1b25df506dbc73bf1feccd15f1ead2f9e220ff4cdc64ad884c85034f3e515b7e",
+     "duration_s": 3.9445,
+     "reference": "قُلْ يَا أَيُّهَا الْكَافِرُونَ"
+    },
+    {
+     "verse": "87:19",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/087019.wav",
+     "sha256": "8430925e1537d60a50ac5b41380ce5c6cb1fd7367ba1f06da5df5d78ae73a91c",
+     "duration_s": 3.84,
+     "reference": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ"
+    },
+    {
+     "verse": "88:17",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/088017.wav",
+     "sha256": "17f608182610b6d1d5920100c4236db7f853743912ac9aa023f0544353f39a4c",
+     "duration_s": 5.3309375,
+     "reference": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ"
+    },
+    {
+     "verse": "102:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/102002.wav",
+     "sha256": "6a0e568e1a9840604a401bc6024f5970daba5407ce9b22f3c886a72def35bd93",
+     "duration_s": 2.61225,
+     "reference": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ"
+    },
+    {
+     "verse": "102:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/102006.wav",
+     "sha256": "3d92a0ef050681b4bf002c87fd9bfbfc5f3acf6d50783eca2205ed16dc1d27b6",
+     "duration_s": 2.586125,
+     "reference": "لَتَرَوُنَّ الْجَحِيمَ"
+    },
+    {
+     "verse": "111:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/111003.wav",
+     "sha256": "56072036525a77b547c7fb99bb602c6b52cde895d42e4bab4d2a90ffe3a840e5",
+     "duration_s": 3.3698125,
+     "reference": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ"
+    },
+    {
+     "verse": "102:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/102004.wav",
+     "sha256": "51f56fe4cae47ae9513703d6aa53e508df538e6572182335e6732fe20dcc1892",
+     "duration_s": 3.813875,
+     "reference": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+     "verse": "104:4",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/104004.wav",
+     "sha256": "5184aa0cf809b926ec4b0e6e82c5ce62f3bb0947e813ca8005a4ec5acc9019f2",
+     "duration_s": 4.2318125,
+     "reference": "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ"
+    },
+    {
+     "verse": "102:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/102001.wav",
+     "sha256": "1be7b66cb3058ee8c008ac242a71d8befa33ff86ba6486f554371ffe33e33897",
+     "duration_s": 2.40325,
+     "reference": "أَلْهَاكُمُ التَّكَاثُرُ"
+    },
+    {
+     "verse": "91:8",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/091008.wav",
+     "sha256": "8de8ec8a7df889f9093fc24d362658a23ec04feaee650746aa3c843b53ffdab8",
+     "duration_s": 4.2056875,
+     "reference": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا"
+    },
+    {
+     "verse": "112:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/112002.wav",
+     "sha256": "ebc73a1b960b367b7e9434aff53fccaab49ef48f383b17115ad8843ccc1bc37b",
+     "duration_s": 2.0114375,
+     "reference": "اللَّهُ الصَّمَدُ"
+    },
+    {
+     "verse": "104:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/104002.wav",
+     "sha256": "cfddb18deb2e7bdb317406cc8bbb637c0af345208ecc5cb1e122fe7b35fe134c",
+     "duration_s": 3.813875,
+     "reference": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ"
+    },
+    {
+     "verse": "91:12",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/091012.wav",
+     "sha256": "46917d8f2401b8996292df0c0fe5a22bb0521b174849e2d1d56aa20eab9ebc3f",
+     "duration_s": 3.0040625,
+     "reference": "إِذِ انبَعَثَ أَشْقَاهَا"
+    },
+    {
+     "verse": "103:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/103001.wav",
+     "sha256": "0242d81ea1014744b6e75119153a6cf33581a0f09d8296f9d504cc1360e6d307",
+     "duration_s": 1.22775,
+     "reference": "وَالْعَصْرِ"
+    },
+    {
+     "verse": "78:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078002.wav",
+     "sha256": "3973023e00f8441194d4fbdc881329cddb8fc6d3eee54c05b4bb8b994930ed53",
+     "duration_s": 2.29875,
+     "reference": "عَنِ النَّبَإِ الْعَظِيمِ"
+    },
+    {
+     "verse": "104:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/104006.wav",
+     "sha256": "da984795ef4d1480c9459dc2d0cf69104aacbaf9c2983e04cb5fd068ec4d2627",
+     "duration_s": 2.8735,
+     "reference": "نَارُ اللَّهِ الْمُوقَدَةُ"
+    },
+    {
+     "verse": "78:10",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078010.wav",
+     "sha256": "fbcfdae7a20c7b92ae3c9211e720ea2d4e94a233e6b921ef9d161b6a9afe960f",
+     "duration_s": 3.1349375,
+     "reference": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا"
+    },
+    {
+     "verse": "94:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/094006.wav",
+     "sha256": "3e904d30cd7e161453d70dbd4772ea6ec54958a93e7305dc54d049aab4fdb52f",
+     "duration_s": 2.795125,
+     "reference": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+    },
+    {
+     "verse": "105:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/105002.wav",
+     "sha256": "8862da5f05be74badc0430e2735eb5772b89c50da62fa82045adefd0367b6a20",
+     "duration_s": 3.7109375,
+     "reference": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ"
+    },
+    {
+     "verse": "78:24",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078024.wav",
+     "sha256": "8bb7d76541a5f0209f5473c22e61f1394078ca7f0753059864c75d96a7feab32",
+     "duration_s": 5.0429375,
+     "reference": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا"
+    },
+    {
+     "verse": "107:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/107001.wav",
+     "sha256": "dcd8b08301ff4eebe59a933d39eda2020e9bf6689301707b1888d3a3f569f91f",
+     "duration_s": 3.552625,
+     "reference": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ"
+    },
+    {
+     "verse": "36:58",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/036058.wav",
+     "sha256": "d9683d7d38a4b001e2cdeeedc81b17b73f37fbb14cb563689cd57a4e7348ffa3",
+     "duration_s": 3.7109375,
+     "reference": "سَلَامٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ"
+    },
+    {
+     "verse": "102:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/102003.wav",
+     "sha256": "370b362996d3b4ef7a76891488aa6e35936cd2b6fd2c84cf4952f2065d15c3bf",
+     "duration_s": 2.586125,
+     "reference": "كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+     "verse": "107:6",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/107006.wav",
+     "sha256": "3e22530f61d7285873fa5b5cba35ba94a7b13bd3ab7d0a25daf9e9833078e874",
+     "duration_s": 3.0301875,
+     "reference": "الَّذِينَ هُمْ يُرَاءُونَ"
+    },
+    {
+     "verse": "87:18",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/087018.wav",
+     "sha256": "ebe62798af047429516ec980220483600c38d894791638dd6f409146e7357d2c",
+     "duration_s": 4.3363125,
+     "reference": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ"
+    },
+    {
+     "verse": "78:21",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078021.wav",
+     "sha256": "ae681aefd2d243dfdf1aa8234e21f7ad84e6a0e664fa1538ed7030a2b1b22c4e",
+     "duration_s": 4.4146875,
+     "reference": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا"
+    },
+    {
+     "verse": "109:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/109002.wav",
+     "sha256": "715f94e900fd1b3355ce7b57ce3203c916cc17989e08269ae57ac91c7269a2a5",
+     "duration_s": 3.1869375,
+     "reference": "لَا أَعْبُدُ مَا تَعْبُدُونَ"
+    },
+    {
+     "verse": "1:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/001002.wav",
+     "sha256": "c3e0d26865bffb0d2e88ab36396f532c7ae031c1e44a68c51ecd69bd06356e05",
+     "duration_s": 4.022875,
+     "reference": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
+    },
+    {
+     "verse": "101:7",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/101007.wav",
+     "sha256": "b394f926009cbeae6a470a7292b086be08ba3dbf892d94d1ae2c2e16020907ae",
+     "duration_s": 3.3175625,
+     "reference": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ"
+    },
+    {
+     "verse": "108:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/108002.wav",
+     "sha256": "fb058b044a326fa4e38af32336ef7d60f7855e1104d9ea1a683421083b6374a7",
+     "duration_s": 2.6669375,
+     "reference": "فَصَلِّ لِرَبِّكَ وَانْحَرْ"
+    },
+    {
+     "verse": "78:28",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078028.wav",
+     "sha256": "c4a19a3561008989ecd4455dfe5b4d4f27687f04f7ad23778ccb5a492e16d0da",
+     "duration_s": 4.2579375,
+     "reference": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا"
+    },
+    {
+     "verse": "1:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/001001.wav",
+     "sha256": "5f17b6523c7aebd2329cf0a1565b30dbcc03549a4095a90903597dc3e3698fee",
+     "duration_s": 3.84,
+     "reference": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"
+    },
+    {
+     "verse": "110:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/110001.wav",
+     "sha256": "da7550e9d3c617ffc08f16d6862159480ff2c5a5bd4c132d6a62bee007d3f5d0",
+     "duration_s": 4.5975625,
+     "reference": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ"
+    },
+    {
+     "verse": "78:22",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078022.wav",
+     "sha256": "69d66b9197b6a0ad0ae5dcfbe72c96b76f62b9efa36c5e305ce83dab9745d45f",
+     "duration_s": 2.8995625,
+     "reference": "لِّلطَّاغِينَ مَآبًا"
+    },
+    {
+     "verse": "78:25",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078025.wav",
+     "sha256": "b77aee8f0e0b4cc4d644243af9563b65eedbce58d9f6e1c55475ea50523c99b8",
+     "duration_s": 3.5265,
+     "reference": "إِلَّا حَمِيمًا وَغَسَّاقًا"
+    },
+    {
+     "verse": "87:13",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/087013.wav",
+     "sha256": "19c8f7c5f555134d57579586ff733309556f2e5cea5e80ea5b0b43268e9d02f4",
+     "duration_s": 4.5714375,
+     "reference": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ"
+    },
+    {
+     "verse": "98:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/098003.wav",
+     "sha256": "0fae8f103816009b9e0717e7366d71116f0574b14797f22ee74fff1e39e11f1c",
+     "duration_s": 3.1608125,
+     "reference": "فِيهَا كُتُبٌ قَيِّمَةٌ"
+    },
+    {
+     "verse": "91:15",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/091015.wav",
+     "sha256": "e8616340ba544f7b36367acd64f7fa0af0345b3d4c7bbbf3c913032759a3b706",
+     "duration_s": 3.2391875,
+     "reference": "وَلَا يَخَافُ عُقْبَاهَا"
+    },
+    {
+     "verse": "78:11",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078011.wav",
+     "sha256": "b667aaf88ac9733a7fbd820bc4dbce3a50729ca44708f8ca610fd5735960f57d",
+     "duration_s": 3.3698125,
+     "reference": "وَجَعَلْنَا النَّهَارَ مَعَاشًا"
+    },
+    {
+     "verse": "106:1",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/106001.wav",
+     "sha256": "b296b78fb5633744f3c699b7c1fb8f739e6766f95395ee3a3f684281753c02bc",
+     "duration_s": 2.533875,
+     "reference": "لِإِيلَافِ قُرَيْشٍ"
+    },
+    {
+     "verse": "78:30",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/078030.wav",
+     "sha256": "7375dc2ecef2bd02b60c8cd8e9b8f248cf5b86254d1ebfefb803ff7720b0fe06",
+     "duration_s": 5.093875,
+     "reference": "فَذُوقُوا فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا"
+    },
+    {
+     "verse": "87:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/087003.wav",
+     "sha256": "52884e0dcf1cde8e1c4fb047089d5405051c3eb964e1d22ad0f418fbf2aaf0bf",
+     "duration_s": 2.742875,
+     "reference": "وَالَّذِي قَدَّرَ فَهَدَىٰ"
+    },
+    {
+     "verse": "107:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/107002.wav",
+     "sha256": "5996bd335425f7cf1281072c8a826021f3ce8f1da92d0a279041827f2e0a82ca",
+     "duration_s": 3.7109375,
+     "reference": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ"
+    },
+    {
+     "verse": "113:3",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/113003.wav",
+     "sha256": "3814875e3b220caa9a43bf074ba10301eb6abd0dac79a7dbc69445bcca20af72",
+     "duration_s": 4.049,
+     "reference": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+    },
+    {
+     "verse": "94:2",
+     "path": "/Users/Apple/Desktop/sajlina_train/audio/Muhsin_AlQasim_EA/094002.wav",
+     "sha256": "e0755628e91082b346aca0d7bb16b46539025fe0cb8247049d53d914670846e7",
+     "duration_s": 2.742875,
+     "reference": "وَوَضَعْنَا عَنكَ وِزْرَكَ"
+    }
+   ]
+  }
+ }
+}

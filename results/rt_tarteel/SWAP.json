@@ -1,0 +1,24 @@
+{
+ "device": "cuda",
+ "whisper_weights_dir": "C:\\phon\\eval\\modelcache\\models--tarteel-ai--whisper-base-ar-quran\\snapshots\\5c3c53fdf9272c4f6ee0bee09a1e5a4a615ee25c",
+ "arms": "roundtrip",
+ "sha256": {
+  ".gitattributes": "db7c0371f46f0840b8f25794c1e3321c9b5820a8cb6ba9694a46fc64b8fae5a6",
+  ".gitignore": "750c10cd267eec2ff1b7afb10688e624b33cf558eef41ed63e00ef640e7fe38a",
+  "added_tokens.json": "5687ef031827f4c9fa3e7cbdd7fd915de0d6c7c6416463a28c63cbe1cf99a07a",
+  "all_results.json": "bf582bb0d428128d26717b1b0c7c3aece8c959979e16d708feb79fc26a6ac449",
+  "config.json": "31e690221f47d7505f9d14c807a241c941aef7815ba1132654f1b7feea2cdbae",
+  "eval_results.json": "ced859a5e2d72b2fb9a36908491d3e51962c35e95e5b5764a9e4f91c47cf009e",
+  "merges.txt": "78f27f801feb4283ae969d4cadacb28fc051b655647402b1a252c7079ea11c46",
+  "normalizer.json": "bf1c507dc8724ca9cf9903640dacfb69dae2f00edee4f21ceba106a7392f26dd",
+  "preprocessor_config.json": "9b5cd03a36fbb8a627c64d98a5b5b126ead95a77720723944487311f0110b666",
+  "pytorch_model.bin": "ec75894993a4570a237b2b1c19fd8a448f1e8f6e083cfab699574f7be53874fa",
+  "README.md": "243246b49329ac0f33f5fa260d7bf60dcefa325542d4aa5bcf9637057e633aed",
+  "special_tokens_map.json": "87870d95726faac1641b583cbbb6d8a0c22deab726bcaeac9bb06c350bc638b1",
+  "tokenizer_config.json": "70e1ec9195ccd4baebf920c7e9f8cdd90f37a2b8aebcf305095c2dff074d1260",
+  "train_results.json": "3e8c93dcf4f6029e7e0e94a679b7d50ba9ccc9befc832f61fdf17ece6f9e5ea5",
+  "trainer_state.json": "5d8343170a9c8df6311deefdb0bd55a478b05d07d55018bb9da5894b751d26d9",
+  "training_args.bin": "91c6a8514089dbd3f3c1004bb6219bbeb8d96a44f7da0161c1bcdbe3ec8b2485",
+  "vocab.json": "e2aa043ef015641d363d8288e7c241c85e36a5c761fb303598e0710233344387"
+ }
+}
