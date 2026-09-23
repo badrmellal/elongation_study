@@ -2,7 +2,7 @@
 
 Code, protocols, saved outputs and executed notebooks for the ICASSP 2027 submission
 *"Local Lengthening Versus Global Slowing in Speech Recognition: Controlling
-Time-Stretch Artifacts and Fine-Tuning Exposure"* (B. Mellal, LRIT, Mohammed V University in Rabat).
+Time-Stretch Artifacts and Fine-Tuning Exposure"*
 
 **Question.** At equal added duration, is lengthening a few vowels harder for a speech recogniser than
 slowing the whole utterance? Qur'anic recitation provides the targets: vowel lengthening (madd) is marked in
