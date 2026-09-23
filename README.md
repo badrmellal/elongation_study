@@ -30,7 +30,6 @@ src/original/  the study's original evaluation code (stimulus construction, reco
 src/training/  data preparation and fine-tuning (M0: train.py; M1, M2: train_exposure.py)
 src/evaluation/ runners that call the original code with swapped weights; round-trip and dose-response arms
 src/analysis/  analysis scripts used for the paper, and stats.py used by the notebooks
-tools/         build_notebooks.py (builds and executes the notebooks)
 ```
 
 ## How the experiments were run
@@ -85,7 +84,7 @@ exposure tests rely on. See `protocols/PROTOCOL_exposure.md`, Amendment 3, and n
 
 ```bash
 uv venv .venv --python 3.13 && uv pip install -r requirements.txt
-.venv/bin/python tools/build_notebooks.py        # re-executes all notebooks
+cd notebooks && ../.venv/bin/jupyter-execute --inplace *.ipynb   # re-executes all notebooks
 ```
 
 Notebooks 01, 02 and 04 need only the files in this repository. Notebook 03 needs a local copy of the
